@@ -1,0 +1,167 @@
+{
+  "run_at": "2026-08-09T20:36:30Z",
+  "profile_version": "bd9d31fb777f87772e241c20e07bce06149ed8ad996dc3b3b63e1fad42d1b8d2",
+  "feeds": [
+    {
+      "url": "https://github.blog/changelog/feed/",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "url": "https://github.blog/feed/",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "url": "https://github.com/anthropics/claude-code/releases.atom",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "url": "https://rsshub.bestblogs.dev/anthropic/news",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "url": "https://github.com/anomalyco/opencode/releases.atom",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "url": "https://devblogs.microsoft.com/dotnet/feed/",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "url": "https://github.com/dotnet/core/releases.atom",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "url": "https://code.visualstudio.com/feed.xml",
+      "ok": true,
+      "items": 50
+    },
+    {
+      "url": "https://cursor.com/changelog/rss.xml",
+      "ok": true,
+      "items": 50
+    },
+    {
+      "url": "https://martinfowler.com/feed.atom",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "url": "https://blog.ploeh.dk/rss.xml",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "url": "https://andrewlock.net/rss.xml",
+      "ok": true,
+      "items": 25
+    },
+    {
+      "url": "https://codeopinion.com/feed/",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "url": "https://milanjovanovic.tech/rss/feed.xml",
+      "ok": true,
+      "items": 206
+    },
+    {
+      "url": "https://simonwillison.net/atom/entries/",
+      "ok": true,
+      "items": 15
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/dotnet/feed/",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "url": "https://devblogs.microsoft.com/devops/feed/",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "url": "https://www.alvinashcraft.com/feed.xml",
+      "ok": true,
+      "items": 20,
+      "rows_found": 1686,
+      "rows_kept": 1104,
+      "sections": {
+        "Top Links": 124,
+        "Web and Cloud Development": 196,
+        "Windows Development": 53,
+        ".NET and Visual Studio": 79,
+        "AI": 365,
+        "Design, DevOps and Methodology": 145,
+        "Mobile and Game Development": 68,
+        "Screencasts and Videos": 117,
+        "Podcasts": 184,
+        "Community and Events": 54,
+        "Database": 66,
+        "Sharepoint, Teams and Microsoft 365": 25,
+        "Writing": 16,
+        "General": 66,
+        "More Link Collections": 65,
+        "Tools": 29,
+        "Python": 13,
+        "PowerShell and Terminal": 21
+      }
+    },
+    {
+      "url": "https://www.frankysnotes.com/feeds/posts/default?alt=rss",
+      "ok": true,
+      "items": 25,
+      "rows_found": 181,
+      "rows_kept": 159,
+      "sections": {
+        "AI": 63,
+        "Cloud": 4,
+        "Databases": 7,
+        "Programming": 27,
+        "Miscellaneous": 18,
+        "DevOps": 8,
+        "Podcasts": 18,
+        "Suggestion of the week": 5,
+        "Open Source": 3,
+        "Data": 2,
+        "MS Build": 2,
+        "All the Code": 8,
+        "Podcast": 4,
+        "References": 4,
+        "Step 3: Set Up Keycloak for Non-Aspire (aka prod) Deployments": 2,
+        "Useful links": 3,
+        "What You'll Need": 1
+      }
+    },
+    {
+      "url": "https://news.ycombinator.com/",
+      "ok": true,
+      "items": 21
+    }
+  ],
+  "config_problems": [
+    "drop-list entry \"Dometrain Course\" matched no rows in this run",
+    "drop-list entry \"The Geek Shelf\" matched no rows in this run"
+  ],
+  "unscored": 0,
+  "popularity": [
+    {
+      "source": "hn",
+      "measured": 1689,
+      "failed": 0
+    },
+    {
+      "source": "bluesky",
+      "measured": 1297,
+      "failed": 392,
+      "error": "HTTP 403 from https://api.bsky.app/xrpc/app.bsky.feed.searchPosts"
+    }
+  ]
+}
