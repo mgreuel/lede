@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-08-09T20:36:30Z",
+  "run_at": "2026-08-09T23:44:25Z",
   "profile_version": "bd9d31fb777f87772e241c20e07bce06149ed8ad996dc3b3b63e1fad42d1b8d2",
   "feeds": [
     {
@@ -143,7 +143,7 @@
     {
       "url": "https://news.ycombinator.com/",
       "ok": true,
-      "items": 21
+      "items": 16
     }
   ],
   "config_problems": [
@@ -154,13 +154,13 @@
   "popularity": [
     {
       "source": "hn",
-      "measured": 1689,
+      "measured": 1692,
       "failed": 0
     },
     {
       "source": "bluesky",
       "measured": 1297,
-      "failed": 392,
+      "failed": 395,
       "error": "HTTP 403 from https://api.bsky.app/xrpc/app.bsky.feed.searchPosts"
     }
   ]
