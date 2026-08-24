@@ -6,33 +6,37 @@ Open it at **https://mgreuel.github.io/lede/**.
 
 ![The Lede front page](docs/screenshot.png)
 
-1. **The masthead.** One line tells you when the data is from — "Data as of 20:36 today", or an absolute date once it's more than 36 hours old, so staleness is never ambiguous. A "· N problems" marker appears next to it only when something went wrong overnight; a healthy night shows nothing. Click it and a panel expands in place: which sources answered, anything wrong with your configuration, and how many articles couldn't be graded. Nothing is ever pushed at you — no banners, no toasts to dismiss. Once you've hidden anything, a count and a **Show hidden** toggle appear here too.
-2. **The local-only notice.** Shown once, until you dismiss it, if your reading state is being kept in this browser alone. **Set up syncing** takes you straight to the settings panel.
-3. **Today's lede.** Three hero picks, drawn from everything unread across the whole 30-day window rather than just today, so a good article you haven't seen isn't buried by newer ones. They hold a fixed slot: re-sorting the index never moves them. Picks are the only place **Why it's here** appears — the model's own reason — so you can tell whether it understood why you'd care. A **Lifted** badge means an article was promoted a grade because it's being widely shared.
-4. **Sorting.** Score, Date or Topic, with the direction beside it.
-5. **The index.** Everything else, below the picks. Each row carries its summary clamped to two lines, where it came from, the date, the author, and how much attention it's getting elsewhere. Nothing is hidden from you by the editorial choice.
-6. **Settings**, top right. Where you turn on syncing your reading state between devices — see below.
+The page is a **desk**: a rail down the left that never moves, and one list of articles scrolling beside it.
 
-## Reading the index
+1. **The rail.** Everything that narrows or reorders the list, still there on the twentieth screen of scrolling. It carries the app's name and **Settings**; when the data is from — "Data as of 20:36, 19 Aug 2026", always the full instant, so you can judge for yourself how old a run is rather than being told; the four orders; the way back to what you've hidden; and the fold over what the model set aside. Under the timestamp, on a night that didn't go to plan, one line says so and nothing more: what actually went wrong is a question for the private repository and the workflow log, not for a public page. A healthy night shows nothing at all, so the absence of that line is itself the statement that the run was fine. Nothing is ever pushed at you — no banners, no toasts to dismiss.
+2. **The order.** Score, Date, Reaction or Topic. Press the one the list is already in and it reverses, so choosing an order and turning it round are one gesture rather than two controls.
+3. **The list header.** How many articles you're looking at and which order they're in, stuck to the top while you scroll.
+4. **The list.** Every article the filters leave, one after another, with nothing that stops to ask permission to continue. Each row carries its grade in a column at the left, the headline, its summary, where it came from, the date, and how much attention it's getting elsewhere. Grouped by topic, each heading says how many rows are under it and stays on screen while you're inside that group.
+5. **The local-only notice.** Shown once, until you dismiss it, if your reading state is being kept in this browser alone. **Set up syncing** takes you straight to the settings panel, which opens at the top of the list.
+
+## Reading the list
 
 - A summary written for you is labelled **Summary generated**, so you always know whose words you're reading.
 - An article that arrived with nothing but a headline is shown with no summary at all, rather than an invented one. You are never misled by a confabulation.
+- A **Lifted** badge means an article was promoted a grade because it's being widely shared.
 - Popularity is shown as raw numbers per source — Hacker News points and comments, how many feeds carried it, Bluesky likes — never as one blended score, so you can judge what kind of attention it got. *Never measured* looks different from *measured and ignored*: you never read silence as a verdict.
-- Sort by score, by date, or group by topic. Score and date sort both ways. Score is the default. Sorting is for this visit only — it isn't remembered, and reloading resets it.
+- The default order is your grade first, then how hard the world actually reacted to the article, then how new it is — so a thousand equally-graded articles are not in an arbitrary order. **Reaction** asks that second question first, if you'd rather go looking for what everyone is talking about than for what your profile says you want.
+- The order is for this visit only — it isn't remembered, and reloading resets it.
 
 ## Read and dismissed
 
 - Opening an article counts as reading it. There's no bookkeeping to do.
 - Each row has a dismiss button for something graded too highly.
 - Either way the row disappears at once and an undo toast appears at the bottom. A mis-tap costs nothing.
-- Hidden is never lost. The masthead's count and **Show hidden** bring them back.
-- Two empty states, told apart: a genuinely quiet day reads differently from a day you've finished.
+- Hidden is never lost. The rail's count and **Show hidden** bring them back.
+- What the model rejected outright — a veto rule of yours, or a grade of nought — is out of the list but never dropped. **Show what the model set aside** in the rail says how many there are and puts them at the foot of the list, so a rule that matches too much is something you can find and fix.
+- Three empty states, told apart: a genuinely quiet day, a day you've finished, and a night no run reported on. *No news* is never shown as *no run*.
 
 ## Reading state across devices
 
 By default everything stays in this browser. No account, no setup, nothing to configure — trying the site costs nothing.
 
-Turn on sync and your reading history follows you between laptop and phone, so you never triage the same article twice.
+Turn on sync and your reading history follows you between machines, so you never triage the same article twice.
 
 The articles are public, but what you read is nobody's business. So your reading history is kept in a private repository that belongs to you — not in this one, and not on any server of ours. There is no server; the site is a set of static files.
 
@@ -42,4 +46,6 @@ The settings panel walks you through both steps.
 
 ## Everywhere else
 
-Light, dark and system colour schemes are all respected, and the site works on a phone.
+Light, dark and system colour schemes are all respected.
+
+This is a desktop surface. The rail is permanent at every width the page supports, and there is no phone layout — that's a decision about the viewport and not about access: everything a hover tells you is also said in words, so nothing is reachable only by pointing at it.
