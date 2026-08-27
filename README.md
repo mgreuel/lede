@@ -16,7 +16,6 @@ The page is a **desk**: a rail down the left that never moves, and one list of a
 
 ## Reading the list
 
-- A summary written for you is labelled **Summary generated**, so you always know whose words you're reading.
 - An article that arrived with nothing but a headline is shown with no summary at all, rather than an invented one. You are never misled by a confabulation.
 - A **Lifted** badge means an article was promoted a grade because it's being widely shared.
 - Popularity is shown as raw numbers per source — Hacker News points and comments, how many feeds carried it, Bluesky likes — never as one blended score, so you can judge what kind of attention it got. *Never measured* looks different from *measured and ignored*: you never read silence as a verdict.
