@@ -63840,12 +63840,12 @@
     "state": "scored",
     "score": 5,
     "tags": [
+      "Coding agents",
       "Software design",
-      "Engineering practice",
-      "Coding agents"
+      "Engineering practice"
     ],
-    "reason": "It promises\npractical guidance on specifications and AI-assisted planning, but the brief description provides\nlimited evidence of depth or applicability.",
-    "profile_version": "5efb6f36091e572951233d2c44a27018711f18924192c8494c9b104949ae7ab0",
+    "reason": "It promises\npractical guidance on planning software and using AI-assisted development, but the brief description\n provides limited evidence of depth.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
     "lift": false,
     "summary": "Learn how Spec-Driven Development uses specifications, technical planning, and AI-assisted development to reduce ambiguity, rework, and implementation risk.",
     "summary_source": "og",
