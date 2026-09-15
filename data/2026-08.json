@@ -59472,15 +59472,15 @@
       }
     ],
     "state": "scored",
-    "score": 8,
+    "score": 6,
     "tags": [
       "Coding agents",
-      "Evals",
       "Claude",
+      "Evals",
       "Engineering practice"
     ],
-    "reason": "It offers a\npractical framework for managing planning, review, testing, evaluation, and operational feedback\nwhen coding agents reshape software delivery.",
-    "profile_version": "5efb6f36091e572951233d2c44a27018711f18924192c8494c9b104949ae7ab0",
+    "reason": "It offers a\npractical framework for using Claude throughout software delivery, focusing on the planning, review,\n testing, and feedback bottlenecks AI exposes.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
     "lift": false,
     "summary": "The playbook argues that AI-accelerated coding shifts bottlenecks to\nplanning, review, testing, deployment, and maintenance. It proposes versioned artifacts, automated\nhandoffs, continuous evaluation, layered review, and production feedback loops using Claude across\nthe lifecycle.",
     "summary_source": "extracted",

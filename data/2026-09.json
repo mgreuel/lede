@@ -5025,6 +5025,12 @@
         "seen_at": "2026-09-04T11:40:25Z",
         "via_item": "https://alvinashcraft.com/2026/09/03/dew-drop-september-3-2026-4746/",
         "section": "AI"
+      },
+      {
+        "feed_id": "https://www.frankysnotes.com/feeds/posts/default?alt=rss",
+        "seen_at": "2026-09-15T03:41:28Z",
+        "via_item": "https://www.frankysnotes.com/2026/09/reading-notes-713.html",
+        "section": "AI"
       }
     ],
     "state": "scored",
@@ -19769,6 +19775,12 @@
         "seen_at": "2026-09-11T03:42:01Z",
         "via_item": "https://alvinashcraft.com/2026/09/08/dew-drop-september-8-2026-4748/",
         "section": "Top Links"
+      },
+      {
+        "feed_id": "https://www.frankysnotes.com/feeds/posts/default?alt=rss",
+        "seen_at": "2026-09-15T03:41:28Z",
+        "via_item": "https://www.frankysnotes.com/2026/09/reading-notes-713.html",
+        "section": "AI"
       }
     ],
     "state": "scored",
@@ -23395,6 +23407,12 @@
         "seen_at": "2026-09-11T03:42:01Z",
         "via_item": "https://alvinashcraft.com/2026/09/09/dew-drop-september-9-2026-4749/",
         "section": "AI"
+      },
+      {
+        "feed_id": "https://www.frankysnotes.com/feeds/posts/default?alt=rss",
+        "seen_at": "2026-09-15T03:41:28Z",
+        "via_item": "https://www.frankysnotes.com/2026/09/reading-notes-713.html",
+        "section": "AI"
       }
     ],
     "state": "scored",
@@ -23874,6 +23892,12 @@
         "seen_at": "2026-09-11T03:42:01Z",
         "via_item": "https://alvinashcraft.com/2026/09/09/dew-drop-september-9-2026-4749/",
         "section": "Design, DevOps and Methodology"
+      },
+      {
+        "feed_id": "https://www.frankysnotes.com/feeds/posts/default?alt=rss",
+        "seen_at": "2026-09-15T03:41:28Z",
+        "via_item": "https://www.frankysnotes.com/2026/09/reading-notes-713.html",
+        "section": "AI"
       }
     ],
     "state": "scored",
@@ -30393,7 +30417,7 @@
     "summary": "What's changed Fixed read-only git commands in Bash unexpectedly asking for permission after a session had been running for a while (regression in 2.1.269)",
     "summary_source": "feed",
     "popularity": {
-      "measured_at": "2026-09-14T03:41:19Z",
+      "measured_at": "2026-09-15T03:41:28Z",
       "hn": null,
       "bluesky": null
     },
@@ -30426,7 +30450,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-09-14T03:41:19Z",
+      "measured_at": "2026-09-15T03:41:28Z",
       "hn": null,
       "bluesky": null
     },
@@ -30458,7 +30482,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-09-14T03:41:19Z",
+      "measured_at": "2026-09-15T03:41:28Z",
       "hn": null,
       "bluesky": null
     },
@@ -30490,7 +30514,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-09-14T03:41:19Z",
+      "measured_at": "2026-09-15T03:41:28Z",
       "hn": null,
       "bluesky": null
     },
@@ -30524,7 +30548,7 @@
     "summary": "The author used ChatGPT Work with GPT-6 Astra to generate looped\nrunning routes from OpenStreetMap data, including visualizations and downloadable files. They\ncriticize the system for hiding executed code and losing it after conversation compaction.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-09-14T03:41:19Z",
+      "measured_at": "2026-09-15T03:41:28Z",
       "hn": null,
       "bluesky": null
     },
@@ -30545,22 +30569,19 @@
       }
     ],
     "state": "scored",
-    "score": 3,
+    "score": 1,
     "tags": [],
     "reason": "This satirical argument about pausing frontier AI research offers\nlittle practical value for a developer using AI tools.",
     "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
-    "lift": true,
+    "lift": false,
     "summary": "The article mockingly proposes\nthat the AI industry pause frontier-model development while the author's fictional lab catches up\nand pursues cat-ear-related AGI goals. It parodies AI safety rhetoric, corporate self-interest, and\nalignment concerns. 天天好",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-09-14T03:41:19Z",
-      "hn": {
-        "points": 756,
-        "comments": 439
-      },
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights",
@@ -30589,7 +30610,7 @@
     "summary": "Dear Dario, You published We Must Pace the Frontier today, which committed Anthropic to embedded third-party evaluators and asked governments to require every other frontier company to match. Sam Altman agreed within hours.1 The stated goal is to slow down the pace of AI progress. I believe you’re being sincere, so I’m asking you to call for a different law, one that would actually slow things down, even though it would require real sacrifice on your part.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-14T03:41:19Z",
+      "measured_at": "2026-09-15T03:41:28Z",
       "hn": null,
       "bluesky": null
     },
@@ -30621,7 +30642,7 @@
     "summary": "I noticed today that an update to the #Linux #Zoom client has made it start proactively reading _everything_ written to the X11 clipboard. If you keep interesting secrets in your clipboard – particularly, if a password manager uses it as a means of getting the password to where it needs to be – this might be a thing you need to know about!",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-14T03:41:19Z",
+      "measured_at": "2026-09-15T03:41:28Z",
       "hn": null,
       "bluesky": null
     },
@@ -30650,7 +30671,7 @@
     "summary": "The\n tutorial explains how to install JOSM, find nearby shops or amenities lacking website information,\nverify their official websites, and upload edits to OpenStreetMap. It also suggests adding further\nbusiness details or contributing more edits.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-09-14T03:41:19Z",
+      "measured_at": "2026-09-15T03:41:28Z",
       "hn": null,
       "bluesky": null
     },
@@ -30679,7 +30700,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-09-14T03:41:19Z",
+      "measured_at": "2026-09-15T03:41:28Z",
       "hn": null,
       "bluesky": null
     },
@@ -30711,7 +30732,7 @@
     "summary": "The essay argues that accelerating AI progress now requires deliberate pacing\nrather than a halt. Anthropic proposes embedded third-party evaluators, democratic industry\ncoordination, and eventual global coordination to give alignment, interpretability, testing, and\noperational safeguards time to catch up.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-09-14T03:41:19Z",
+      "measured_at": "2026-09-15T03:41:28Z",
       "hn": null,
       "bluesky": null
     },
@@ -30744,7 +30765,7 @@
     "summary": "The author describes a creative crisis\ncaused by generative AI and the perceived devaluation of programming and game development. After\ntalking with a friend who continues building without AI, they choose to keep making things the\ndifficult, personally satisfying way.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-09-14T03:41:19Z",
+      "measured_at": "2026-09-15T03:41:28Z",
       "hn": null,
       "bluesky": null
     },
@@ -30772,7 +30793,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-09-14T03:41:19Z",
+      "measured_at": "2026-09-15T03:41:28Z",
       "hn": null,
       "bluesky": null
     },
@@ -30802,7 +30823,7 @@
     "summary": "The Millennium Prize Problems were unveiled by the Clay Mathematics Institute (CMI) at a meeting in Paris in 2000 to celebrate “The Universality of Mathematical Thought”. These problems encapsulate some of the most difficult challenges that mathematicians were grappling with at the turn of the millennium. CMI’s purpose in articulating these problems and attaching a […]",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-14T03:41:19Z",
+      "measured_at": "2026-09-15T03:41:28Z",
       "hn": null,
       "bluesky": null
     },
@@ -30831,7 +30852,7 @@
     "summary": "Piloterr is a software platform that enables forward-thinking companies to leverage the full potential of the web.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-14T03:41:19Z",
+      "measured_at": "2026-09-15T03:41:28Z",
       "hn": null,
       "bluesky": null
     },
@@ -30852,25 +30873,22 @@
       }
     ],
     "state": "scored",
-    "score": 7,
+    "score": 5,
     "tags": [
       "Claude",
       "LLMs"
     ],
     "reason": "It offers a detailed example of Claude solving an\nobscure problem, illustrating model persistence and capability beyond coding\nworkflows.",
     "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
-    "lift": true,
+    "lift": false,
     "summary": "The article describes Claude Fable 5.1 decoding two long-unsolved ciphers by\nrecognizing clues in Thomas Urquhart’s books. It explains the indexing method, partial\nuncertainties, and what the experiment suggests about models tackling neglected research problems.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-09-14T03:41:19Z",
-      "hn": {
-        "points": 567,
-        "comments": 248
-      },
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://twitter.com/TechEmails/status/2099214399840059428",
@@ -30894,14 +30912,11 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-09-14T03:41:19Z",
-      "hn": {
-        "points": 285,
-        "comments": 123
-      },
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 2
+    "heat": 0
   },
   {
     "url": "https://dreamstation.systems/personal/tesla.html",
@@ -30929,14 +30944,11 @@
     "summary": "An Assetnote scanner mistakenly treated volunteer NTP servers as Tesla\ninfrastructure because of a CNAME, sending tens of thousands of exploit probes to unrelated\nmachines. The author documents the payloads, affected servers, and eventual resolution after\nAssetnote investigated.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-09-14T03:41:19Z",
-      "hn": {
-        "points": 415,
-        "comments": 113
-      },
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco",
@@ -30962,14 +30974,11 @@
     "summary": "Changing your own oil has traditionally been one of the easiest ways to save money on car maintenance. For Costco members, Kirkland Signature synthetic oil",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-14T03:41:19Z",
-      "hn": {
-        "points": 201,
-        "comments": 175
-      },
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
@@ -30987,22 +30996,19 @@
       }
     ],
     "state": "scored",
-    "score": 3,
+    "score": 1,
     "tags": [],
     "reason": "It concerns Google ad moderation and deceptive consumer design, with\nlittle practical relevance to production .NET development or coding tools.",
     "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
-    "lift": true,
+    "lift": false,
     "summary": "I accidentally clicked a shady YouTube ad that mimics an iOS “Storage Full” alert, reported it (twice), and Google still said it was fine. Meanwhile, Gemini flags it in seconds for deceptive design...",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-14T03:41:19Z",
-      "hn": {
-        "points": 654,
-        "comments": 305
-      },
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
@@ -31019,21 +31025,18 @@
       }
     ],
     "state": "scored",
-    "score": 3,
+    "score": 1,
     "tags": [],
     "reason": "It concerns AI regulation and frontier-model policy rather than\npractical development tools, platform changes, or coding-agent practice.",
     "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
-    "lift": true,
+    "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-09-14T03:41:19Z",
-      "hn": {
-        "points": 283,
-        "comments": 208
-      },
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
@@ -31059,14 +31062,11 @@
     "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-14T03:41:19Z",
-      "hn": {
-        "points": 369,
-        "comments": 207
-      },
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
@@ -31083,23 +31083,20 @@
       }
     ],
     "state": "scored",
-    "score": 6,
+    "score": 4,
     "tags": [
       "Evals"
     ],
     "reason": "The title suggests practical evaluation work, but provides too\n little evidence to judge its depth or usefulness to practitioners.",
     "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
-    "lift": true,
+    "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-09-14T03:41:19Z",
-      "hn": {
-        "points": 396,
-        "comments": 180
-      },
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://theverge.com/column/994172/your-car-is-selling-your-data",
@@ -31125,14 +31122,11 @@
     "summary": "The amount of data about you that many cars collect — and sell to third parties — is staggering.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-14T03:41:19Z",
-      "hn": {
-        "points": 333,
-        "comments": 172
-      },
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation",
@@ -31158,14 +31152,11 @@
     "summary": "Questions about privacy and oversight surrounding Flock Safety's national camer network persist",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-14T03:41:19Z",
-      "hn": {
-        "points": 343,
-        "comments": 252
-      },
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00?p=112689",
@@ -31191,14 +31182,11 @@
     "summary": "The article\nexplains why x86 has the reliably invalid ud2 instruction and how it differs from older undefined\nopcode sequences. It also describes why operand decoding and page boundaries make those older\nalternatives unreliable.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-09-14T03:41:19Z",
-      "hn": {
-        "points": 219,
-        "comments": 50
-      },
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 2
+    "heat": 0
   },
   {
     "url": "https://brew.sh/2026/09/13/homebrew-7.0.0",
@@ -31216,22 +31204,19 @@
       }
     ],
     "state": "scored",
-    "score": 3,
+    "score": 1,
     "tags": [],
     "reason": "Homebrew's release changes macOS package management, but it is\noutside the reader's primary .NET, cloud, architecture, and coding-agent interests.",
     "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
-    "lift": true,
+    "lift": false,
     "summary": "Today, I’m proud to announce Homebrew 7.0.0. The most significant changes since 6.0.0 are faster installations and upgrades, stronger sandboxing, a native macOS app, built-in vulnerability checks and an advisory database, the end of macOS 10.15 support and Intel Macs moving to Tier 3.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-14T03:41:19Z",
-      "hn": {
-        "points": 569,
-        "comments": 230
-      },
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
@@ -31249,24 +31234,21 @@
       }
     ],
     "state": "scored",
-    "score": 3,
+    "score": 1,
     "tags": [
       "Security"
     ],
     "reason": "It is a compact remote KVM product, with little connection\nto .NET, software architecture, or the reader's primary tools.",
     "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
-    "lift": true,
+    "lift": false,
     "summary": "JetKVM Mini is a smaller,\n lower-cost wired or wireless remote KVM launching in October 2026. It offers 1080p capture, USB\ncontrol, virtual media, cloud access, open-source firmware, and optional secure boot.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-09-14T03:41:19Z",
-      "hn": {
-        "points": 531,
-        "comments": 217
-      },
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
@@ -31284,25 +31266,22 @@
       }
     ],
     "state": "scored",
-    "score": 9,
+    "score": 7,
     "tags": [
       "Coding agents",
       "Security"
     ],
     "reason": "It examines agent misbehaviour, deception\nand coordination—important risks for developers deploying coding agents, though the excerpt offers\nlimited practical detail.",
     "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
-    "lift": true,
+    "lift": false,
     "summary": "A lot has been written about the incidents of the last few months in which AI agents misbehaved in serious ways. They took actions that would be considered as crimes if a human took them, escaped their containment to cheat on assigned tasks while attempting to evade detection, and coordinated toward goals nobody had specified, such as launching cyber attacks. Before concluding what to do about it, it is worth asking why.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-14T03:41:19Z",
-      "hn": {
-        "points": 602,
-        "comments": 658
-      },
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
@@ -31326,14 +31305,11 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-09-14T03:41:19Z",
-      "hn": {
-        "points": 251,
-        "comments": 382
-      },
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://withspecific.com/benchmarks/real-swe",
@@ -31362,10 +31338,561 @@
     "summary": "Real-SWE benchmarks frontier AI models on private production codebases licensed from real companies. Eight model and harness configurations, ten tasks, 640 scored rollouts.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-14T03:41:19Z",
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://github.blog/changelog/2026-09-14-configure-cost-and-quality-in-copilot-auto-model-selection",
+    "title": "Configure cost and quality in Copilot auto model selection",
+    "source": "Archive: 2026 - GitHub Changelog",
+    "publisher": "Archive: 2026 - GitHub Changelog",
+    "publisher_source": "feed",
+    "author": "Allison",
+    "published": "2026-09-14T16:05:27Z",
+    "published_source": "feed",
+    "arrivals": [
+      {
+        "feed_id": "https://github.blog/changelog/feed/",
+        "seen_at": "2026-09-15T03:41:28Z"
+      }
+    ],
+    "state": "scored",
+    "score": 6,
+    "tags": [
+      "GitHub Copilot",
+      "Releases",
+      "LLMs"
+    ],
+    "reason": "A relevant Copilot capability\nchange for managing model cost, quality, and speed, though the brief announcement provides limited\nevidence of practical impact.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "GitHub Copilot auto model selection now offers three tiers: efficiency, balance, and intelligence. Choose the tier that reflects how you want auto to weigh cost, quality, and response time for… The post Configure cost and quality in Copilot auto model selection appeared first on The GitHub Blog .",
+    "summary_source": "feed",
+    "popularity": {
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.272",
+    "title": "v2.1.272",
+    "source": "Release notes from claude-code",
+    "publisher": "Release notes from claude-code",
+    "publisher_source": "feed",
+    "author": "ashwin-ant",
+    "published": "2026-09-15T00:42:25Z",
+    "published_source": "feed-updated",
+    "arrivals": [
+      {
+        "feed_id": "https://github.com/anthropics/claude-code/releases.atom",
+        "seen_at": "2026-09-15T03:41:28Z"
+      }
+    ],
+    "state": "scored",
+    "score": 5,
+    "tags": [
+      "Claude Code",
+      "Releases"
+    ],
+    "reason": "A Claude Code release is relevant to the\nreader, but the title alone gives no evidence of what changed or whether it adds meaningful\ncapability.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.271",
+    "title": "v2.1.271",
+    "source": "Release notes from claude-code",
+    "publisher": "Release notes from claude-code",
+    "publisher_source": "feed",
+    "author": "ashwin-ant",
+    "published": "2026-09-14T22:12:54Z",
+    "published_source": "feed-updated",
+    "arrivals": [
+      {
+        "feed_id": "https://github.com/anthropics/claude-code/releases.atom",
+        "seen_at": "2026-09-15T03:41:28Z"
+      }
+    ],
+    "state": "scored",
+    "score": 8,
+    "tags": [
+      "Claude Code",
+      "Releases",
+      "Coding agents",
+      "MCP",
+      "Security"
+    ],
+    "reason": "This release\n changes Claude Code’s agent workflows, permissions, MCP reliability, remote sessions, and safety\ncontrols in ways daily users will notice.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Claude Code v2.1.271 adds fast mode for remote\n sessions, per-command domain permissions, improved subagent and artifact workflows, and expanded\nterminal and VS Code support. It also fixes numerous policy, MCP, session-resume, rendering,\nperformance, and reliability issues.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://github.com/anomalyco/opencode/releases/tag/v1.18.31",
+    "title": "v1.18.31",
+    "source": "Release notes from opencode",
+    "publisher": "Release notes from opencode",
+    "publisher_source": "feed",
+    "author": "opencode-agent[bot]",
+    "published": "2026-09-14T17:47:30Z",
+    "published_source": "feed-updated",
+    "arrivals": [
+      {
+        "feed_id": "https://github.com/anomalyco/opencode/releases.atom",
+        "seen_at": "2026-09-15T03:41:28Z"
+      }
+    ],
+    "state": "scored",
+    "score": 6,
+    "tags": [
+      "OpenCode",
+      "Releases",
+      "GitHub Copilot"
+    ],
+    "reason": "A relevant OpenCode release\nrestores session behavior and adds Copilot adaptive-thinking support, though it is primarily a\nroutine bugfix update.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Core Bugfixes Restored ACP session model, effort, mode, and reasoning chunk boundaries when loading, resuming, or forking sessions. ( @JacobNWolf ) TUI Bugfixes Show remote config authentication errors during startup and exit with a failure status. Extensions Improvements Request summarized adaptive thinking for GitHub Copilot models. Thank you to 4 community contributors: @heimoshuiyu : feat(console): add batch workspace block endpoints ( #48491 ) @JacobNWolf : fix(acp): restore session options and reasoning boundaries ( #48225 ) @R-Taneja : chore(deps): bump @ai-sdk/gateway to 3.0.191 ( #48710 ) @MatthewFeroz : fix(ui): add Merge Gateway logo ( #42015 )",
+    "summary_source": "feed",
+    "popularity": {
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://devblogs.microsoft.com/dotnet/share-your-dotnet-story",
+    "title": "Share your .NET story with the community",
+    "source": ".NET Blog",
+    "publisher": ".NET Blog",
+    "publisher_source": "feed",
+    "author": "Luis Quintanilla",
+    "published": "2026-09-14T17:05:00Z",
+    "published_source": "feed",
+    "arrivals": [
+      {
+        "feed_id": "https://devblogs.microsoft.com/dotnet/feed/",
+        "seen_at": "2026-09-15T03:41:28Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "This is a promotional call for community submissions rather than\nsubstantive .NET content or a practical engineering story.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Share how your team uses .NET to solve real problems and help us bring more community stories to .NET Conf 2026 and other .NET channels. The post Share your .NET story with the community appeared first on .NET Blog .",
+    "summary_source": "feed",
+    "popularity": {
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available",
+    "title": "iOS 27, iPadOS 27, and macOS 27",
+    "source": "Hacker News",
+    "publisher": "apple.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-15T03:41:28Z"
+      }
+    ],
+    "state": "vetoed",
+    "score": 0,
+    "vetoed_by": "iOS",
+    "popularity": null,
+    "heat": 0
+  },
+  {
+    "url": "https://store.steampowered.com/hardware/steamframe",
+    "title": "Steam Frame starts at $1059",
+    "source": "Hacker News",
+    "publisher": "store.steampowered.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": "2026-09-14T16:52:11Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-15T03:41:28Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "A gaming hardware price announcement falls outside this reader's\n.NET, software engineering, and AI tooling interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-09-15T03:41:28Z",
       "hn": {
-        "points": 269,
-        "comments": 149
+        "points": 551,
+        "comments": 424
+      },
+      "bluesky": null
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://andonlabs.com/blog/why-we-built-pion",
+    "title": "Pion, an agent designed to run any company autonomously",
+    "source": "Hacker News",
+    "publisher": "andonlabs.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-15T03:41:28Z"
+      }
+    ],
+    "state": "scored",
+    "score": 3,
+    "tags": [],
+    "reason": "This concerns general autonomous-business software, not the .NET\nplatform or coding-agent practice this reader follows.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": true,
+    "summary": "Pion is the platform we built to run our autonomous businesses. Today we are opening it up so many more people can experiment with autonomous businesses, and here is why.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": {
+        "points": 316,
+        "comments": 349
+      },
+      "bluesky": null
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
+    "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
+    "source": "Hacker News",
+    "publisher": "theregister.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": "2026-09-14T00:00:00Z",
+    "published_source": "slug",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-15T03:41:28Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [
+      "Windows desktop"
+    ],
+    "reason": "It concerns Windows desktop patch regressions,\nexplicitly outside this reader’s interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": {
+        "points": 215,
+        "comments": 136
+      },
+      "bluesky": null
+    },
+    "heat": 2
+  },
+  {
+    "url": "https://nvartolomei.com/dist-sys-classics",
+    "title": "Distributed Systems Classics (2017)",
+    "source": "Hacker News",
+    "publisher": "nvartolomei.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-15T03:41:28Z"
+      }
+    ],
+    "state": "scored",
+    "score": 7,
+    "tags": [
+      "Distributed systems"
+    ],
+    "reason": "It points a .NET engineer toward foundational\npapers on consensus, ordering, replication, snapshots, and fault tolerance in distributed\nsystems.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "The article curates influential distributed-systems papers from 1978 through\n2014. It covers logical clocks, Byzantine faults, snapshots, consensus impossibility, Paxos, CRDTs,\nRaft, and related foundational work.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": {
+        "points": 249,
+        "comments": 56
+      },
+      "bluesky": null
+    },
+    "heat": 2
+  },
+  {
+    "url": "https://pop.rdi.sh/dario-please",
+    "title": "Dario, Please",
+    "source": "Hacker News",
+    "publisher": "pop.rdi.sh",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-15T03:41:28Z"
+      }
+    ],
+    "state": "scored",
+    "score": 9,
+    "tags": [
+      "Claude",
+      "Coding agents",
+      "Security",
+      "Evals",
+      "LLMs"
+    ],
+    "reason": "It offers a\nskeptical practitioner’s analysis of frontier-lab safety claims, agentic cyber incidents, evaluation\n practices, and proposed AI regulation.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": true,
+    "summary": "The author attacks Anthropic CEO Dario Amodei’s\narguments for pacing frontier AI, regulating open models, and granting labs greater authority. They\nchallenge claims about imminent recursive self-improvement and autonomous botnets, criticize\nOpenAI’s security failures and evaluator access, and argue for independent oversight and open\nscrutiny.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": {
+        "points": 326,
+        "comments": 158
+      },
+      "bluesky": null
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
+    "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+    "source": "Hacker News",
+    "publisher": "Tenderlove Making",
+    "publisher_source": "page",
+    "author": null,
+    "published": "2026-09-12T00:02:11Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-15T03:41:28Z"
+      }
+    ],
+    "state": "scored",
+    "score": 8,
+    "tags": [
+      "Security",
+      "Coding agents"
+    ],
+    "reason": "It highlights an AI-agent supply-chain\nattack against RubyGems, relevant to developers assessing coding-agent risks and software\nsecurity.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": true,
+    "summary": "Today Reuters and the Wall Street Journal both reported about rogue AI agents at OpenAI attacking RubyGems.org. https://www.rubyhack.ai/ has an amazing writeup, and you should read it. I just wanted to make a quick post about it because it’s wild. TL;DR: It seems like OpenAI Bots knew about the RubyGems caching vulnerability, tried to take advantage of it, and at the same time ran some weird web scraping code on RubyDoc.info. Back in May, socket.dev reported about a “GemStuffer Campaign” where someone (I guess OpenAI) was uploading tons of junk gems to RubyGems.org. For some reason, the gems would scrape UK government websites, then repackage the data as gems, and attempt to upload them to RubyGems.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": {
+        "points": 391,
+        "comments": 331
+      },
+      "bluesky": null
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://xcancel.com/twitter",
+    "title": "XCancel suspended \"due to a new development in the ongoing legal proceedings\"",
+    "source": "Hacker News",
+    "publisher": "xcancel.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-15T03:41:28Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "The title concerns a legal proceeding involving XCancel, with no\nclear connection to the reader's technical interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": {
+        "points": 271,
+        "comments": 1
+      },
+      "bluesky": null
+    },
+    "heat": 2
+  },
+  {
+    "url": "https://macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude",
+    "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+    "source": "Hacker News",
+    "publisher": "MacRumors",
+    "publisher_source": "page",
+    "author": null,
+    "published": "2026-09-14T11:37:17Z",
+    "published_source": "jsonld",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-15T03:41:28Z"
+      }
+    ],
+    "state": "scored",
+    "score": 5,
+    "tags": [
+      "Claude",
+      "LLMs"
+    ],
+    "reason": "It reveals deeper third-party Claude integration in\nApple’s upcoming Siri, but offers limited practical value for a production .NET developer.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": true,
+    "summary": "Code sleuth \"pdfu\" has uncovered iOS 27 and macOS Golden Gate private frameworks that show Apple has designed its new Siri architecture to work with third-party AI models at what appears to be a surprisingly deep level. One mechanism called Model Delegation allows Claude to appear as a Siri extension in the same way as the existing built-in ChatGPT extension.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": {
+        "points": 219,
+        "comments": 155
+      },
+      "bluesky": null
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://xcancel.com/",
+    "title": "XCancel service is suspended until further notice",
+    "source": "Hacker News",
+    "publisher": "xcancel.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-15T03:41:28Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "XCancel service suspension is unrelated to the reader’s .NET,\nsoftware engineering, or daily development tools.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": {
+        "points": 504,
+        "comments": 803
+      },
+      "bluesky": null
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://github.com/rh1tech/frank-386",
+    "title": "A 386 PC for Your RP2350",
+    "source": "Hacker News",
+    "publisher": "GitHub",
+    "publisher_source": "page",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-15T03:41:28Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "This is a retro-hardware project unrelated to .NET, software\nengineering practice, or the reader's development tools.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Tiny386 port to RP2350. Contribute to rh1tech/frank-386 development by creating an account on GitHub.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": {
+        "points": 206,
+        "comments": 79
+      },
+      "bluesky": null
+    },
+    "heat": 2
+  },
+  {
+    "url": "https://eurobirdportal.org/ebp/en",
+    "title": "EuroBirdPortal – Live bird movements across Europe",
+    "source": "Hacker News",
+    "publisher": "eurobirdportal.org",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-15T03:41:28Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "It concerns bird migration and has no connection to .NET, software\nengineering, or the reader's professional interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "EuroBirdPortal presents live bird\nmovements across Europe. The supplied text is primarily a long list of bird species and scientific\nnames.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-09-15T03:41:28Z",
+      "hn": {
+        "points": 218,
+        "comments": 63
       },
       "bluesky": null
     },
