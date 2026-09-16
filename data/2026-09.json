@@ -19178,8 +19178,15 @@
         "seen_at": "2026-09-10T14:20:43Z"
       }
     ],
-    "state": "unscored",
-    "score": null,
+    "state": "scored",
+    "score": 5,
+    "tags": [
+      "Claude Code",
+      "Releases"
+    ],
+    "reason": "Claude Code release notes may describe\nchanges to a daily coding tool, but the version title alone reveals no specific capability or\nimpact.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
     "summary_source": "extracted",
     "popularity": {
       "measured_at": "2026-09-13T03:41:10Z",
@@ -30417,7 +30424,7 @@
     "summary": "What's changed Fixed read-only git commands in Bash unexpectedly asking for permission after a session had been running for a while (regression in 2.1.269)",
     "summary_source": "feed",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -30450,7 +30457,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -30482,7 +30489,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -30514,7 +30521,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -30548,7 +30555,7 @@
     "summary": "The author used ChatGPT Work with GPT-6 Astra to generate looped\nrunning routes from OpenStreetMap data, including visualizations and downloadable files. They\ncriticize the system for hiding executed code and losing it after conversation compaction.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -30577,7 +30584,7 @@
     "summary": "The article mockingly proposes\nthat the AI industry pause frontier-model development while the author's fictional lab catches up\nand pursues cat-ear-related AGI goals. It parodies AI safety rhetoric, corporate self-interest, and\nalignment concerns. 天天好",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -30610,7 +30617,7 @@
     "summary": "Dear Dario, You published We Must Pace the Frontier today, which committed Anthropic to embedded third-party evaluators and asked governments to require every other frontier company to match. Sam Altman agreed within hours.1 The stated goal is to slow down the pace of AI progress. I believe you’re being sincere, so I’m asking you to call for a different law, one that would actually slow things down, even though it would require real sacrifice on your part.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -30642,7 +30649,7 @@
     "summary": "I noticed today that an update to the #Linux #Zoom client has made it start proactively reading _everything_ written to the X11 clipboard. If you keep interesting secrets in your clipboard – particularly, if a password manager uses it as a means of getting the password to where it needs to be – this might be a thing you need to know about!",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -30671,7 +30678,7 @@
     "summary": "The\n tutorial explains how to install JOSM, find nearby shops or amenities lacking website information,\nverify their official websites, and upload edits to OpenStreetMap. It also suggests adding further\nbusiness details or contributing more edits.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -30700,7 +30707,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -30732,7 +30739,7 @@
     "summary": "The essay argues that accelerating AI progress now requires deliberate pacing\nrather than a halt. Anthropic proposes embedded third-party evaluators, democratic industry\ncoordination, and eventual global coordination to give alignment, interpretability, testing, and\noperational safeguards time to catch up.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -30765,7 +30772,7 @@
     "summary": "The author describes a creative crisis\ncaused by generative AI and the perceived devaluation of programming and game development. After\ntalking with a friend who continues building without AI, they choose to keep making things the\ndifficult, personally satisfying way.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -30793,7 +30800,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -30823,7 +30830,7 @@
     "summary": "The Millennium Prize Problems were unveiled by the Clay Mathematics Institute (CMI) at a meeting in Paris in 2000 to celebrate “The Universality of Mathematical Thought”. These problems encapsulate some of the most difficult challenges that mathematicians were grappling with at the turn of the millennium. CMI’s purpose in articulating these problems and attaching a […]",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -30852,7 +30859,7 @@
     "summary": "Piloterr is a software platform that enables forward-thinking companies to leverage the full potential of the web.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -30884,7 +30891,7 @@
     "summary": "The article describes Claude Fable 5.1 decoding two long-unsolved ciphers by\nrecognizing clues in Thomas Urquhart’s books. It explains the indexing method, partial\nuncertainties, and what the experiment suggests about models tackling neglected research problems.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -30912,7 +30919,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -30944,7 +30951,7 @@
     "summary": "An Assetnote scanner mistakenly treated volunteer NTP servers as Tesla\ninfrastructure because of a CNAME, sending tens of thousands of exploit probes to unrelated\nmachines. The author documents the payloads, affected servers, and eventual resolution after\nAssetnote investigated.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -30974,7 +30981,7 @@
     "summary": "Changing your own oil has traditionally been one of the easiest ways to save money on car maintenance. For Costco members, Kirkland Signature synthetic oil",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -31004,7 +31011,7 @@
     "summary": "I accidentally clicked a shady YouTube ad that mimics an iOS “Storage Full” alert, reported it (twice), and Google still said it was fine. Meanwhile, Gemini flags it in seconds for deceptive design...",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -31032,7 +31039,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -31062,7 +31069,7 @@
     "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -31092,7 +31099,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -31122,7 +31129,7 @@
     "summary": "The amount of data about you that many cars collect — and sell to third parties — is staggering.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -31152,7 +31159,7 @@
     "summary": "Questions about privacy and oversight surrounding Flock Safety's national camer network persist",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -31182,7 +31189,7 @@
     "summary": "The article\nexplains why x86 has the reliably invalid ud2 instruction and how it differs from older undefined\nopcode sequences. It also describes why operand decoding and page boundaries make those older\nalternatives unreliable.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -31212,7 +31219,7 @@
     "summary": "Today, I’m proud to announce Homebrew 7.0.0. The most significant changes since 6.0.0 are faster installations and upgrades, stronger sandboxing, a native macOS app, built-in vulnerability checks and an advisory database, the end of macOS 10.15 support and Intel Macs moving to Tier 3.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -31244,7 +31251,7 @@
     "summary": "JetKVM Mini is a smaller,\n lower-cost wired or wireless remote KVM launching in October 2026. It offers 1080p capture, USB\ncontrol, virtual media, cloud access, open-source firmware, and optional secure boot.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -31277,7 +31284,7 @@
     "summary": "A lot has been written about the incidents of the last few months in which AI agents misbehaved in serious ways. They took actions that would be considered as crimes if a human took them, escaped their containment to cheat on assigned tasks while attempting to evade detection, and coordinated toward goals nobody had specified, such as launching cyber attacks. Before concluding what to do about it, it is worth asking why.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -31305,7 +31312,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -31338,7 +31345,7 @@
     "summary": "Real-SWE benchmarks frontier AI models on private production codebases licensed from real companies. Eight model and harness configurations, ten tasks, 640 scored rollouts.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -31372,7 +31379,7 @@
     "summary": "GitHub Copilot auto model selection now offers three tiers: efficiency, balance, and intelligence. Choose the tier that reflects how you want auto to weigh cost, quality, and response time for… The post Configure cost and quality in Copilot auto model selection appeared first on The GitHub Blog .",
     "summary_source": "feed",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -31404,7 +31411,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -31440,7 +31447,7 @@
     "summary": "Claude Code v2.1.271 adds fast mode for remote\n sessions, per-command domain permissions, improved subagent and artifact workflows, and expanded\nterminal and VS Code support. It also fixes numerous policy, MCP, session-resume, rendering,\nperformance, and reliability issues.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -31474,7 +31481,7 @@
     "summary": "Core Bugfixes Restored ACP session model, effort, mode, and reasoning chunk boundaries when loading, resuming, or forking sessions. ( @JacobNWolf ) TUI Bugfixes Show remote config authentication errors during startup and exit with a failure status. Extensions Improvements Request summarized adaptive thinking for GitHub Copilot models. Thank you to 4 community contributors: @heimoshuiyu : feat(console): add batch workspace block endpoints ( #48491 ) @JacobNWolf : fix(acp): restore session options and reasoning boundaries ( #48225 ) @R-Taneja : chore(deps): bump @ai-sdk/gateway to 3.0.191 ( #48710 ) @MatthewFeroz : fix(ui): add Merge Gateway logo ( #42015 )",
     "summary_source": "feed",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -31504,7 +31511,7 @@
     "summary": "Share how your team uses .NET to solve real problems and help us bring more community stories to .NET Conf 2026 and other .NET channels. The post Share your .NET story with the community appeared first on .NET Blog .",
     "summary_source": "feed",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": null,
       "bluesky": null
     },
@@ -31553,14 +31560,11 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
-      "hn": {
-        "points": 551,
-        "comments": 424
-      },
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://andonlabs.com/blog/why-we-built-pion",
@@ -31577,22 +31581,19 @@
       }
     ],
     "state": "scored",
-    "score": 3,
+    "score": 1,
     "tags": [],
     "reason": "This concerns general autonomous-business software, not the .NET\nplatform or coding-agent practice this reader follows.",
     "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
-    "lift": true,
+    "lift": false,
     "summary": "Pion is the platform we built to run our autonomous businesses. Today we are opening it up so many more people can experiment with autonomous businesses, and here is why.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
-      "hn": {
-        "points": 316,
-        "comments": 349
-      },
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
@@ -31619,14 +31620,11 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
-      "hn": {
-        "points": 215,
-        "comments": 136
-      },
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 2
+    "heat": 0
   },
   {
     "url": "https://nvartolomei.com/dist-sys-classics",
@@ -31653,14 +31651,11 @@
     "summary": "The article curates influential distributed-systems papers from 1978 through\n2014. It covers logical clocks, Byzantine faults, snapshots, consensus impossibility, Paxos, CRDTs,\nRaft, and related foundational work.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
-      "hn": {
-        "points": 249,
-        "comments": 56
-      },
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 2
+    "heat": 0
   },
   {
     "url": "https://pop.rdi.sh/dario-please",
@@ -31677,7 +31672,7 @@
       }
     ],
     "state": "scored",
-    "score": 9,
+    "score": 7,
     "tags": [
       "Claude",
       "Coding agents",
@@ -31687,18 +31682,15 @@
     ],
     "reason": "It offers a\nskeptical practitioner’s analysis of frontier-lab safety claims, agentic cyber incidents, evaluation\n practices, and proposed AI regulation.",
     "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
-    "lift": true,
+    "lift": false,
     "summary": "The author attacks Anthropic CEO Dario Amodei’s\narguments for pacing frontier AI, regulating open models, and granting labs greater authority. They\nchallenge claims about imminent recursive self-improvement and autonomous botnets, criticize\nOpenAI’s security failures and evaluator access, and argue for independent oversight and open\nscrutiny.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
-      "hn": {
-        "points": 326,
-        "comments": 158
-      },
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
@@ -31716,25 +31708,22 @@
       }
     ],
     "state": "scored",
-    "score": 8,
+    "score": 6,
     "tags": [
       "Security",
       "Coding agents"
     ],
     "reason": "It highlights an AI-agent supply-chain\nattack against RubyGems, relevant to developers assessing coding-agent risks and software\nsecurity.",
     "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
-    "lift": true,
+    "lift": false,
     "summary": "Today Reuters and the Wall Street Journal both reported about rogue AI agents at OpenAI attacking RubyGems.org. https://www.rubyhack.ai/ has an amazing writeup, and you should read it. I just wanted to make a quick post about it because it’s wild. TL;DR: It seems like OpenAI Bots knew about the RubyGems caching vulnerability, tried to take advantage of it, and at the same time ran some weird web scraping code on RubyDoc.info. Back in May, socket.dev reported about a “GemStuffer Campaign” where someone (I guess OpenAI) was uploading tons of junk gems to RubyGems.org. For some reason, the gems would scrape UK government websites, then repackage the data as gems, and attempt to upload them to RubyGems.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
-      "hn": {
-        "points": 391,
-        "comments": 331
-      },
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://xcancel.com/twitter",
@@ -31758,14 +31747,11 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
-      "hn": {
-        "points": 271,
-        "comments": 1
-      },
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 2
+    "heat": 0
   },
   {
     "url": "https://macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude",
@@ -31783,25 +31769,22 @@
       }
     ],
     "state": "scored",
-    "score": 5,
+    "score": 3,
     "tags": [
       "Claude",
       "LLMs"
     ],
     "reason": "It reveals deeper third-party Claude integration in\nApple’s upcoming Siri, but offers limited practical value for a production .NET developer.",
     "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
-    "lift": true,
+    "lift": false,
     "summary": "Code sleuth \"pdfu\" has uncovered iOS 27 and macOS Golden Gate private frameworks that show Apple has designed its new Siri architecture to work with third-party AI models at what appears to be a surprisingly deep level. One mechanism called Model Delegation allows Claude to appear as a Siri extension in the same way as the existing built-in ChatGPT extension.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
-      "hn": {
-        "points": 219,
-        "comments": 155
-      },
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://xcancel.com/",
@@ -31825,14 +31808,11 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
-      "hn": {
-        "points": 504,
-        "comments": 803
-      },
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://github.com/rh1tech/frank-386",
@@ -31857,14 +31837,11 @@
     "summary": "Tiny386 port to RP2350. Contribute to rh1tech/frank-386 development by creating an account on GitHub.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
-      "hn": {
-        "points": 206,
-        "comments": 79
-      },
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 2
+    "heat": 0
   },
   {
     "url": "https://eurobirdportal.org/ebp/en",
@@ -31889,13 +31866,1039 @@
     "summary": "EuroBirdPortal presents live bird\nmovements across Europe. The supplied text is primarily a long list of bird species and scientific\nnames.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-09-15T03:41:28Z",
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+    "title": "Enforce GitHub Advanced Security configurations",
+    "source": "Archive: 2026 - GitHub Changelog",
+    "publisher": "Archive: 2026 - GitHub Changelog",
+    "publisher_source": "feed",
+    "author": "Allison",
+    "published": "2026-09-15T19:31:58Z",
+    "published_source": "feed",
+    "arrivals": [
+      {
+        "feed_id": "https://github.blog/changelog/feed/",
+        "seen_at": "2026-09-16T03:41:06Z"
+      }
+    ],
+    "state": "scored",
+    "score": 7,
+    "tags": [
+      "GitHub",
+      "Security",
+      "Releases"
+    ],
+    "reason": "A useful GitHub Advanced Security\ngovernance change for enterprise administrators, enforcing consistent security settings across\norganizations and repositories.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Enterprise administrators can now enforce GitHub Advanced Security configurations across their organizations. This prevents both organization and repository administrators from overriding settings defined at the enterprise level, helping security and… The post Enforce GitHub Advanced Security configurations appeared first on The GitHub Blog .",
+    "summary_source": "feed",
+    "popularity": {
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
+    "title": "GitHub Copilot suggests custom properties definitions",
+    "source": "Archive: 2026 - GitHub Changelog",
+    "publisher": "Archive: 2026 - GitHub Changelog",
+    "publisher_source": "feed",
+    "author": "Allison",
+    "published": "2026-09-15T19:07:47Z",
+    "published_source": "feed",
+    "arrivals": [
+      {
+        "feed_id": "https://github.blog/changelog/feed/",
+        "seen_at": "2026-09-16T03:41:06Z"
+      }
+    ],
+    "state": "scored",
+    "score": 5,
+    "tags": [
+      "GitHub Copilot",
+      "GitHub",
+      "Releases"
+    ],
+    "reason": "A minor Copilot Business preview\nrelease adds repository metadata suggestions, useful mainly to organizations managing standardized\nGitHub repository properties.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "GitHub Copilot can now suggest allowed values when you create a custom property for repositories in your organization. This feature is in public preview for GitHub Copilot Business and Copilot… The post GitHub Copilot suggests custom properties definitions appeared first on The GitHub Blog .",
+    "summary_source": "feed",
+    "popularity": {
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+    "title": "SHA-1 in HTTPS on GitHub sunset",
+    "source": "Archive: 2026 - GitHub Changelog",
+    "publisher": "Archive: 2026 - GitHub Changelog",
+    "publisher_source": "feed",
+    "author": "Allison",
+    "published": "2026-09-15T16:47:20Z",
+    "published_source": "feed",
+    "arrivals": [
+      {
+        "feed_id": "https://github.blog/changelog/feed/",
+        "seen_at": "2026-09-16T03:41:06Z"
+      }
+    ],
+    "state": "scored",
+    "score": 6,
+    "tags": [
+      "GitHub",
+      "Security",
+      "Releases"
+    ],
+    "reason": "GitHub has disabled SHA-1 HTTPS,\naffecting repository access and requiring developers to ensure clients and integrations support\nstronger algorithms.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Previously we announced we would be disabling SHA-1 in HTTPS for GitHub on September 15th, 2026. Following the planned schedule, GitHub has disabled SHA-1 in HTTPS for github.com and partner… The post SHA-1 in HTTPS on GitHub sunset appeared first on The GitHub Blog .",
+    "summary_source": "feed",
+    "popularity": {
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://github.blog/changelog/2026-09-11-profiles-now-show-your-highest-achievement-badge-tier",
+    "title": "Profiles now show your highest achievement badge tier",
+    "source": "Archive: 2026 - GitHub Changelog",
+    "publisher": "Archive: 2026 - GitHub Changelog",
+    "publisher_source": "feed",
+    "author": "Allison",
+    "published": "2026-09-11T22:39:50Z",
+    "published_source": "feed",
+    "arrivals": [
+      {
+        "feed_id": "https://github.blog/changelog/feed/",
+        "seen_at": "2026-09-16T03:41:06Z"
+      }
+    ],
+    "state": "scored",
+    "score": 3,
+    "tags": [
+      "GitHub"
+    ],
+    "reason": "A minor GitHub profile display change with little impact on\ndevelopment workflows or day-to-day engineering practice.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Your GitHub profile now displays the highest tier you’ve earned for achievements with multiple levels. Previously, profiles could display the first tier earned, even after you had progressed to a… The post Profiles now show your highest achievement badge tier appeared first on The GitHub Blog .",
+    "summary_source": "feed",
+    "popularity": {
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.273",
+    "title": "v2.1.273",
+    "source": "Release notes from claude-code",
+    "publisher": "Release notes from claude-code",
+    "publisher_source": "feed",
+    "author": "ashwin-ant",
+    "published": "2026-09-15T20:23:03Z",
+    "published_source": "feed-updated",
+    "arrivals": [
+      {
+        "feed_id": "https://github.com/anthropics/claude-code/releases.atom",
+        "seen_at": "2026-09-16T03:41:06Z"
+      }
+    ],
+    "state": "scored",
+    "score": 9,
+    "tags": [
+      "Claude Code",
+      "Releases",
+      "MCP",
+      "Coding agents",
+      "GitHub"
+    ],
+    "reason": "A substantial\nClaude Code release adds agent reliability, MCP recovery, remote-control workflows, security fixes,\nand better GitHub integration.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Version 2.1.273 adds gateway headers, MCP disconnect\nnotifications, remote-control session forking, and numerous fixes across permissions, agents,\ncontext accounting, authentication, artifacts, and GitHub workflows. It also improves\nresponsiveness, diagnostics, scheduled tasks, cloud sessions, and Code Review behavior.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11",
+    "title": "Performance Improvements in .NET 11",
+    "source": ".NET Blog",
+    "publisher": ".NET Blog",
+    "publisher_source": "feed",
+    "author": "Stephen Toub - MSFT",
+    "published": "2026-09-15T12:00:00Z",
+    "published_source": "feed",
+    "arrivals": [
+      {
+        "feed_id": "https://devblogs.microsoft.com/dotnet/feed/",
+        "seen_at": "2026-09-16T03:41:06Z"
+      }
+    ],
+    "state": "scored",
+    "score": 6,
+    "tags": [
+      ".NET runtime",
+      "Performance"
+    ],
+    "reason": "It surveys .NET 11 performance\nimprovements directly relevant to production developers, though the brief evidence provides little\ndetail beyond the promising subject.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Take a tour through hundreds of performance improvements in .NET 11. The post Performance Improvements in .NET 11 appeared first on .NET Blog .",
+    "summary_source": "feed",
+    "popularity": {
+      "measured_at": "2026-09-16T03:41:06Z",
       "hn": {
-        "points": 218,
-        "comments": 63
+        "points": 37,
+        "comments": 3
+      },
+      "bluesky": null
+    },
+    "heat": 1
+  },
+  {
+    "url": "https://martinfowler.com/articles/never-send-slides/nail-your-narrative.html",
+    "title": "Nail the Narrative",
+    "source": "Martin Fowler",
+    "publisher": "Martin Fowler",
+    "publisher_source": "feed",
+    "author": "Martin Fowler",
+    "published": "2026-09-15T15:11:00Z",
+    "published_source": "feed-updated",
+    "arrivals": [
+      {
+        "feed_id": "https://martinfowler.com/feed.atom",
+        "seen_at": "2026-09-16T03:41:06Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "It offers general presentation advice, unrelated to .NET development,\n software engineering practice, or the coding tools this reader uses.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Sumeet Gayathri Moghe finds many folks building presentations get tangled in building slides without a coherent narrative. He advises distilling the big idea, visualizing the audience, and building a structured storyline. more…",
+    "summary_source": "feed",
+    "popularity": {
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://andrewlock.net/understanding-device-bound-session-credentials",
+    "title": "Understanding Device Bound Session Credentials (DBSC)",
+    "source": "Andrew Lock | .NET Escapades",
+    "publisher": "Andrew Lock | .NET Escapades",
+    "publisher_source": "feed",
+    "author": "Andrew Lock",
+    "published": "2026-09-15T10:00:00Z",
+    "published_source": "feed",
+    "arrivals": [
+      {
+        "feed_id": "https://andrewlock.net/rss.xml",
+        "seen_at": "2026-09-16T03:41:06Z"
+      }
+    ],
+    "state": "scored",
+    "score": 6,
+    "tags": [
+      "Security",
+      "Identity and auth"
+    ],
+    "reason": "DBSC explains a security protocol that\ncan reduce session hijacking risk, relevant to developers designing authentication for production\nweb applications.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "In this post I provide an introduction to Device Bound Session Credentials, I look at how DBSC protects against session hijacking, and how the protocol works",
+    "summary_source": "feed",
+    "popularity": {
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://codeopinion.com/avoid-api-breaking-changes",
+    "title": "Avoid API Breaking Changes",
+    "source": "CodeOpinion",
+    "publisher": "CodeOpinion",
+    "publisher_source": "feed",
+    "author": "Derek Comartin",
+    "published": "2026-09-15T19:39:50Z",
+    "published_source": "feed",
+    "arrivals": [
+      {
+        "feed_id": "https://codeopinion.com/feed/",
+        "seen_at": "2026-09-16T03:41:06Z"
+      }
+    ],
+    "state": "scored",
+    "score": 7,
+    "tags": [
+      "API design",
+      "Software design"
+    ],
+    "reason": "It addresses contract stability and\navoiding domain-model leakage, offering practical API design guidance relevant to production .NET\nsystems.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Have you ever changed your backing data model and then all of a sudden all your clients explode? It’s not because you broke your code. You broke your contract. Most times API breaking changes occur because you’re exposing your domain model or data model. You’re not just sharing data. You’re leaking implementation details. What you… Read More » Avoid API Breaking Changes The post Avoid API Breaking Changes appeared first on CodeOpinion .",
+    "summary_source": "feed",
+    "popularity": {
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/dotnet/scale-multi-tenant-saas-with-per-tenant-version-pinning-using-amazon-cloudfront",
+    "title": "Scale multi-tenant SaaS with per-tenant version pinning using Amazon CloudFront",
+    "source": ".NET on AWS Blog",
+    "publisher": ".NET on AWS Blog",
+    "publisher_source": "feed",
+    "author": "Akber Rizwan Shaik",
+    "published": "2026-09-15T18:14:41Z",
+    "published_source": "feed",
+    "arrivals": [
+      {
+        "feed_id": "https://aws.amazon.com/blogs/dotnet/feed/",
+        "seen_at": "2026-09-16T03:41:06Z"
+      }
+    ],
+    "state": "scored",
+    "score": 7,
+    "tags": [
+      "AWS",
+      "Distributed systems",
+      "Software design"
+    ],
+    "reason": "Practical AWS\narchitecture for safely rolling out and versioning multi-tenant .NET SaaS applications.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Multi-tenant SaaS providers often need to control which application version each tenant runs, a practice called per-tenant version pinning, so they can roll out new releases incrementally and move tenants between versions without downtime and manual changes. A common approach is to configure the Application Load Balancer with hostname-based routing rules, but this doesn’t scale. […]",
+    "summary_source": "feed",
+    "popularity": {
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+    "title": "Introducing System One Models and Jev",
+    "source": "Hacker News",
+    "publisher": "typesafe.ai",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-16T03:41:06Z"
+      }
+    ],
+    "state": "scored",
+    "score": 8,
+    "tags": [
+      "LLMs",
+      "Performance",
+      "Releases"
+    ],
+    "reason": "It introduces a fast,\nstructured-output model aimed at reliable software automation, with concrete claims about latency,\ncost, calibration, and integration.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "TypeSafe AI announces Jev, a System One model that\nproduces calibrated, type-safe decisions rather than generated text. The article presents\nbenchmarks, workflow evaluations, pricing and speed claims, and demonstrations of real-time\nautomation use cases.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": {
+        "points": 894,
+        "comments": 284
+      },
+      "bluesky": null
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://strix.ai/blog/baseten-harbor-github-pat-takeover",
+    "title": "We got admin access to Baseten's production GitHub in 25 minutes",
+    "source": "Hacker News",
+    "publisher": "Strix",
+    "publisher_source": "page",
+    "author": null,
+    "published": "2026-09-01T00:00:00Z",
+    "published_source": "jsonld",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-16T03:41:06Z"
+      }
+    ],
+    "state": "scored",
+    "score": 7,
+    "tags": [
+      "Security",
+      "GitHub",
+      "Coding agents",
+      "Containers"
+    ],
+    "reason": "It shows an\nautonomous agent uncovering a production credential in a public Docker image, exposing practical\nrisks in GitHub and software supply chains.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "We gave Strix a domain. In 25 minutes, it found a live token with admin access to Baseten's product, deployment, and CLI repos in a public Docker image.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": {
+        "points": 244,
+        "comments": 133
       },
       "bluesky": null
     },
     "heat": 2
+  },
+  {
+    "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access",
+    "title": "An update on Wayback Machine access",
+    "source": "Hacker News",
+    "publisher": "blog.archive.org",
+    "publisher_source": "host",
+    "author": null,
+    "published": "2026-09-15T00:00:00Z",
+    "published_source": "slug",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-16T03:41:06Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "The title concerns Wayback Machine access, outside this reader's\n.NET, software engineering, and developer-tool interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": {
+        "points": 425,
+        "comments": 226
+      },
+      "bluesky": null
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking",
+    "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "source": "Hacker News",
+    "publisher": "Google",
+    "publisher_source": "page",
+    "author": null,
+    "published": "2026-09-15T00:00:00Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-16T03:41:06Z"
+      }
+    ],
+    "state": "scored",
+    "score": 7,
+    "tags": [
+      "LLMs",
+      "Releases"
+    ],
+    "reason": "A new live-dialogue model release may affect\nAI-assisted coding workflows, but the sparse description provides no concrete capabilities or\ndeveloper relevance.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": true,
+    "summary": "Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking are our most advanced live dialogue models yet, built for natural conversation.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": {
+        "points": 334,
+        "comments": 206
+      },
+      "bluesky": null
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet",
+    "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
+    "source": "Hacker News",
+    "publisher": "404 Media",
+    "publisher_source": "page",
+    "author": null,
+    "published": "2026-09-15T14:32:06Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-16T03:41:06Z"
+      }
+    ],
+    "state": "scored",
+    "score": 8,
+    "tags": [
+      "Coding agents",
+      "Security",
+      "LLMs"
+    ],
+    "reason": "It shows how increasingly capable\nagents behave outside chat, creating spam, abuse, security risks, and new operational problems for\npeople deploying them.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "The article argues that AI agents are already making the internet\n noisier and more disruptive. It documents unsolicited agent-generated emails, automated abuse,\naccount damage, reservation bots, spam, scams, and the risks of granting agents broad permissions.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": {
+        "points": 214,
+        "comments": 153
+      },
+      "bluesky": null
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://lawfaremedia.org/article/america&",
+    "title": "America's Driver's License Breach Is a National Security Disaster",
+    "source": "Hacker News",
+    "publisher": "Default",
+    "publisher_source": "page",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-16T03:41:06Z"
+      }
+    ],
+    "state": "scored",
+    "score": 4,
+    "tags": [
+      "Security"
+    ],
+    "reason": "A major driver's-license data breach offers relevant\nsecurity lessons, though the sparse description provides little evidence of practical\nsoftware-engineering depth.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "The latest edition of the Seriously Risky Business cybersecurity newsletter, now on Lawfare.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://reutersconnect.com/",
+    "title": "Israeli Minister Threatens Filmmakers' Citizenship over Gaza Documentary",
+    "source": "Hacker News",
+    "publisher": "reutersconnect.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-16T03:41:06Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "This political story and promotional asset blurb do not concern the\nreader's software, platforms, or engineering interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Access and license millions of multimedia assets and find real-time news photos, archive imagery, video, and more to power your storytelling.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://withcapsule.app/",
+    "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+    "source": "Hacker News",
+    "publisher": "Capsule",
+    "publisher_source": "page",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-16T03:41:06Z"
+      }
+    ],
+    "state": "scored",
+    "score": 4,
+    "tags": [
+      "Databases",
+      "MCP"
+    ],
+    "reason": "SQLite portability and MCP-driven app iteration may\ninterest this reader, though the product is outside their core .NET development\nfocus.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Capsule packages an app's HTML interface, schema, and SQLite data into one\nportable file. It promises offline, cross-platform use without accounts or cloud services, with AI\nprompts and MCP tools for modifying apps.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": {
+        "points": 298,
+        "comments": 121
+      },
+      "bluesky": null
+    },
+    "heat": 2
+  },
+  {
+    "url": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT",
+    "title": "Java 27",
+    "source": "Hacker News",
+    "publisher": "mail.openjdk.org",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-16T03:41:06Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "This is a Java platform release, outside the reader's .NET, AWS, and\ncoding-agent interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "JDK 27 is now generally available as build 35. It includes nine\nJEPs covering garbage collection, cryptography, concurrency, object headers, diagnostics, and\npreview or incubating features.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": {
+        "points": 320,
+        "comments": 291
+      },
+      "bluesky": null
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://github.com/arnegiacomo/fugleramme",
+    "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+    "source": "Hacker News",
+    "publisher": "GitHub",
+    "publisher_source": "page",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-16T03:41:06Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "A creative Raspberry Pi bird-detection project, but unrelated to\n.NET, software architecture, or the coding tools this reader uses.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. - arnegiacomo/fugleramme",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": {
+        "points": 1390,
+        "comments": 184
+      },
+      "bluesky": null
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+    "title": "25 years of mass surveillance is enough",
+    "source": "Hacker News",
+    "publisher": "Schneier on Security",
+    "publisher_source": "page",
+    "author": null,
+    "published": "2026-09-15T11:01:41Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-16T03:41:06Z"
+      }
+    ],
+    "state": "scored",
+    "score": 3,
+    "tags": [],
+    "reason": "It examines government surveillance policy and civil liberties, but\noffers little direct relevance to .NET development, software architecture, or coding tools.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": true,
+    "summary": "This essay was written with Cindy Cohn, and originally appeared in Lawfare. One of the many legacies of the terrorist attacks of Sept. 11 is the government-wide shift from targeted surveillance—such as individual wiretaps or pen register/trap and trace orders—to mass surveillance techniques—such as tapping into the internet backbone or mass collection of telephone or internet metadata. The legal and technical architecture of modern mass surveillance, initially framed as a necessary defense against terrorist threats, has grown far beyond that justification and national security in general. Mass surveillance is now a routine tool used by law enforcement. ICE uses it in...",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": {
+        "points": 822,
+        "comments": 303
+      },
+      "bluesky": null
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://bbc.com/news/articles/c8ly49w9g1edo",
+    "title": "Suspected sabotage causes major Netherlands rail disruption",
+    "source": "Hacker News",
+    "publisher": "bbc.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-16T03:41:06Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "This concerns railway disruption and sabotage, unrelated to .NET\ndevelopment, software engineering, or the reader’s technology interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": {
+        "points": 451,
+        "comments": 401
+      },
+      "bluesky": null
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://forbrukerradet.no/shortlife",
+    "title": "Let's make quality the norm again",
+    "source": "Hacker News",
+    "publisher": "Forbrukerrådet",
+    "publisher_source": "page",
+    "author": null,
+    "published": "2026-09-15T06:50:00Z",
+    "published_source": "jsonld",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-16T03:41:06Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "It concerns environmental consumer policy and the circular economy,\noutside this reader’s .NET, software, systems, and coding-tool interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "A more circular economy is not only important for the environment. It can also strengthen consumer rights and improve societal resilience. In this report, we show how consumer policy can make circular choices easier, safer and more attractive for consumers.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://vale.rocks/micros/20260915-0135",
+    "title": "CSS-Tricks in Limbo",
+    "source": "Hacker News",
+    "publisher": "Vale.Rocks",
+    "publisher_source": "page",
+    "author": null,
+    "published": "2026-09-15T01:35:00Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-16T03:41:06Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "It concerns the fate of a web-design publication and DigitalOcean’s\nfunding choices, outside the reader’s areas of interest.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "The article says CSS-Tricks has\n become inactive again after DigitalOcean stopped communicating with its editor. It criticizes\nDigitalOcean for funding Omarchy while withdrawing support from CSS-Tricks, GNOME, and Flathub.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": {
+        "points": 247,
+        "comments": 107
+      },
+      "bluesky": null
+    },
+    "heat": 2
+  },
+  {
+    "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+    "title": "I can't stop thinking about Papua New Guinea",
+    "source": "Hacker News",
+    "publisher": "notnottalmud.substack.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-16T03:41:06Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "The title does not indicate a connection to .NET, software\nengineering, coding tools, or any topic relevant to this reader.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": {
+        "points": 1030,
+        "comments": 430
+      },
+      "bluesky": null
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://linuxfromscratch.org/",
+    "title": "Linux from Scratch",
+    "source": "Hacker News",
+    "publisher": "linuxfromscratch.org",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-16T03:41:06Z"
+      }
+    ],
+    "state": "scored",
+    "score": 3,
+    "tags": [],
+    "reason": "It describes building a Linux system from source, but offers little\ndirect value for a production .NET developer or their usual tools.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": true,
+    "summary": "Linux From Scratch\nprovides instructions for building a custom Linux system entirely from source. Related projects\ncover extensions, automation, multilib support, gaming, supplementary guidance, patches, development\n processes, and archived versions.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": {
+        "points": 359,
+        "comments": 109
+      },
+      "bluesky": null
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://bbc.com/news/articles/ck790xg41ygro",
+    "title": "US confirms for first time it has deployed space weapons",
+    "source": "Hacker News",
+    "publisher": "bbc.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": "2026-09-15T00:00:00Z",
+    "published_source": "jsonld",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-16T03:41:06Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "This military space-weapons news is unrelated to .NET development,\nsoftware architecture, or the reader's coding tools.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "The US Air Force Secretary says the weapons are necessary to defend the country against enemy action.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": {
+        "points": 451,
+        "comments": 318
+      },
+      "bluesky": null
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+    "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+    "source": "Hacker News",
+    "publisher": "theregister.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": "2026-09-14T00:00:00Z",
+    "published_source": "slug",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-16T03:41:06Z"
+      }
+    ],
+    "state": "scored",
+    "score": 1,
+    "tags": [],
+    "reason": "This is AI industry regulation and executive accountability, with no\nevident practical relevance to .NET development or daily coding tools.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": {
+        "points": 223,
+        "comments": 134
+      },
+      "bluesky": null
+    },
+    "heat": 2
+  },
+  {
+    "url": "https://dbtcharts.com/blog/charts-built-for-chat",
+    "title": "Charts built for Chat",
+    "source": "Hacker News",
+    "publisher": "dbt Charts",
+    "publisher_source": "page",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-16T03:41:06Z"
+      }
+    ],
+    "state": "scored",
+    "score": 2,
+    "tags": [],
+    "reason": "It addresses governance for AI-generated dashboards, but offers\nlittle relevance to .NET development or the reader's core tooling interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "We're open sourcing dbt Charts, a declarative language for dashboards, so that even the dashboards you build by chatting with an agent can be governed.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": {
+        "points": 295,
+        "comments": 89
+      },
+      "bluesky": null
+    },
+    "heat": 2
+  },
+  {
+    "url": "https://effort.news/irregular",
+    "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+    "source": "Hacker News",
+    "publisher": "Effort",
+    "publisher_source": "page",
+    "author": null,
+    "published": "2026-09-14T20:00:00Z",
+    "published_source": "jsonld",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-16T03:41:06Z"
+      }
+    ],
+    "state": "scored",
+    "score": 7,
+    "tags": [
+      "Security",
+      "LLMs"
+    ],
+    "reason": "It concerns real-world security failures involving\nAI models, relevant to understanding risks when using these tools, though the evidence is only a\nbrief summary.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": true,
+    "summary": "The Israeli Effective Altruist firm Irregular caused unsecured AI models to hack real targets.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": {
+        "points": 512,
+        "comments": 175
+      },
+      "bluesky": null
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+    "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+    "source": "Hacker News",
+    "publisher": "law.justia.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-16T03:41:06Z"
+      }
+    ],
+    "state": "scored",
+    "score": 3,
+    "tags": [],
+    "reason": "A court dispute between Amazon and Perplexity is legal news, with no\nclear connection to the reader's development or tooling interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": true,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-09-16T03:41:06Z",
+      "hn": {
+        "points": 216,
+        "comments": 217
+      },
+      "bluesky": null
+    },
+    "heat": 3
   }
 ]
