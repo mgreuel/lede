@@ -48963,6 +48963,12 @@
         "seen_at": "2026-09-24T03:41:25Z",
         "via_item": "https://alvinashcraft.com/2026/09/23/dew-drop-september-23-2026-4755/",
         "section": "AI"
+      },
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-10-02T03:41:36Z",
+        "via_item": "https://alvinashcraft.com/2026/10/01/dew-drop-october-1-2026-4761/",
+        "section": "AI"
       }
     ],
     "state": "judged",
@@ -59456,7 +59462,7 @@
     "summary": "As a repository administrator, you can now configure the runner type, optional custom label, and optional runner group for Dependabot version and security updates. This extends the runner configuration already… The post Repository custom runner settings for Dependabot appeared first on The GitHub Blog .",
     "summary_source": "feed",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 0
@@ -59490,7 +59496,7 @@
     "summary": "You can now seamlessly bring business context about your repositories from an external system of record (e.g., a configuration management database (CMDB), an internal developer portal, or an in-house system)… The post Bring business context with external custom properties appeared first on The GitHub Blog .",
     "summary_source": "feed",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 0
@@ -59527,10 +59533,10 @@
     "summary": "GPT-6.1 Sol, the latest model from OpenAI, is now generally available and rolling out in GitHub Copilot. You can use it for agentic coding and terminal workflows with strong multistep… The post GPT-6.1 Sol in GitHub Copilot appeared first on The GitHub Blog .",
     "summary_source": "feed",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
-        "likes": 10
+        "likes": 12
       }
     },
     "heat": 1
@@ -59567,7 +59573,7 @@
     "summary": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source. The post Developer policy update: Transparency, state policy, and what’s ahead appeared first on The GitHub Blog .",
     "summary_source": "feed",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 0
@@ -59604,7 +59610,7 @@
     "summary": "Claude Code v2.1.285 adds configuration, desktop, plugin, MCP,\nprovider-management, and retry features. It also fixes numerous issues across subagents, artifacts,\npermissions, remote sessions, authentication, model switching, hooks, and platform-specific\nworkflows.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 0
@@ -59639,7 +59645,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": null
     },
@@ -59671,7 +59677,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": null
     },
@@ -59710,7 +59716,7 @@
     "summary": "The article defines “sensible defaults” as proven starting practices that should\nbe reconsidered when context changes. It contrasts them with rigid “best practices” and connects the\n idea to Thoughtworks’ playbooks and Technology Radar.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 22
@@ -59747,7 +59753,7 @@
     "summary": "The article collects commentary on\ncoding agents, arguing that effective use demands expertise and discipline while persistent models\ncreate safety risks. It also discusses regulation, responsibility for model behavior, and the\ncontinuing importance of training junior professionals.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 10
@@ -59779,10 +59785,10 @@
     "summary": "I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live blogging the keynote and some other notes during the day. OpenAI gave me a free ticket and a seat in the \"creator\" area for the keynote. You are only seeing the long-form articles from my blog. Subscribe to /atom/everything/ to get all of my posts, or take a look at my other subscription options .",
     "summary_source": "feed",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
-        "likes": 92
+        "likes": 96
       }
     },
     "heat": 2
@@ -59816,7 +59822,7 @@
     "summary": "Today,&nbsp;Claude Sonnet 5.5 is available in Microsoft Foundry, bringing Anthropic’s latest Sonnet model to developers building AI applications and...",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 0
@@ -59853,7 +59859,7 @@
     "summary": "Explore the MSSQL extension for VS Code v1.46 release. Discover quick actions, guided workflows, and enhanced SQL formatting now available.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": null
     },
@@ -59888,7 +59894,7 @@
     "summary": "Learn to direct AI coding agents, review their work, and build reliable development workflows with this free GitHub Copilot app course.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 0
@@ -59926,7 +59932,7 @@
     "summary": "Rider 2026.2.3 brings AI performance analysis to the Monitoring tool window and fixes an issue with the AI Agent Setup widget on Windows. You can update directly from the IDE, through the Toolbox App,",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": null
     },
@@ -59959,10 +59965,10 @@
     "summary": "Blazorise 2.3.3 adds arbitrary colors across components, improves Scheduler, DataGrid, NumericPicker, and Charts, and introduces a redesigned Blazorise website.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
-        "likes": 0
+        "likes": 1
       }
     },
     "heat": 0
@@ -59995,7 +60001,7 @@
     "summary": "The author describes building a small weather\napp with TypeScript, Vite, Alpine.js, Web Awesome, geocoding, weather APIs, and local storage. They\nreflect on TypeScript's benefits, lightweight architecture, runtime validation, naming, and stricter\n typing.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 0
@@ -60029,7 +60035,7 @@
     "summary": "INFO: In Public Preview when this blog post is posted as the deployment is not over 50% of tenant worldwide! This is public now, in coridination with the Product Manager at Microsoft I have been in dialog with on this new feature! A little behind-the-scenes context! 😎 I got access to this build quite some",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": null
     },
@@ -60065,7 +60071,7 @@
     "summary": "A practical guide to enforcing fine-grained access control on .NET 10 Minimal API endpoints using scope claims in JWTs issued by Duende IdentityServer.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": null
     },
@@ -60098,7 +60104,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": null
     },
@@ -60131,7 +60137,7 @@
     "summary": "Learn how delegates and events work in C#, including Action, Func, Predicate and custom EventArgs, with practical examples.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": null
     },
@@ -60165,7 +60171,7 @@
     "summary": "How to use risk scores, package age and other signals as a quality gate, and what to do when a zero-day vulnerability suddenly breaks your build.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 0
@@ -60201,7 +60207,7 @@
     "summary": "Learn how to evaluate RFC 9535 JsonPath expressions on your own .NET classes by implementing JsonPathNavigator for custom object models.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": null
     },
@@ -60235,7 +60241,7 @@
     "summary": "Blog on development in general and in .NET in particular. Created and maintained by Ricardo Peres. Coimbra, Portugal",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 1
@@ -60269,7 +60275,7 @@
     "summary": "Microsoft Fabric and SQL innovations announced at FabCon and SQLCon Barcelona 2026 help organizations build trusted data foundations for AI.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 0
@@ -60306,7 +60312,7 @@
     "summary": "NVIDIA's Open Agent Safety Platform proposes putting the kill switch on the network card. The 2026 agent escapes at OpenAI, Anthropic, and Google show why: every sandbox failed, and time-to-detect and time-to-kill decided how bad it got.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": null
     },
@@ -60338,7 +60344,7 @@
     "summary": "As AI moves from pilots to production, enterprises must decide when consumption pricing still fits—and when AI infrastructure should be treated as a productive asset.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 0
@@ -60376,7 +60382,7 @@
     "summary": "GitHub Copilot can now export agent telemetry with OpenTelemetry. This post takes a deep dive into that: what the traces may reveal, what data to protect, and how to start monitoring information responsibly.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": null
     },
@@ -60409,7 +60415,7 @@
     "summary": "0. Why I'm writing this now Two things landed on my radar in the same week. First, TypeSafe AI published \"Introducing System One Models &amp; Jev\" (Sep 15,...",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": null
     },
@@ -60442,7 +60448,7 @@
     "summary": "Agentic workflows used to live on one developer's laptop. With Air Teams, you configure a workflow once, and the whole team can run, validate, and improve it.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": null
     },
@@ -60475,7 +60481,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 0
@@ -60515,7 +60521,7 @@
     "summary": "The article argues that production AI releases must\n version models alongside prompts, retrieval, tools, runtime settings, and data. It recommends\nfull-path evaluations, representative performance testing, release-aware telemetry, deliberate\ncanaries, compatible rollback, and connecting incidents to future evaluation suites.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 0
@@ -60552,7 +60558,7 @@
     "summary": "Feature: typed structured outputs for all six SDKs Provide a JSON Schema, or use an idiomatic typed helper, to have the model return typed, validated output instead of free-form text. (#2590) const...",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": null
     },
@@ -60588,7 +60594,7 @@
     "summary": "New Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's priced the same as Sonnet 5 but …",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 7
@@ -60625,7 +60631,7 @@
     "summary": "The Firebase agent plugin provides access to Firebase agent skills, the Firebase MCP server, and the Firebase CLI, giving Codex the ability to build Firebase-powered apps with less friction.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": null
     },
@@ -60657,7 +60663,7 @@
     "summary": "AI companies’ insistence that their technology is making breakthroughs, not just aiding scientists, is making real progress harder to recognize.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 1
@@ -60692,7 +60698,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": null
     },
@@ -60724,7 +60730,7 @@
     "summary": "Founded in 2008, Stack Overflow’s public platform is used by nearly everyone who codes to learn, share their knowledge, collaborate, and build their careers.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 1
@@ -60760,7 +60766,7 @@
     "summary": "Anthropic has collaborated with NVIDIA to bring additional layers of security and control to the agent stack of its Open Agent Safety Platform.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 0
@@ -60793,7 +60799,7 @@
     "summary": "Bill Gates said an AI \"kill switch\" alone would be insufficient to address the technology's risks. \"The kill switch is, that's kind of a weird thing. It's not enough to have a kill switch,\" the Microsoft co-founder said in an interview that aired Sunday on NBC's \"Meet the Press.\" He said the more im...",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 5
@@ -60830,7 +60836,7 @@
     "summary": "Why graph modeling deserves as much attention as graph learning, GraphRAG, agents, and graph foundation models",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 0
@@ -60867,7 +60873,7 @@
     "summary": "The Auth0 plugin for ChatGPT connects to your real tenant so you can create apps, set up connections, and generate SDK code without leavi...",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": null
     },
@@ -60900,7 +60906,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": null
     },
@@ -60934,7 +60940,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": null
     },
@@ -60969,7 +60975,7 @@
     "summary": "In recent weeks, I’ve been hearing more and more chatter signaling disillusionment with agentic programming, as increasing numbers of once-upon-a-time very pro-agent folks walk back to taking…",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 16
@@ -61006,7 +61012,7 @@
     "summary": "WebMCP is a proposed web standard that would provide AI agents with a mental model of a web app’s capabilities via a browser API, saving time and tokens.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": null
     },
@@ -61041,7 +61047,7 @@
     "summary": "When you let Copilot edit your code in agent mode, every change waits for a decision: Keep or Undo. For a small change that's fine. After te...",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": null
     },
@@ -61077,7 +61083,7 @@
     "summary": "jev-router asks Jev, a System One model, which Claude model each Claude Code message needs, and routes it there for a fraction of a cent.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 0
@@ -61117,7 +61123,7 @@
     "summary": "Holo4 is an open model series designed to\ncombine GUI interaction, coding, MCP, and API calls in one agent. The article describes its\nbenchmarks, cost claims, training environments, harness improvements, open trajectories, and smaller\n Holotron4 Nano release.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 4
@@ -61154,7 +61160,7 @@
     "summary": "Recent hacks have shown that the law is lagging when it comes to holding companies accountable.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 2
@@ -61193,7 +61199,7 @@
     "summary": "The author introduces Muse ACP, a Rust-based Agent\nClient Protocol server for Muse Code. It connects Muse Code to ACP clients such as OpenCode, Hermes,\n IntelliJ, and Zed, with installation support for editors.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": null
     },
@@ -61225,7 +61231,7 @@
     "summary": "The author builds a\n2-billion-parameter calibrated classifier using a Qwen torso, pointer head, LoRA fine-tuning,\ndistillation, and synthetic data. They report accuracy, generalization, latency, experiments,\nlessons, and how AI agents helped them learn model-building concepts.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": null
     },
@@ -61259,7 +61265,7 @@
     "summary": "Learn about the new features and changes in Git 2.56.0, including a new git-history(1) drop command, git-refs(1) getting new subcommands, and more.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 0
@@ -61297,10 +61303,10 @@
     "summary": "When an employee corrects the time they started or stopped working in a time-tracking system, a workflow typically notifies their manager or HR that the data has changed. Then, the manager or HR decides whether to accept or reject this change. The same goes for requests for vacation or other kinds of absences. There are...",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
-        "likes": 12
+        "likes": 13
       }
     },
     "heat": 1
@@ -61334,7 +61340,7 @@
     "summary": "A practical look at FIDO2 security key form factors, from keychain and tiny USB keys to fingerprint readers and badge-style cards.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": null
     },
@@ -61368,7 +61374,7 @@
     "summary": "Live From Barcelona Woo! I’m posting this live from the first ever European SQLCon (joint conference with FabCon EU), and the second ever SQLCon. The",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 1
@@ -61404,7 +61410,7 @@
     "summary": "Every organization has knowledge that is uniquely its own: the way its business operates, the data it has built over time, the expertise of its people and the context behind thousands of everyday decisions. As powerful AI models become more widely available, that unique business intelligence matters more than ever. The difference will come from...",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 3
@@ -61438,7 +61444,7 @@
     "summary": "We are thrilled to announce the public preview of local time zone support in Azure SQL Database. Starting today, you can configure the time zone directly Public preview of local time zone support in Azure SQL Database",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 1
@@ -61472,7 +61478,7 @@
     "summary": "Discover how Fabric Database Hub enhances account visibility and performance monitoring for Azure Cosmos DB resources.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": null
     },
@@ -61508,7 +61514,7 @@
     "summary": "Developers have trusted SQL for decades, since long before AI existed. Now coding agents help choose the database, and they favor the one they can get Build a task-list app with Azure SQL and GitHub Copilot CLI. Use Developer Hub prompts and Microsoft SQL Agent Skills to connect your app to real data.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 0
@@ -61544,7 +61550,7 @@
     "summary": "We're pleased to share that SQLAlchemy 2.1.0 is now generally available, with built-in support for mssql-python, Microsoft's Python driver for SQL Server.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": null
     },
@@ -61578,7 +61584,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": null
     },
@@ -61610,13 +61616,13 @@
     "summary": "NEO Write your next book without the friction. NEO is a free, distraction-free writing app built by a working novelist for novelists. It runs on your own computer, and your manuscript stays yours — no account, no cloud, no subscription. Download NEO Loading latest version… See all platforms &darr; 📜 Distraction-free A page, and not […]",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
-        "likes": 2
+        "likes": 11
       }
     },
-    "heat": 0
+    "heat": 1
   },
   {
     "url": "https://i-programmer.info/news/90-tools/19174-vs-code-expands-codex-harness.html",
@@ -61648,7 +61654,7 @@
     "summary": "Visual Studio Code 1.138 expands Codex support, allowing\nsessions to move between ChatGPT and VS Code and switch subscription-backed models. It also adds Dev\n Container execution and previews automatic organization of completed agent sessions after pull\nrequests merge.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": null
     },
@@ -61680,7 +61686,7 @@
     "summary": "The US\nDepartment of Transportation finalized weaker fuel-efficiency standards for new vehicles. Supporters\n cite lower vehicle costs, while critics argue the change will increase fuel spending, health costs,\n and pollution.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 70
@@ -61714,7 +61720,7 @@
     "summary": "Volkswagen will replace its discontinued ID.4 electric\n crossover with the ID.Tiguan, launching in Europe in 2027 and later in the US. The model will add\nphysical controls and use Volkswagen’s Android Automotive-based software.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 28
@@ -61750,7 +61756,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": null
     },
@@ -61785,16 +61791,13 @@
     "summary": "Livenerf is a preregistered, append-only benchmark\ntracking whether Claude Opus 5.5 degrades after launch. It freezes prompts, harness versions,\nscorers, and controls while measuring accuracy and output tokens over repeated samples.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
-      "hn": {
-        "points": 885,
-        "comments": 378
-      },
+      "measured_at": "2026-10-02T03:41:36Z",
+      "hn": null,
       "bluesky": {
-        "likes": 5
+        "likes": 8
       }
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
@@ -61823,13 +61826,10 @@
     "summary": "GLM-5.3 can autonomously build end-to-end cyber exploits, but unlike other frontier models, it was released without meaningful safeguards to limit misuse.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
-      "hn": {
-        "points": 245,
-        "comments": 230
-      },
+      "measured_at": "2026-10-02T03:41:36Z",
+      "hn": null,
       "bluesky": {
-        "likes": 893
+        "likes": 921
       }
     },
     "heat": 3
@@ -61857,10 +61857,10 @@
     "summary": "Tcl/Tk 9.1 introduces Unicode normalization,\ntiming and list commands, C APIs, filesystem changes, and memory improvements. Tk adds\naccessibility, bidirectional text, a toggle switch widget, and other interface refinements.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
-        "likes": 7
+        "likes": 8
       }
     },
     "heat": 0
@@ -61889,10 +61889,10 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
-        "likes": 94
+        "likes": 96
       }
     },
     "heat": 2
@@ -61928,10 +61928,10 @@
     "lift": true,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
-        "likes": 214
+        "likes": 219
       }
     },
     "heat": 3
@@ -61960,10 +61960,10 @@
     "summary": "Online sports betting company DraftKings is using AI to target customers who are most likely to place losing bets and respond to gambling promotions. This kind of targeting is a form of online behavioral advertising, which is when companies personalize the ads they show you based on the data they’...",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
-        "likes": 422
+        "likes": 423
       }
     },
     "heat": 3
@@ -61993,10 +61993,10 @@
     "summary": "Exploit chain for PS5 7.00 - 13.60. Contribute to ntfargo/Relapse-Exploit development by creating an account on GitHub.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
-        "likes": 16
+        "likes": 18
       }
     },
     "heat": 1
@@ -62024,7 +62024,7 @@
     "summary": "In June 2008 Apple announced Mac OS X Snow Leopard, proudly boasting that it would have \"no new features\". Instead of piling on new things, Snow Leopard aimed to build on the success of its predecessor, Leopard, opting to focus on under-the-hood performance and stability improvements throughout the system.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 7
@@ -62054,13 +62054,13 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
-        "likes": 416
+        "likes": 170
       }
     },
-    "heat": 3
+    "heat": 2
   },
   {
     "url": "https://spectrum.ieee.org/delhi-electricity-loss",
@@ -62086,10 +62086,10 @@
     "summary": "The article explains how Delhi\nreduced electricity losses from over 50 percent to 5–6 percent through grid upgrades, privatization,\n improved metering, enforcement, and operational reforms. It presents Delhi’s transformation as a\npotential model for cities with unreliable power infrastructure.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
-        "likes": 4
+        "likes": 7
       }
     },
     "heat": 0
@@ -62116,7 +62116,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 3
@@ -62148,10 +62148,10 @@
     "summary": "The U.S. imposed sanctions on the International Criminal Court, preventing it from using ubiquitous U.S.-based software.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
-        "likes": 53
+        "likes": 54
       }
     },
     "heat": 2
@@ -62180,10 +62180,10 @@
     "summary": "Freedom of information request finds six-month trial cost £320,000, used almost 100 police hours and led to just one – incorrect – alert",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
-        "likes": 213
+        "likes": 217
       }
     },
     "heat": 3
@@ -62212,10 +62212,10 @@
     "summary": "We’re witnessing the death of hosting in America. The share of adults who say they regularly have friends over has declined 70 percent since 1975",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
-        "likes": 93
+        "likes": 100
       }
     },
     "heat": 2
@@ -62243,10 +62243,10 @@
     "summary": "Jeeves is a Qwen3.5-9B classifier trained\nwith SFT and CISPO to reason before making calibrated decisions. The project includes training code,\n weights, a diffusion drafter, a Jev-compatible API, benchmarks, and an SDK.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
-        "likes": 8
+        "likes": 9
       }
     },
     "heat": 0
@@ -62277,10 +62277,10 @@
     "summary": "The article\nanalyzes privacy issues affecting web and mobile conversational AI agents. The supplied text is\nunreadable PDF data, so specific findings cannot be assessed.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
-        "likes": 4
+        "likes": 5
       }
     },
     "heat": 0
@@ -62309,10 +62309,10 @@
     "summary": "A new map shows Flock has more cameras in the U.S. than was previously known. The company wants the map taken down.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
-        "likes": 212
+        "likes": 216
       }
     },
     "heat": 3
@@ -62340,7 +62340,7 @@
     "summary": "Many California growers can’t find buyers as the industry produces more wine grapes than the market wants. Wine consumption is declining globally as people drink less.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-10-01T03:41:18Z",
+      "measured_at": "2026-10-02T03:41:36Z",
       "hn": null,
       "bluesky": {
         "likes": 10
