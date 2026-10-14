@@ -14431,6 +14431,12 @@
         "seen_at": "2026-09-04T11:40:25Z",
         "via_item": "https://alvinashcraft.com/2026/08/27/dew-drop-august-27-2026-4741/",
         "section": "AI"
+      },
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-10-14T03:41:13Z",
+        "via_item": "https://alvinashcraft.com/2026/10/13/dew-drop-october-13-2026-4769/",
+        "section": "Web and Cloud Development"
       }
     ],
     "state": "scored",
@@ -21305,6 +21311,12 @@
         "seen_at": "2026-09-12T03:41:25Z",
         "via_item": "https://alvinashcraft.com/2026/09/11/dew-drop-september-11-2026-4751/",
         "section": ".NET and Visual Studio"
+      },
+      {
+        "feed_id": "https://www.frankysnotes.com/feeds/posts/default?alt=rss",
+        "seen_at": "2026-10-14T03:41:13Z",
+        "via_item": "https://www.frankysnotes.com/2026/10/reading-notes-717.html",
+        "section": "Programming"
       }
     ],
     "state": "scored",
@@ -23051,8 +23063,16 @@
         "section": "Web and Cloud Development"
       }
     ],
-    "state": "unscored",
-    "score": null,
+    "state": "scored",
+    "score": 6,
+    "tags": [
+      "Context engineering",
+      "Coding agents",
+      "Software design"
+    ],
+    "reason": "The title\nsuggests practical techniques for constraining AI-generated code, relevant to developers using\ncoding agents, though the article text is unavailable.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
     "summary_source": "extracted",
     "popularity": {
       "measured_at": "2026-09-14T03:41:19Z",
