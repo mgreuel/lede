@@ -58253,6 +58253,7 @@
     "publisher_source": "page",
     "author": "Addy Osmani",
     "published": "2026-09-25T15:56:51Z",
+    "published_source": "og",
     "arrivals": [
       {
         "feed_id": "https://www.alvinashcraft.com/feed.xml",
@@ -58261,8 +58262,17 @@
         "section": "AI"
       }
     ],
-    "state": "unscored",
-    "score": null,
+    "state": "scored",
+    "score": 9,
+    "tags": [
+      "Coding agents",
+      "Context engineering",
+      "Engineering practice"
+    ],
+    "reason": "It offers\n practical guidance on supervising coding agents, designing repeatable software factories,\npreserving human judgment, and preventing verification and context-switching\nfailures.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "The article argues that software factories should relocate rather than\neliminate human judgment, encoding quality standards while reserving attention for risky decisions.\nIt discusses agent orchestration, handoffs, verification, event-driven queues, reviewer bandwidth,\nand safeguards against misleading green tests or wrong-project changes.",
     "summary_source": "extracted",
     "popularity": {
       "measured_at": "2026-10-01T03:41:18Z",
@@ -58271,8 +58281,7 @@
         "likes": 1
       }
     },
-    "heat": 0,
-    "published_source": "og"
+    "heat": 0
   },
   {
     "url": "https://replit.com/blog/replit-acquires-atta",
