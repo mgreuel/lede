@@ -23,16 +23,16 @@
     "summary": "When a seven-eared stem emerged from the ground, it seemed like a miracle. What Claudio Grossi had unearthed was an ancient grain that proved to be an answer to some modern problems",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-01T03:41:34Z",
+      "measured_at": "2026-11-02T03:41:29Z",
       "hn": {
-        "points": 212,
-        "comments": 63
+        "points": 776,
+        "comments": 203
       },
       "bluesky": {
-        "likes": 68
+        "likes": 401
       }
     },
-    "heat": 2
+    "heat": 3
   },
   {
     "url": "https://karpathy.bearblog.dev/hacker-tube",
@@ -60,13 +60,13 @@
     "summary": "The author describes HackerTube, a YouTube-like site\npopulated from videos recommended on Hacker News. They say Claude Code, using Opus and Sonnet\nworkflows, handled nearly all coding, data processing, deployment, security, and optimization within\n about two hours.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-11-01T03:41:34Z",
+      "measured_at": "2026-11-02T03:41:29Z",
       "hn": {
-        "points": 863,
-        "comments": 275
+        "points": 2348,
+        "comments": 544
       },
       "bluesky": {
-        "likes": 3
+        "likes": 5
       }
     },
     "heat": 3
@@ -86,26 +86,26 @@
       }
     ],
     "state": "scored",
-    "score": 3,
+    "score": 5,
     "tags": [
       "Claude",
       "LLMs"
     ],
     "reason": "It may affect how Claude users conduct model-related\nwork, but the title alone gives too little detail to establish practical impact.",
     "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
-    "lift": false,
+    "lift": true,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-01T03:41:34Z",
+      "measured_at": "2026-11-02T03:41:29Z",
       "hn": {
-        "points": 237,
-        "comments": 131
+        "points": 456,
+        "comments": 255
       },
       "bluesky": {
-        "likes": 2
+        "likes": 5
       }
     },
-    "heat": 2
+    "heat": 3
   },
   {
     "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
@@ -133,13 +133,13 @@
     "summary": "CVE-2026-98432 is a CVSS 9.8 remote use-after-free in Linux's IPv4 TCP handshake, fixed upstream Oct 15. Ubuntu and RHEL haven't shipped a fixed kernel yet.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-01T03:41:34Z",
+      "measured_at": "2026-11-02T03:41:29Z",
       "hn": {
-        "points": 384,
-        "comments": 181
+        "points": 705,
+        "comments": 327
       },
       "bluesky": {
-        "likes": 5
+        "likes": 33
       }
     },
     "heat": 3
@@ -168,13 +168,13 @@
     "summary": "Party in England and Wales ditches commitment to phase out nuclear in major shift in its energy policy",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-01T03:41:34Z",
+      "measured_at": "2026-11-02T03:41:29Z",
       "hn": {
-        "points": 203,
-        "comments": 240
+        "points": 239,
+        "comments": 319
       },
       "bluesky": {
-        "likes": 142
+        "likes": 147
       }
     },
     "heat": 3
@@ -201,16 +201,13 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-01T03:41:34Z",
-      "hn": {
-        "points": 215,
-        "comments": 109
-      },
+      "measured_at": "2026-11-02T03:41:29Z",
+      "hn": null,
       "bluesky": {
-        "likes": 9
+        "likes": 10
       }
     },
-    "heat": 2
+    "heat": 1
   },
   {
     "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
@@ -239,16 +236,13 @@
     "summary": "The self-deleting VOLTA infostealer steals credentials, sessions, and cryptocurrency wallets. Then, it uses LLMs to profile victims and rank their most valuable assets.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-01T03:41:34Z",
-      "hn": {
-        "points": 236,
-        "comments": 129
-      },
+      "measured_at": "2026-11-02T03:41:29Z",
+      "hn": null,
       "bluesky": {
-        "likes": 4
+        "likes": 7
       }
     },
-    "heat": 2
+    "heat": 0
   },
   {
     "url": "https://jepsen.io/analyses/particledb-1.1.4",
@@ -277,16 +271,13 @@
     "summary": "Jepsen tested ParticleDB releases and\nfound 96 issues, including crashes, data loss, inconsistent reads, and transaction anomalies. Most\nissues were fixed in later builds, but committed writes could still be lost and serializable mode\nstill permitted anomalies.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-11-01T03:41:34Z",
-      "hn": {
-        "points": 216,
-        "comments": 119
-      },
+      "measured_at": "2026-11-02T03:41:29Z",
+      "hn": null,
       "bluesky": {
-        "likes": 90
+        "likes": 677
       }
     },
-    "heat": 2
+    "heat": 3
   },
   {
     "url": "https://parameter.ai/labs/we-found-a-gap-at-openai",
@@ -304,26 +295,23 @@
       }
     ],
     "state": "scored",
-    "score": 8,
+    "score": 6,
     "tags": [
       "Security"
     ],
     "reason": "It exposes a serious account-takeover technique against a\nwidely used AI tool, offering useful security lessons for practitioners using coding assistants.",
     "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
-    "lift": true,
+    "lift": false,
     "summary": "By bypassing ChatGPT's sandbox and content security policy, our research team was able to take over anyone's account simply by sending them a link.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-01T03:41:34Z",
-      "hn": {
-        "points": 309,
-        "comments": 152
-      },
+      "measured_at": "2026-11-02T03:41:29Z",
+      "hn": null,
       "bluesky": {
         "likes": 3
       }
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://piefed.world/c/youshouldknow/p/1503394/ysk-molly-signal-fork-has-not-been-updated-since-3-months-and-is-vulnerable-to-attacks-f",
@@ -352,7 +340,7 @@
     "summary": "cross-posted from: https://piefed.world/c/ysk/p/1503393/ysk-molly-signal-fork-has-not-been-updated-since-3-months-and-is-vulnerable-to-attacks-f A…",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-01T03:41:34Z",
+      "measured_at": "2026-11-02T03:41:29Z",
       "hn": null,
       "bluesky": null
     },
@@ -380,16 +368,13 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-01T03:41:34Z",
-      "hn": {
-        "points": 829,
-        "comments": 472
-      },
+      "measured_at": "2026-11-02T03:41:29Z",
+      "hn": null,
       "bluesky": {
-        "likes": 47
+        "likes": 52
       }
     },
-    "heat": 3
+    "heat": 2
   },
   {
     "url": "https://xoranth.net/gcc-switch",
@@ -416,16 +401,13 @@
     "summary": "The article explains how\nGCC lowers switch statements into jump tables, comparison trees, bit tests, and mixed strategies. It\n examines GCC’s heuristics and implementation for choosing among these forms.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-11-01T03:41:34Z",
-      "hn": {
-        "points": 202,
-        "comments": 40
-      },
+      "measured_at": "2026-11-02T03:41:29Z",
+      "hn": null,
       "bluesky": {
-        "likes": 2
+        "likes": 4
       }
     },
-    "heat": 2
+    "heat": 0
   },
   {
     "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
@@ -443,27 +425,24 @@
       }
     ],
     "state": "scored",
-    "score": 5,
+    "score": 3,
     "tags": [
       "LLMs",
       "Security"
     ],
     "reason": "It offers practical ideas for reducing algorithmic\ndependence, protecting location privacy, and using small offline LLM-powered tools.",
     "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
-    "lift": true,
+    "lift": false,
     "summary": "The\nauthor describes experiments with social-media minimalism, airplane-mode-by-default phone use,\noffline maps, and local knowledge apps. They argue that reducing algorithmic feeds and cellular\nconnectivity improves privacy, mental health, and independence, while semantic search plus small\nlocal LLMs can make offline information useful.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-11-01T03:41:34Z",
-      "hn": {
-        "points": 312,
-        "comments": 231
-      },
+      "measured_at": "2026-11-02T03:41:29Z",
+      "hn": null,
       "bluesky": {
-        "likes": 22
+        "likes": 29
       }
     },
-    "heat": 3
+    "heat": 1
   },
   {
     "url": "https://tng.episodle.com/",
@@ -487,13 +466,462 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-01T03:41:34Z",
+      "measured_at": "2026-11-02T03:41:29Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 2
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift",
+    "title": "Game Off 2026: The theme is SHIFT",
+    "source": "The GitHub Blog",
+    "publisher": "The GitHub Blog",
+    "publisher_source": "feed",
+    "author": "Lee Reilly",
+    "published": "2026-11-01T21:36:00Z",
+    "published_source": "feed",
+    "arrivals": [
+      {
+        "feed_id": "https://github.blog/feed/",
+        "seen_at": "2026-11-02T03:41:29Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "A game-development jam is explicitly outside this reader’s\ninterests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog .",
+    "summary_source": "feed",
+    "popularity": {
+      "measured_at": "2026-11-02T03:41:29Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 5
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://play.google.com/apps/testing/com.alvinashcraft.dewsubmitter",
+    "title": "web opt-in page",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "play.google.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-02T03:41:29Z",
+        "via_item": "https://alvinashcraft.com/2026/11/01/help-test-dew-submitter-for-android/",
+        "section": "How to join"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "A generic opt-in page provides no evidence of relevance to the\nreader's technical interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-11-02T03:41:29Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded",
+    "title": "U.S. workers took home their smallest share of capital since at least 1947",
+    "source": "Hacker News",
+    "publisher": "Fortune",
+    "publisher_source": "page",
+    "author": null,
+    "published": "2026-10-31T14:38:30Z",
+    "published_source": "jsonld",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-02T03:41:29Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "This is macroeconomic labor-market reporting, outside the reader’s\ninterests in .NET, software engineering, and coding tools.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "American workers aren’t just getting the smallest share of GDP since records began. Their share of employment is shrinking and shrinking.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-02T03:41:29Z",
       "hn": {
-        "points": 234,
-        "comments": 73
+        "points": 231,
+        "comments": 130
+      },
+      "bluesky": {
+        "likes": 16
+      }
+    },
+    "heat": 2
+  },
+  {
+    "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it",
+    "title": "Mathematics has changed. Let's act like it",
+    "source": "Hacker News",
+    "publisher": "What's new",
+    "publisher_source": "page",
+    "author": null,
+    "published": "2026-11-01T18:28:00Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-02T03:41:29Z"
+      }
+    ],
+    "state": "scored",
+    "score": 6,
+    "tags": [
+      "LLMs"
+    ],
+    "reason": "It discusses how an OpenAI release changes mathematical\npractice, relevant to understanding AI capabilities but not directly to production .NET\ndevelopment.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": true,
+    "summary": "[This is a guest post by Frank Calegari. This blog post was initially written in a different file format and converted using AI. — T.] Why we should not be sad The release by OpenAI on Octobe…",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-02T03:41:29Z",
+      "hn": {
+        "points": 243,
+        "comments": 269
       },
       "bluesky": {
         "likes": 2
+      }
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
+    "title": "Patrick Stewart taught us what good men do with power",
+    "source": "Hacker News",
+    "publisher": "Vox",
+    "publisher_source": "page",
+    "author": null,
+    "published": "2026-10-31T10:00:00Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-02T03:41:29Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "This is a political and cultural essay about Star Trek, liberalism,\nand institutional power, not a subject relevant to the reader’s technical interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "The\n article argues that Patrick Stewart’s Jean-Luc Picard represented an ideal of benevolent,\ninstitutional power and universal rights. It contrasts that optimism with contemporary American\npolitics and defends strong institutions led by ethical people.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-11-02T03:41:29Z",
+      "hn": {
+        "points": 391,
+        "comments": 279
+      },
+      "bluesky": {
+        "likes": 138
+      }
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://hackerbooks.org/",
+    "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+    "source": "Hacker News",
+    "publisher": "Hacker Books",
+    "publisher_source": "page",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-02T03:41:29Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "A Hacker News book-discovery tool does not clearly relate to .NET,\nsoftware engineering, or the AI and developer tools this reader follows.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-11-02T03:41:29Z",
+      "hn": {
+        "points": 1027,
+        "comments": 193
+      },
+      "bluesky": {
+        "likes": 5
+      }
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://thedrive.com/news/my-city-canceled-flocks-contract-flock-ignored-it-so-the-police-chief-unplugged-the-cameras",
+    "title": "Police chief unplugs cameras after Flock ignores contract cancellation",
+    "source": "Hacker News",
+    "publisher": "The Drive",
+    "publisher_source": "page",
+    "author": null,
+    "published": "2026-10-23T15:00:54Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-02T03:41:29Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "This is a local surveillance-contract dispute, unrelated to the .NET,\n software engineering, or coding-tool subjects this reader follows.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Plymouth canceled its contract after Flock cameras wrongly flagged me. A month later, the company still won't say when it'll remove the hardware.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-02T03:41:29Z",
+      "hn": {
+        "points": 431,
+        "comments": 146
+      },
+      "bluesky": {
+        "likes": 63
+      }
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just",
+    "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+    "source": "Hacker News",
+    "publisher": "reddit.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-02T03:41:29Z"
+      }
+    ],
+    "state": "scored",
+    "score": 6,
+    "tags": [
+      "Security"
+    ],
+    "reason": "It highlights a deceptive security product claim, offering\na useful caution about trusting encryption in hardware marketed to developers.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": true,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-11-02T03:41:29Z",
+      "hn": {
+        "points": 416,
+        "comments": 149
+      },
+      "bluesky": {
+        "likes": 0
+      }
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets",
+    "title": "Restrooms along the Norwegian Scenic Routes",
+    "source": "Hacker News",
+    "publisher": "visitnorway.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-02T03:41:29Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "This is travel and architecture content unrelated to .NET, software\nengineering, or the reader's professional interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-11-02T03:41:29Z",
+      "hn": {
+        "points": 676,
+        "comments": 397
+      },
+      "bluesky": {
+        "likes": 554
+      }
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
+    "title": "The AI cost of JavaScript frameworks",
+    "source": "Hacker News",
+    "publisher": "Read the Tea Leaves",
+    "publisher_source": "page",
+    "author": null,
+    "published": "2026-10-28T14:31:03Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-02T03:41:29Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [
+      "Frontend"
+    ],
+    "reason": "It concerns JavaScript framework costs, an explicitly\nexcluded frontend topic for this .NET-focused reader.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "One of my pet peeves with the web development community is that so many of the decisions we make are vibes-based. Frameworks are “blazing fast,” tools will…",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-02T03:41:29Z",
+      "hn": {
+        "points": 317,
+        "comments": 235
+      },
+      "bluesky": {
+        "likes": 55
+      }
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+    "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+    "source": "Hacker News",
+    "publisher": "github.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-02T03:41:29Z"
+      }
+    ],
+    "state": "scored",
+    "score": 7,
+    "tags": [
+      "LLMs",
+      "Evals",
+      "Coding agents"
+    ],
+    "reason": "It reports a coding-model evaluation,\noffering relevant evidence about multi-model agent performance, though the title alone provides\nlittle methodological detail.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": true,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-11-02T03:41:29Z",
+      "hn": {
+        "points": 429,
+        "comments": 209
+      },
+      "bluesky": {
+        "likes": 6
+      }
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+    "title": "ChatGPT and Codex usage limits merging",
+    "source": "Hacker News",
+    "publisher": "help.openai.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-02T03:41:29Z"
+      }
+    ],
+    "state": "scored",
+    "score": 7,
+    "tags": [
+      "LLMs",
+      "Coding agents"
+    ],
+    "reason": "Usage-limit changes affect how developers plan\nAI-assisted coding workflows, though the title alone provides limited evidence about the change.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": true,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-11-02T03:41:29Z",
+      "hn": {
+        "points": 219,
+        "comments": 163
+      },
+      "bluesky": {
+        "likes": 7
+      }
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid",
+    "title": "It's the memory latency, stupid",
+    "source": "Hacker News",
+    "publisher": "pivotlake.io",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-02T03:41:29Z"
+      }
+    ],
+    "state": "scored",
+    "score": 7,
+    "tags": [
+      "Performance",
+      "Databases"
+    ],
+    "reason": "Explains database CPU and memory behavior\nbehind faster GROUP BY operations, offering practical performance insight for production .NET\ndevelopers.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "When your database CPU is at 100%, what is it actually doing? Memory stalls, CPU caches, and how radix partitioning makes GROUP BY faster.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-02T03:41:29Z",
+      "hn": {
+        "points": 253,
+        "comments": 92
+      },
+      "bluesky": {
+        "likes": 5
       }
     },
     "heat": 2
