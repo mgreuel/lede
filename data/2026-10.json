@@ -72131,8 +72131,18 @@
         "section": "Top Links"
       }
     ],
-    "state": "unscored",
-    "score": null,
+    "state": "scored",
+    "score": 9,
+    "tags": [
+      "Coding agents",
+      "Context engineering",
+      "GitHub Copilot",
+      "Evals"
+    ],
+    "reason": "It\noffers a practical, measured way to reduce coding-agent costs while preserving task success across\ntools including GitHub Copilot.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "TokenEconomizer is a local plugin that learns\nrepository-specific facts, prunes unused tools, and intervenes in repeated failure loops.\nExperiments report 18.4–30.9% lower mean costs across coding agents, with mostly maintained or\nimproved success rates.",
     "summary_source": "extracted",
     "popularity": {
       "measured_at": "2026-11-02T03:41:29Z",
