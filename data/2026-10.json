@@ -69800,8 +69800,17 @@
         "section": "AI"
       }
     ],
-    "state": "unscored",
-    "score": null,
+    "state": "scored",
+    "score": 8,
+    "tags": [
+      "Claude Code",
+      "Coding agents",
+      "Context engineering"
+    ],
+    "reason": "It offers a\npractical, reusable method for cold-reviewing implementation plans with Claude Code, exposing\nambiguity and edge cases before coding begins.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "The article presents a “Goldfish” Claude\nskill: a fresh, context-free agent reads a plan, checks it against the repository, attacks its\nassumptions, and reports blocking gaps. It recommends iterating on the document with new agents\nuntil the plan is implementable without clarification.",
     "summary_source": "extracted",
     "popularity": {
       "measured_at": "2026-11-01T03:41:34Z",
