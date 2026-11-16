@@ -29091,7 +29091,7 @@
     "summary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on December 14, 2026: Model Deprecation date… The post Upcoming deprecation of selected GitHub Copilot models in December appeared first on The GitHub Blog .",
     "summary_source": "feed",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
         "likes": 1
@@ -29127,7 +29127,7 @@
     "summary": "You can now bring your work on GitHub Enterprise Server (GHES) into the GitHub Copilot app. Add your GHES account to work with remote repositories, issues, and pull requests. This… The post GitHub Enterprise Server support in the GitHub Copilot app appeared first on The GitHub Blog .",
     "summary_source": "feed",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
         "likes": 0
@@ -29164,10 +29164,10 @@
     "summary": "Gemini 4 Hydrogen, Google’s latest Flash model, is now generally available in GitHub Copilot. It is designed for fast, efficient agentic coding, tool use, and multistep workflows, with improved instruction… The post Gemini 4 Hydrogen in GitHub Copilot appeared first on The GitHub Blog .",
     "summary_source": "feed",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
-        "likes": 1
+        "likes": 2
       }
     },
     "heat": 0
@@ -29199,7 +29199,7 @@
     "summary": "You can now turn GitHub code scanning’s AI Scan for repositories on or off with the REST API at the organization and repository levels. This public preview adds a repository_scan… The post Manage AI Scan for repositories using the REST API appeared first on The GitHub Blog .",
     "summary_source": "feed",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
         "likes": 2
@@ -29237,10 +29237,10 @@
     "summary": "Claude Code v2.1.325 fixes a security issue and numerous bugs across\nsessions, permissions, sandboxing, authentication, subagents, MCP, worktrees, terminals, and\nintegrations. It also improves error messages, startup, credential handling, marketplace warnings,\nand recovery from interrupted or constrained sessions.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
-        "likes": 0
+        "likes": 1
       }
     },
     "heat": 0
@@ -29274,7 +29274,7 @@
     "summary": "OpenCode v2.3.0 makes subagents run in the\n background by default and adds improved reporting, quieter transcripts, prompt navigation, MCP\nevent support, shell persistence, and freeform tool input. It also introduces desktop, TUI, SDK,\nextension, and provider improvements alongside numerous bug fixes.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": null
     },
@@ -29307,7 +29307,7 @@
     "summary": "EF 11 stops joining reference navigations in the collection statements of a split query, and it drops their keys from ORDER BY.",
     "summary_source": "feed",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": null
     },
@@ -29339,7 +29339,7 @@
     "summary": "I was talking with a developer recently about a project his team was working on. They'd built an application, connected their data sources, and had",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
         "likes": 0
@@ -29373,7 +29373,7 @@
     "summary": "This message was just sent to Team XBOX employees globally. Team, Microsoft was founded on the belief that computing could put extraordinary Gaming has always been an industry driven by dreams. The history of XBOX is a testament to the power of these dreams and how they can grow over time.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
         "likes": 35
@@ -29432,7 +29432,7 @@
     "summary": "Uno Platform 7.0 is about 2x faster and 5x smaller, unifies rendering on SkiaSharp 4 with a WebGPU option, adds Apple TV and Reactor, and ships .NET 11 on day zero.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": null
     },
@@ -29467,7 +29467,7 @@
     "summary": "Announcing ASP.NET Core in .NET 11 We are pleased to announce the general availability of .NET 11! 🎉 ASP.NET Core in .NET 11 includes: Async validation for Minimal APIs and Blazor forms. Blazor sta...",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": null
     },
@@ -29500,7 +29500,7 @@
     "summary": "AI applications often start as prototypes running locally on a developer’s machine. A Streamlit application may work perfectly in a development environment,...",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": null
     },
@@ -29534,7 +29534,7 @@
     "summary": "Too many websites look alike. They use familiar layouts, repeat the same patterns, and often leave little impression once you’ve moved on. Andy Clarke explores how understanding a company’s story can lead to more distinctive designs, using modular and compound grids to create layouts with character.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
         "likes": 9
@@ -29567,7 +29567,7 @@
     "summary": "Node.js 27.0.0-alpha.0.1.0 introduces experimental changes\nacross child processes, cryptography, DNS, HTTP, workers, SQLite, and packaging. It also includes\ndependency updates, performance work, bug fixes, and documentation changes.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": null
     },
@@ -29601,7 +29601,7 @@
     "summary": "IdentityServer4 reached end of life on 13 December 2022. One known security flaw has no fix for it, and future flaws won't get one either. How to check your own app, and the four realistic ways out.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": null
     },
@@ -29635,7 +29635,7 @@
     "summary": "Shared pipelines, dependency updates and version checks make .NET nanoFramework releases repeatable. Part 3 of an 8-post series on engineering fundamentals.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": null
     },
@@ -29672,7 +29672,7 @@
     "summary": "AI fixes for .NET code you can trust: static analysis drives your coding agent. 468 of 493 eShopOnWeb issues fixed, each fix checked.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": null
     },
@@ -29706,7 +29706,7 @@
     "summary": "How to read an Excel file in C#: load .xlsx and .xls into objects with ExcelDataReader, ClosedXML, ExcelMapper, or plain OpenXML, no Office or Interop.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
         "likes": 4
@@ -29743,7 +29743,7 @@
     "summary": "Today I pushed out AutoMapper 17.0.0 and MediatR 15.0.0. Both are major releases for .NET 11, and in both libraries the main change is which versions of .NET they target. .NET 11 support Both packages now target .NET 11: * AutoMapper: .NET 10, .NET 11, .NET Standard",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": null
     },
@@ -29802,7 +29802,7 @@
     "summary": "In this post, I walk through how I tracked down three separate reasons dotnet build was hanging or failing inside Claude Code’s macOS sandbox, and the fixes for two of them.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
         "likes": 1
@@ -29837,7 +29837,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": null
     },
@@ -29871,7 +29871,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": null
     },
@@ -29905,7 +29905,7 @@
     "summary": "Use your most capable model to audit your codebase and write plans for cheaper models to execute. - shadcn/improve",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
         "likes": 29
@@ -29941,7 +29941,7 @@
     "summary": "Unlock 2x faster llama.cpp and CUDA builds in WSL 2 using two hidden .wslconfig and wsl.conf tweaks that stop 9P PATH stalls and RAM swap thrashing.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": null
     },
@@ -29976,7 +29976,7 @@
     "summary": "Fix managed-account changes stalling while live extensions restart and rejoin the session. Copilot SDKs can now answer sudo, SSH, and Git password prompts from commands the agent runs, through a ne...",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": null
     },
@@ -30013,10 +30013,10 @@
     "summary": "The article introduces LLMON, an XML-like\n markup language that explicitly separates instructions, data, requirements, and execution bindings\nfor language models. Granite 4.1 preview models, conversion tools, benchmarks, and examples suggest\nimproved resistance to indirect prompt injection, though the approach remains experimental and\nlearned rather than guaranteed.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
-        "likes": 11
+        "likes": 14
       }
     },
     "heat": 1
@@ -30050,7 +30050,7 @@
     "summary": "Build faster with Gemini 4 Hydrogen, Google’s new model for cost-efficient agentic coding and debugging. Start building in Google AI Studio today.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
         "likes": 1
@@ -30084,7 +30084,7 @@
     "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
         "likes": 57
@@ -30118,7 +30118,7 @@
     "summary": "Most business leaders I meet no longer need to be convinced that AI works. They’ve seen the pilots, the demos and the copilots. The question I hear in boardrooms now is different: How do we move from AI that impresses to AI that changes how the business actually runs? That is the question Microsoft Frontier...",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
         "likes": 2
@@ -30156,10 +30156,10 @@
     "summary": "Microsoft Defender Research and the AI Red Team discuss how poisoned datasets and poisoned model checkpoints can trigger remote code execution and other malicious activities.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
-        "likes": 3
+        "likes": 4
       }
     },
     "heat": 0
@@ -30190,7 +30190,7 @@
     "summary": "Results are widespread. Value at scale is not, and that gap is what this year’s research from IDC, commissioned by Microsoft, set out to explain. In our fourth year commissioning IDC, more than 5,200 senior IT and business leaders across 28 industries shared what it takes to maximize value as AI scales. The clearest lessons...",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
         "likes": 0
@@ -30223,7 +30223,7 @@
     "summary": "An AI feature can save users time on a task, only for them to spend it checking the results. This practical audit helps product teams decide where AI earns its place and what users need to verify its output.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
         "likes": 3
@@ -30259,7 +30259,7 @@
     "summary": "Apple Foundation Models bring local AI, the fm CLI, and Private Cloud Compute into the Mac developer toolkit. Here’s how to understand the architecture and find practical uses alongside tools like …",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": null
     },
@@ -30294,7 +30294,7 @@
     "summary": "Today we’re giving Replit Agent two new jobs: buying supplies for your business with Link and Visa, and helping you reach customers with Google Ads. In September 2024, we launched Replit Agent, the first generally available coding agent that enabled anyone to build software by describing it in their own words. That opened the door to a new class of founders: people whose ideas had been held back by the high upfront cost and capability required to build software. But once an idea gets off the ground, a sprawl of new work follows: forming a company, keeping the app running, getting found, buying supplies, reaching customers. Each one is a new barrier to growth, even for engineers who can build the product but don’t know how to find customers. Since May, we’ve seen a ninefold increase in the number of entrepreneurs connecting their Replit-built businesses to Stripe for monetization. We’ve invested more in helping these founders grow, with agents as teammates that expand what they can do. Businesses on Replit can already accept payments, incorporate, find prospects and enrich leads, monitor app health and security, and optimize for SEO using Replit Agent. Today, we’re adding two more jobs, giving Replit Agent the ability to buy supplies and run ads on behalf of businesses, with the owner in full control of the spend. Agentic Commerce powered by Link, built by Stripe, and Visa",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
         "likes": 0
@@ -30330,7 +30330,7 @@
     "summary": "Which Slack channels to tag Claude in first: use cases, starter instructions, and a rollout checklist from eight startups using Claude Tag.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": null
     },
@@ -30365,7 +30365,7 @@
     "summary": "The article explains fine-tuning TRELLIS.2 on footwear assets using LoRA adapters.\n It provides preprocessing and training workflows packaged in Docker containers and runnable through\n Hugging Face Jobs.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
         "likes": 0
@@ -30398,7 +30398,7 @@
     "summary": "Copilot Studio agents are becoming more action-oriented and autonomous, and taking on more complex work. With agent user accounts, supported Copilot Studio...",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
         "likes": 1
@@ -30434,7 +30434,7 @@
     "summary": "Rather than three separate pieces for a two-way bound value, defineModel gives this common Vue component pattern a single line of syntax.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": null
     },
@@ -30470,7 +30470,7 @@
     "summary": "The shift to agentic realityWhen Git was designed in 2005, Linus Torvalds solved a brilliant problem for humans collaborating over terminal windows by",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
         "likes": 1
@@ -30506,7 +30506,7 @@
     "summary": "Learn the fundamentals of GDPR, including data controllers, processors, DPOs, personal data, anonymized data, and compliance responsibilities.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": null
     },
@@ -30540,7 +30540,7 @@
     "summary": "Get a sense for how software development teams work together, what various roles are and how they coordinate workloads.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": null
     },
@@ -30571,9 +30571,11 @@
     "summary": "The open source ServerOS panel: one place to run the Linux servers you already own. - serveroshq/panel",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
-      "bluesky": null
+      "bluesky": {
+        "likes": 0
+      }
     },
     "heat": 0
   },
@@ -30603,7 +30605,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": null
     },
@@ -30639,7 +30641,7 @@
     "summary": "I'd bet just about everyone has at least one containerized workload running in production by now. Plenty of organizations have several flavors of Kubernetes spread across a handful of clusters, too. If you're not there yet, you probably will be soon, because AI is helping developers and platform engineers build + ship software faster than any of us expected.What I keep running into when I talk with clients (and work alongside them) is that the end-to-end container strategy is where things fall a",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
         "likes": 0
@@ -30674,7 +30676,7 @@
     "summary": "Introduction Bloat refers to the excess, wasted disk space occupied by \"dead rows\" (tuples) within tables and indexes that no longer hold active data....",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": null
     },
@@ -30708,9 +30710,11 @@
     "summary": "(This is the third post in a three-part series on how AI is changing the way we build solutions in Microsoft Fabric. The first post explored how the new...",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
-      "bluesky": null
+      "bluesky": {
+        "likes": 1
+      }
     },
     "heat": 0
   },
@@ -30743,9 +30747,11 @@
     "summary": "SQL Server insights from Erik Darling — performance tuning, indexing, and query optimization. Free scripts, plus training courses and consulting.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
-      "bluesky": null
+      "bluesky": {
+        "likes": 0
+      }
     },
     "heat": 0
   },
@@ -30779,7 +30785,7 @@
     "summary": "2026-11-12 Experimental: answer git, ssh, and sudo password prompts from agent commands in a masked dialog (enable with /experimental on) Avoid unnecessary error popups during Microsoft Entra sign...",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": null
     },
@@ -30810,7 +30816,7 @@
     "summary": "A curated list of awesome PowerShell modules for package management, testing, automation, security, cloud administration, and more. - markwragg/awesome-powershell-modules",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
         "likes": 16
@@ -30845,7 +30851,7 @@
     "summary": "Dev preview v0.103.3151.0 This development preview adds an Awake lock-screen option, redesigns Command Palette's CPU card, and fixes shortcut conflict detection and Mouse Without Borders IP mapping...",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": null
     },
@@ -30876,7 +30882,7 @@
     "summary": "Queue your demo commands. Paste. The next one is already on your clipboard. Free for macOS and Windows.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": null
     },
@@ -30907,7 +30913,7 @@
     "summary": "An anonymous reader quotes a report from The Conversation: On April 10 2019, the Event Horizon Telescope (EHT) Collaboration revealed the first picture of a black hole. The object is at the centre of a galaxy known as M87, about 55 million light-years away. The iconic ring structure instantly became...",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
         "likes": 3
@@ -30938,16 +30944,13 @@
     "summary": "Every aviation radio transmission heard from Orcas Island, WA: live, transcribed, and archived. Listen to all channels at once, pick your own, or rewind to any moment.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
-      "hn": {
-        "points": 292,
-        "comments": 70
-      },
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": null,
       "bluesky": {
         "likes": 3
       }
     },
-    "heat": 2
+    "heat": 0
   },
   {
     "url": "https://nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
@@ -30973,16 +30976,13 @@
     "summary": "Transportation Secretary Sean Duffy blamed the outage on an outdated air traffic control system in which the routers “got overloaded with data.”",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
-      "hn": {
-        "points": 1638,
-        "comments": 1273
-      },
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": null,
       "bluesky": {
-        "likes": 122
+        "likes": 120
       }
     },
-    "heat": 3
+    "heat": 2
   },
   {
     "url": "https://blog.jsweeting.me/big-tech-is-here-to-let-us-down",
@@ -31008,16 +31008,13 @@
     "summary": "When I woke up this morning I thought about writing about the ongoing drama surrounding Nvidia and its morally and ethically corrupt leader. But, then I...",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
-      "hn": {
-        "points": 219,
-        "comments": 201
-      },
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": null,
       "bluesky": {
         "likes": 1
       }
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
@@ -31043,16 +31040,13 @@
     "summary": "Oakland police confirmed a grand theft investigation involving a shipment reportedly worth $11.4 million. The carrier's identity and circumstances surrounding the disappearance remain unclear.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
-      "hn": {
-        "points": 382,
-        "comments": 211
-      },
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": null,
       "bluesky": {
-        "likes": 11
+        "likes": 12
       }
     },
-    "heat": 3
+    "heat": 1
   },
   {
     "url": "https://reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for",
@@ -31078,16 +31072,13 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
-      "hn": {
-        "points": 392,
-        "comments": 221
-      },
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": null,
       "bluesky": {
-        "likes": 6
+        "likes": 7
       }
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://haddyalchaer.com/jepa",
@@ -31113,10 +31104,10 @@
     "summary": "There's a big debate in AI right now about what a world model should be. Most of the attention goes to generative world models, which predict the future by generating it, usually in pixels.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
-        "likes": 1
+        "likes": 2
       }
     },
     "heat": 0
@@ -31145,10 +31136,10 @@
     "summary": "Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theorems",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
-        "likes": 182
+        "likes": 187
       }
     },
     "heat": 2
@@ -31175,13 +31166,13 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
-        "likes": 9
+        "likes": 10
       }
     },
-    "heat": 0
+    "heat": 1
   },
   {
     "url": "https://mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming",
@@ -31207,7 +31198,7 @@
     "summary": "After I wrote Why Zig Over Rust for Systems Programming, the obvious next question was C. The Rust question was about safety and how much ceremony I was willing to accept for it. The C question is different, because Zig and C want the same things. Both are small languages without a Garbage Collector and both stay close to what the machine does. So this post is not about leaving C for something completely different. It is about the parts of C that cost me time and how Zig deals with them. All the code was compiled on a Mac with Zig 0.17 and clang.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
         "likes": 1
@@ -31239,10 +31230,10 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
-        "likes": 11
+        "likes": 13
       }
     },
     "heat": 1
@@ -31269,10 +31260,10 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
-        "likes": 254
+        "likes": 257
       }
     },
     "heat": 3
@@ -31299,10 +31290,10 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
-        "likes": 30
+        "likes": 31
       }
     },
     "heat": 1
@@ -31333,7 +31324,7 @@
     "summary": "Claude's Status Page - Elevated errors on claude.ai, Claude Code, and platform.claude.com.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
         "likes": 8
@@ -31364,10 +31355,10 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": {
-        "likes": 112
+        "likes": 113
       }
     },
     "heat": 2
@@ -31394,13 +31385,13 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": {
-        "points": 283,
-        "comments": 153
+        "points": 444,
+        "comments": 233
       },
       "bluesky": {
-        "likes": 60
+        "likes": 97
       }
     },
     "heat": 3
@@ -31427,13 +31418,13 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": {
-        "points": 857,
-        "comments": 584
+        "points": 1656,
+        "comments": 1233
       },
       "bluesky": {
-        "likes": 71
+        "likes": 75
       }
     },
     "heat": 3
@@ -31460,16 +31451,16 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": {
-        "points": 216,
-        "comments": 125
+        "points": 284,
+        "comments": 178
       },
       "bluesky": {
-        "likes": 48
+        "likes": 53
       }
     },
-    "heat": 2
+    "heat": 3
   },
   {
     "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles",
@@ -31487,26 +31478,26 @@
       }
     ],
     "state": "scored",
-    "score": 5,
+    "score": 7,
     "tags": [
       "Engineering practice"
     ],
     "reason": "Its history of DevOps, SRE, platform\nengineering, and emerging AI roles gives useful context for how software teams organise\nwork.",
     "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
-    "lift": false,
+    "lift": true,
     "summary": "The article presents a visual family tree of software job titles from the 1940s to\n today. It traces how roles split, merged, were renamed, and sometimes recycled, highlighting\nrecurring patterns in software organisational work.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": {
-        "points": 234,
-        "comments": 113
+        "points": 439,
+        "comments": 218
       },
       "bluesky": {
-        "likes": 1
+        "likes": 5
       }
     },
-    "heat": 2
+    "heat": 3
   },
   {
     "url": "https://crissyfield.de/research/lovable-en",
@@ -31532,13 +31523,13 @@
     "lift": true,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": {
-        "points": 692,
-        "comments": 283
+        "points": 976,
+        "comments": 372
       },
       "bluesky": {
-        "likes": 11
+        "likes": 17
       }
     },
     "heat": 3
@@ -31569,13 +31560,13 @@
     "summary": "PyPI now makes it simple to check where release files come from, with a dedicated security tab, a rebuilt release files tab, and refreshed documentation.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": {
-        "points": 215,
-        "comments": 94
+        "points": 273,
+        "comments": 130
       },
       "bluesky": {
-        "likes": 19
+        "likes": 21
       }
     },
     "heat": 2
@@ -31624,13 +31615,13 @@
     "summary": "KDE: The Documentary tells the story of the pioneering open source community that gave computer users a free and open alternative to proprietary desktops like Windows. The story starts in 1996, whe...",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": {
-        "points": 405,
-        "comments": 87
+        "points": 565,
+        "comments": 134
       },
       "bluesky": {
-        "likes": 60
+        "likes": 71
       }
     },
     "heat": 3
@@ -31651,26 +31642,23 @@
       }
     ],
     "state": "scored",
-    "score": 5,
+    "score": 3,
     "tags": [
       "Security"
     ],
     "reason": "It raises practical privacy and surveillance concerns\naround AI-enabled devices, but offers little direct relevance to .NET development or coding-agent\npractice.",
     "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
-    "lift": true,
+    "lift": false,
     "summary": "Privacy, which companies were once happy to claim was all about personal choice, is now primed to affect everyone around you even more than it already did.Meta and Google’s smart glasses can record anything the owner is looking at or use artificial intelligence to describe it. Apple’s* Audio...",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
-      "hn": {
-        "points": 491,
-        "comments": 179
-      },
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": null,
       "bluesky": {
-        "likes": 118
+        "likes": 158
       }
     },
-    "heat": 3
+    "heat": 2
   },
   {
     "url": "https://monkeyisland.pages.dev/",
@@ -31695,16 +31683,13 @@
     "summary": "Every version of The Secret of Monkey Island (1990) side by side: Hercules, CGA, EGA, VGA, Amiga, Atari ST, Macintosh, FM Towns and Sega CD. 8 editions, 13 display modes, the same 12 scenes.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
-      "hn": {
-        "points": 468,
-        "comments": 147
-      },
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": null,
       "bluesky": {
-        "likes": 162
+        "likes": 175
       }
     },
-    "heat": 3
+    "heat": 2
   },
   {
     "url": "https://techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
@@ -31729,13 +31714,10 @@
     "summary": "Following the departure of now-former NVIDIA CEO, Jensen Huang, a new report by The Wall Street Journal (via Wccftech) has emerged alleging that NVIDIA artificially inflated the ongoing GPU and memory shortage by investing in AI startups that would go on to buy NVIDIA GPUs and build data centers....",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
-      "hn": {
-        "points": 1048,
-        "comments": 623
-      },
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": null,
       "bluesky": {
-        "likes": 3283
+        "likes": 3681
       }
     },
     "heat": 3
@@ -31755,24 +31737,21 @@
       }
     ],
     "state": "scored",
-    "score": 3,
+    "score": 1,
     "tags": [],
     "reason": "A low-level machine-learning library release is outside this reader's\n .NET and practical AI coding-tool interests.",
     "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
-    "lift": true,
+    "lift": false,
     "summary": "Overview ggml 1.0.0 prunes the deprecated public API and the legacy DIAG_MASK ops, adds configurable YaRN truncation and FP8 support, and brings broad performance work across backends: few-row quan...",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
-      "hn": {
-        "points": 399,
-        "comments": 67
-      },
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": null,
       "bluesky": {
-        "likes": 2
+        "likes": 7
       }
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
@@ -31798,13 +31777,10 @@
     "summary": "Huang stepped down as CEO after reports of a second extramarital relationship with Nvidia executive Kimberly Powell emerged.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
-      "hn": {
-        "points": 215,
-        "comments": 52
-      },
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": null,
       "bluesky": {
-        "likes": 17
+        "likes": 101
       }
     },
     "heat": 2
@@ -31831,16 +31807,13 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
-      "hn": {
-        "points": 209,
-        "comments": 2
-      },
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": null,
       "bluesky": {
         "likes": 33
       }
     },
-    "heat": 2
+    "heat": 1
   },
   {
     "url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
@@ -31864,16 +31837,13 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
-      "hn": {
-        "points": 308,
-        "comments": 232
-      },
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": null,
       "bluesky": {
         "likes": 7
       }
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://unsloth.ai/docs/models/qwen3.8",
@@ -31903,13 +31873,10 @@
     "summary": "Unsloth presents updated Dynamic V3.1\nquantizations for Qwen3.8-27B, claiming improved accuracy across coding, agentic, reasoning, and\ngeneral benchmarks. It documents hardware requirements, inference settings, local desktop and\nllama.cpp usage, API serving, and faster NVFP4 variants.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
-      "hn": {
-        "points": 243,
-        "comments": 78
-      },
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": null,
       "bluesky": {
-        "likes": 193
+        "likes": 195
       }
     },
     "heat": 2
@@ -31938,16 +31905,13 @@
     "summary": "Watch U.S. skies empty after the Nov 13, 2026 ground stop. Flights airborne against a normal Friday, departures, and the backlog at major airports.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
-      "hn": {
-        "points": 211,
-        "comments": 27
-      },
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": null,
       "bluesky": {
         "likes": 1
       }
     },
-    "heat": 2
+    "heat": 0
   },
   {
     "url": "https://joshka.net/cell-borders",
@@ -31964,24 +31928,21 @@
       }
     ],
     "state": "scored",
-    "score": 3,
+    "score": 1,
     "tags": [],
     "reason": "A niche terminal UI protocol for Ghostty and Ratatui has little\nconnection to this reader’s .NET, systems, or coding-agent interests.",
     "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
-    "lift": true,
+    "lift": false,
     "summary": "A terminal protocol for thin lines on cell edges: borders, rounded corners and gridlines that don't use up rows or columns. Working in Ghostty, with Ratatui demos.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
-      "hn": {
-        "points": 406,
-        "comments": 195
-      },
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": null,
       "bluesky": {
-        "likes": 93
+        "likes": 110
       }
     },
-    "heat": 3
+    "heat": 2
   },
   {
     "url": "https://twitter.com/flightradar24/status/2121347654714077605",
@@ -32005,16 +31966,13 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
-      "hn": {
-        "points": 211,
-        "comments": 44
-      },
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": null,
       "bluesky": {
         "likes": 0
       }
     },
-    "heat": 2
+    "heat": 0
   },
   {
     "url": "https://slopmanifesto.com/",
@@ -32040,13 +31998,10 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
-      "hn": {
-        "points": 218,
-        "comments": 129
-      },
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": null,
       "bluesky": {
-        "likes": 180
+        "likes": 199
       }
     },
     "heat": 2
@@ -32073,7 +32028,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": null,
       "bluesky": null
     },
@@ -32102,16 +32057,13 @@
     "summary": "FM-1\nWorkbench publishes an open-source app and development kit for the M-VAVE FM-1 synthesizer. It\ndocuments GPL, Apache, MIT, proprietary SDK, firmware, and third-party component licensing terms.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
-      "hn": {
-        "points": 268,
-        "comments": 177
-      },
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": null,
       "bluesky": {
-        "likes": 21
+        "likes": 22
       }
     },
-    "heat": 3
+    "heat": 1
   },
   {
     "url": "https://isometricsf.com/",
@@ -32136,13 +32088,498 @@
     "summary": "An isometric pixel-art map of the whole San Francisco Bay Area. Search a place, a town or an address, then send someone the view.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-15T03:41:22Z",
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 13
+      }
+    },
+    "heat": 1
+  },
+  {
+    "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026",
+    "title": "Old Bitly links are being hijacked",
+    "source": "Hacker News",
+    "publisher": "Ransomnews",
+    "publisher_source": "page",
+    "author": null,
+    "published": "2026-11-15T14:31:55Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-16T03:41:21Z"
+      }
+    ],
+    "state": "scored",
+    "score": 3,
+    "tags": [
+      "Security"
+    ],
+    "reason": "A cautionary account of link hijacking and the risks of\nrelying on third-party URL shorteners.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Burger King and McDonald's were not hacked. Someone re-registered the Bitly links in their 2011 tweets, and 57 of 97 links in old Trump tweets have been replaced too.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-16T03:41:21Z",
       "hn": {
-        "points": 250,
-        "comments": 74
+        "points": 204,
+        "comments": 107
       },
       "bluesky": {
-        "likes": 12
+        "likes": 2
+      }
+    },
+    "heat": 2
+  },
+  {
+    "url": "https://bruceroettgers.eu/blog/protomaps",
+    "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+    "source": "Hacker News",
+    "publisher": "Bruce Röttgers",
+    "publisher_source": "page",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-16T03:41:21Z"
+      }
+    ],
+    "state": "scored",
+    "score": 1,
+    "tags": [],
+    "reason": "This is a practical mapping and storage technique, but it does not\naddress the reader’s .NET, software design, or coding-tool interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "PMTiles is a tile format which works via HTTP Range requests and can be deployed as a single file to a storage bucket.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": {
+        "points": 206,
+        "comments": 46
+      },
+      "bluesky": {
+        "likes": 1
+      }
+    },
+    "heat": 2
+  },
+  {
+    "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+    "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+    "source": "Hacker News",
+    "publisher": "www1.wdr.de",
+    "publisher_source": "host",
+    "author": null,
+    "published": "2026-11-13T19:04:42Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-16T03:41:21Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [
+      "Windows desktop"
+    ],
+    "reason": "This is a Microsoft 365 outage incident involving\nhotel operations, not a platform or tooling development concern for this reader.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Wegen der Outlook-Störung am Freitag bekam das Phantasialand nicht mit, dass zu viel Chlor im Pool war. 15 Gäste wurden verletzt.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": {
+        "points": 433,
+        "comments": 190
+      },
+      "bluesky": {
+        "likes": 519
+      }
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
+    "title": "All AI-generated code should be Open Source",
+    "source": "Hacker News",
+    "publisher": "Jakub T. Jankiewicz Blog",
+    "publisher_source": "page",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-16T03:41:21Z"
+      }
+    ],
+    "state": "scored",
+    "score": 7,
+    "tags": [
+      "Coding agents"
+    ],
+    "reason": "It raises a practical licensing and ownership question\n for developers using coding agents, though the provided text offers no supporting analysis.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": true,
+    "summary": "All code generated with help from AI should be Open Source or on Creative Commons Zero (CC0) license.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": {
+        "points": 1112,
+        "comments": 597
+      },
+      "bluesky": {
+        "likes": 19
+      }
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://prog21.dadgum.com/116.html",
+    "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+    "source": "Hacker News",
+    "publisher": "prog21.dadgum.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-16T03:41:21Z"
+      }
+    ],
+    "state": "scored",
+    "score": 2,
+    "tags": [
+      "Performance"
+    ],
+    "reason": "It offers an entertaining historical comparison of\ncompiler size and build speed, but little practical relevance to modern .NET\ndevelopment.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "The article compares Turbo Pascal 3's 39,731-byte compiler and IDE with\nlarger software, libraries, web pages, documents, and compiled code from 2011. It highlights how\ncompact and fast the old development environment was.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": {
+        "points": 212,
+        "comments": 112
+      },
+      "bluesky": {
+        "likes": 4
+      }
+    },
+    "heat": 2
+  },
+  {
+    "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use",
+    "title": "The MacBook Pro's OLED PWM problem",
+    "source": "Hacker News",
+    "publisher": "MacAnorak",
+    "publisher_source": "page",
+    "author": null,
+    "published": "2026-11-14T18:13:23Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-16T03:41:21Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "This concerns MacBook display comfort, outside the reader's .NET,\nsoftware engineering, and coding-tool interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Apple has made a spectacular display. But spectacular isn’t the same as comfortable, and the people discovering that distinction deserve to be heard.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": {
+        "points": 433,
+        "comments": 244
+      },
+      "bluesky": {
+        "likes": 4
+      }
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+    "title": "Understanding Positional Embeddings in Modern LLMs",
+    "source": "Hacker News",
+    "publisher": "magazine.sebastianraschka.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": "2026-11-15T12:10:37Z",
+    "published_source": "jsonld",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-16T03:41:21Z"
+      }
+    ],
+    "state": "scored",
+    "score": 2,
+    "tags": [
+      "LLMs"
+    ],
+    "reason": "It offers a clear technical explanation of positional\nembeddings, but focuses on model internals rather than practical use of LLMs as development\ntools.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "The article explains why language models need positional information and surveys\nabsolute, sinusoidal, relative, and rotary methods such as RoPE. It uses diagrams, mathematics, and\nPyTorch examples to connect these techniques to modern model architectures.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": {
+        "points": 217,
+        "comments": 27
+      },
+      "bluesky": {
+        "likes": 3
+      }
+    },
+    "heat": 2
+  },
+  {
+    "url": "https://nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-nvidia-cantor-fitzgerald.html",
+    "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+    "source": "Hacker News",
+    "publisher": "nytimes.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": "2026-11-15T10:02:05Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-16T03:41:21Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "This is political and business reporting about semiconductor\nregulation, not .NET, software engineering, or the reader’s relevant tools.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "The commerce secretary has been writing new rules that would affect Southeast Asian data centers, some of which are clients of his former firm.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 909
+      }
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://space.stackexchange.com/questions/37775",
+    "title": "Why did some Apollo missions carry a grenade launcher? (2019)",
+    "source": "Hacker News",
+    "publisher": "space.stackexchange.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-16T03:41:21Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "This article concerns Apollo mission equipment, unrelated to .NET\ndevelopment, software engineering, or the reader's technology interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": {
+        "points": 234,
+        "comments": 147
+      },
+      "bluesky": {
+        "likes": 2
+      }
+    },
+    "heat": 2
+  },
+  {
+    "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games",
+    "title": "My favourite modern NES games",
+    "source": "Hacker News",
+    "publisher": "jordi.inversethought.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-16T03:41:21Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "It is exclusively about retro video games, outside this reader’s\nprofessional interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "The article recommends 25 modern games made for the original\nNintendo Entertainment System. It briefly describes their genres, gameplay, technical lineage,\navailability, and distinctive features.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": {
+        "points": 202,
+        "comments": 40
+      },
+      "bluesky": {
+        "likes": 3
+      }
+    },
+    "heat": 2
+  },
+  {
+    "url": "https://eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+    "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+    "source": "Hacker News",
+    "publisher": "Electronic Frontier Foundation",
+    "publisher_source": "page",
+    "author": null,
+    "published": "2026-11-09T22:09:24Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-16T03:41:21Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "This concerns law-enforcement surveillance and constitutional search\nrules, not .NET, software engineering, or the AI tools this reader uses.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Automated license plate readers are simply not comparable to observing an individual license plate on a passing car. As we’ve explained in many amicus briefs and in our lawsuits directly challenging their use, ALPRs give law enforcement “a virtual time machine to view suspects’, or anyone else’s, past movements (and much more) with just the click of a button.”",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": {
+        "points": 339,
+        "comments": 127
+      },
+      "bluesky": {
+        "likes": 349
+      }
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+    "title": "Court denies motion to dismiss DRAM price fixing case",
+    "source": "Hacker News",
+    "publisher": "LitNews",
+    "publisher_source": "page",
+    "author": null,
+    "published": "2026-11-14T23:55:00Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-16T03:41:21Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "A DRAM antitrust ruling concerns chip supply litigation, outside this\n reader’s .NET, software engineering, and coding-tool interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Judge Noël Wise found buyers plausibly alleged the chipmakers conspired to cut conventional DRAM supply and shift capacity to HBM, distinguishing the Ninth Circuit's DRAM II.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": {
+        "points": 495,
+        "comments": 219
+      },
+      "bluesky": {
+        "likes": 7
+      }
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://retrocomputing.stackexchange.com/questions/17957",
+    "title": "How did Woz write the Apple 1 BASIC before building the computer? (2021)",
+    "source": "Hacker News",
+    "publisher": "retrocomputing.stackexchange.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-16T03:41:21Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "A historical account of Apple 1 BASIC is outside this reader's\ninterests in modern .NET, software engineering, and coding tools.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": {
+        "points": 313,
+        "comments": 169
+      },
+      "bluesky": {
+        "likes": 4
+      }
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+    "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+    "source": "Hacker News",
+    "publisher": "GitHub",
+    "publisher_source": "page",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-16T03:41:21Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "This is a machine-learning implementation and training write-up,\noutside the reader’s stated interests in practical tools and production .NET development.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "DeepSeek V3 (MLA, DeepSeekMoE, aux-loss-free balancing, MTP) in 190 lines of pure JAX, trained on a MacBook Air. Write-up: vaibhaav.in/writing/deepseek-v3-jax - Vaibhaav-Tiwari/deepseek-v3-jax",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-16T03:41:21Z",
+      "hn": {
+        "points": 272,
+        "comments": 28
+      },
+      "bluesky": {
+        "likes": 3
       }
     },
     "heat": 2
