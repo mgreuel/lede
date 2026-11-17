@@ -13674,6 +13674,12 @@
         "seen_at": "2026-11-07T03:41:22Z",
         "via_item": "https://alvinashcraft.com/2026/11/06/dew-drop-november-6-2026-4787/",
         "section": "AI"
+      },
+      {
+        "feed_id": "https://www.frankysnotes.com/feeds/posts/default?alt=rss",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://www.frankysnotes.com/2026/11/reading-notes-722.html",
+        "section": "Suggestion of the week"
       }
     ],
     "state": "scored",
@@ -17232,6 +17238,12 @@
         "seen_at": "2026-11-10T03:41:11Z",
         "via_item": "https://alvinashcraft.com/2026/11/09/dew-drop-november-9-2026-4788/",
         "section": "Web and Cloud Development"
+      },
+      {
+        "feed_id": "https://www.frankysnotes.com/feeds/posts/default?alt=rss",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://www.frankysnotes.com/2026/11/reading-notes-722.html",
+        "section": "Cloud"
       }
     ],
     "state": "scored",
@@ -17933,6 +17945,12 @@
         "seen_at": "2026-11-10T03:41:11Z",
         "via_item": "https://alvinashcraft.com/2026/11/09/dew-drop-november-9-2026-4788/",
         "section": "AI"
+      },
+      {
+        "feed_id": "https://www.frankysnotes.com/feeds/posts/default?alt=rss",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://www.frankysnotes.com/2026/11/reading-notes-722.html",
+        "section": "AI"
       }
     ],
     "state": "scored",
@@ -18204,6 +18222,12 @@
         "feed_id": "https://www.alvinashcraft.com/feed.xml",
         "seen_at": "2026-11-10T03:41:11Z",
         "via_item": "https://alvinashcraft.com/2026/11/09/dew-drop-november-9-2026-4788/",
+        "section": "AI"
+      },
+      {
+        "feed_id": "https://www.frankysnotes.com/feeds/posts/default?alt=rss",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://www.frankysnotes.com/2026/11/reading-notes-722.html",
         "section": "AI"
       }
     ],
@@ -20424,6 +20448,12 @@
         "seen_at": "2026-11-12T03:41:18Z",
         "via_item": "https://alvinashcraft.com/2026/11/11/dew-drop-november-11-2026-4790/",
         "section": "Top Links"
+      },
+      {
+        "feed_id": "https://www.frankysnotes.com/feeds/posts/default?alt=rss",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://www.frankysnotes.com/2026/11/reading-notes-722.html",
+        "section": "Programming"
       }
     ],
     "state": "vetoed",
@@ -24004,6 +24034,12 @@
         "seen_at": "2026-11-12T03:41:18Z",
         "via_item": "https://alvinashcraft.com/2026/11/11/dew-drop-november-11-2026-4790/",
         "section": "Web and Cloud Development"
+      },
+      {
+        "feed_id": "https://www.frankysnotes.com/feeds/posts/default?alt=rss",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://www.frankysnotes.com/2026/11/reading-notes-722.html",
+        "section": "AI"
       }
     ],
     "state": "scored",
@@ -29293,6 +29329,12 @@
       {
         "feed_id": "https://milanjovanovic.tech/rss/feed.xml",
         "seen_at": "2026-11-14T03:41:26Z"
+      },
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": ".NET and Visual Studio"
       }
     ],
     "state": "scored",
@@ -31385,16 +31427,13 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
-      "hn": {
-        "points": 444,
-        "comments": 233
-      },
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
       "bluesky": {
-        "likes": 97
+        "likes": 99
       }
     },
-    "heat": 3
+    "heat": 2
   },
   {
     "url": "https://spacex.com/launches/starship-flight-15",
@@ -31418,16 +31457,13 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
-      "hn": {
-        "points": 1656,
-        "comments": 1233
-      },
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
       "bluesky": {
-        "likes": 75
+        "likes": 77
       }
     },
-    "heat": 3
+    "heat": 2
   },
   {
     "url": "https://cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
@@ -31451,16 +31487,13 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
-      "hn": {
-        "points": 284,
-        "comments": 178
-      },
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
       "bluesky": {
         "likes": 53
       }
     },
-    "heat": 3
+    "heat": 2
   },
   {
     "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles",
@@ -31478,26 +31511,23 @@
       }
     ],
     "state": "scored",
-    "score": 7,
+    "score": 5,
     "tags": [
       "Engineering practice"
     ],
     "reason": "Its history of DevOps, SRE, platform\nengineering, and emerging AI roles gives useful context for how software teams organise\nwork.",
     "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
-    "lift": true,
+    "lift": false,
     "summary": "The article presents a visual family tree of software job titles from the 1940s to\n today. It traces how roles split, merged, were renamed, and sometimes recycled, highlighting\nrecurring patterns in software organisational work.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
-      "hn": {
-        "points": 439,
-        "comments": 218
-      },
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
       "bluesky": {
-        "likes": 5
+        "likes": 6
       }
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://crissyfield.de/research/lovable-en",
@@ -31514,25 +31544,22 @@
       }
     ],
     "state": "scored",
-    "score": 9,
+    "score": 7,
     "tags": [
       "Security"
     ],
     "reason": "A serious security exposure involving AI-built applications\n offers practical lessons for developers protecting sensitive production data.",
     "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
-    "lift": true,
+    "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
-      "hn": {
-        "points": 976,
-        "comments": 372
-      },
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
       "bluesky": {
-        "likes": 17
+        "likes": 18
       }
     },
-    "heat": 3
+    "heat": 1
   },
   {
     "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete",
@@ -31560,16 +31587,13 @@
     "summary": "PyPI now makes it simple to check where release files come from, with a dedicated security tab, a rebuilt release files tab, and refreshed documentation.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
-      "hn": {
-        "points": 273,
-        "comments": 130
-      },
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
       "bluesky": {
-        "likes": 21
+        "likes": 28
       }
     },
-    "heat": 2
+    "heat": 1
   },
   {
     "url": "https://reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14",
@@ -31615,16 +31639,13 @@
     "summary": "KDE: The Documentary tells the story of the pioneering open source community that gave computer users a free and open alternative to proprietary desktops like Windows. The story starts in 1996, whe...",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
-      "hn": {
-        "points": 565,
-        "comments": 134
-      },
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
       "bluesky": {
-        "likes": 71
+        "likes": 75
       }
     },
-    "heat": 3
+    "heat": 2
   },
   {
     "url": "https://eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
@@ -31642,23 +31663,23 @@
       }
     ],
     "state": "scored",
-    "score": 3,
+    "score": 5,
     "tags": [
       "Security"
     ],
     "reason": "It raises practical privacy and surveillance concerns\naround AI-enabled devices, but offers little direct relevance to .NET development or coding-agent\npractice.",
     "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
-    "lift": false,
+    "lift": true,
     "summary": "Privacy, which companies were once happy to claim was all about personal choice, is now primed to affect everyone around you even more than it already did.Meta and Google’s smart glasses can record anything the owner is looking at or use artificial intelligence to describe it. Apple’s* Audio...",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
+      "measured_at": "2026-11-17T03:41:26Z",
       "hn": null,
       "bluesky": {
-        "likes": 158
+        "likes": 233
       }
     },
-    "heat": 2
+    "heat": 3
   },
   {
     "url": "https://monkeyisland.pages.dev/",
@@ -31683,10 +31704,10 @@
     "summary": "Every version of The Secret of Monkey Island (1990) side by side: Hercules, CGA, EGA, VGA, Amiga, Atari ST, Macintosh, FM Towns and Sega CD. 8 editions, 13 display modes, the same 12 scenes.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
+      "measured_at": "2026-11-17T03:41:26Z",
       "hn": null,
       "bluesky": {
-        "likes": 175
+        "likes": 181
       }
     },
     "heat": 2
@@ -31714,10 +31735,10 @@
     "summary": "Following the departure of now-former NVIDIA CEO, Jensen Huang, a new report by The Wall Street Journal (via Wccftech) has emerged alleging that NVIDIA artificially inflated the ongoing GPU and memory shortage by investing in AI startups that would go on to buy NVIDIA GPUs and build data centers....",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
+      "measured_at": "2026-11-17T03:41:26Z",
       "hn": null,
       "bluesky": {
-        "likes": 3681
+        "likes": 3736
       }
     },
     "heat": 3
@@ -31745,7 +31766,7 @@
     "summary": "Overview ggml 1.0.0 prunes the deprecated public API and the legacy DIAG_MASK ops, adds configurable YaRN truncation and FP8 support, and brings broad performance work across backends: few-row quan...",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
+      "measured_at": "2026-11-17T03:41:26Z",
       "hn": null,
       "bluesky": {
         "likes": 7
@@ -31777,10 +31798,10 @@
     "summary": "Huang stepped down as CEO after reports of a second extramarital relationship with Nvidia executive Kimberly Powell emerged.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
+      "measured_at": "2026-11-17T03:41:26Z",
       "hn": null,
       "bluesky": {
-        "likes": 101
+        "likes": 105
       }
     },
     "heat": 2
@@ -31807,7 +31828,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
+      "measured_at": "2026-11-17T03:41:26Z",
       "hn": null,
       "bluesky": {
         "likes": 33
@@ -31837,7 +31858,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
+      "measured_at": "2026-11-17T03:41:26Z",
       "hn": null,
       "bluesky": {
         "likes": 7
@@ -31873,7 +31894,7 @@
     "summary": "Unsloth presents updated Dynamic V3.1\nquantizations for Qwen3.8-27B, claiming improved accuracy across coding, agentic, reasoning, and\ngeneral benchmarks. It documents hardware requirements, inference settings, local desktop and\nllama.cpp usage, API serving, and faster NVFP4 variants.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
+      "measured_at": "2026-11-17T03:41:26Z",
       "hn": null,
       "bluesky": {
         "likes": 195
@@ -31905,7 +31926,7 @@
     "summary": "Watch U.S. skies empty after the Nov 13, 2026 ground stop. Flights airborne against a normal Friday, departures, and the backlog at major airports.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
+      "measured_at": "2026-11-17T03:41:26Z",
       "hn": null,
       "bluesky": {
         "likes": 1
@@ -31936,10 +31957,10 @@
     "summary": "A terminal protocol for thin lines on cell edges: borders, rounded corners and gridlines that don't use up rows or columns. Working in Ghostty, with Ratatui demos.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
+      "measured_at": "2026-11-17T03:41:26Z",
       "hn": null,
       "bluesky": {
-        "likes": 110
+        "likes": 111
       }
     },
     "heat": 2
@@ -31966,7 +31987,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
+      "measured_at": "2026-11-17T03:41:26Z",
       "hn": null,
       "bluesky": {
         "likes": 0
@@ -31989,22 +32010,22 @@
       }
     ],
     "state": "scored",
-    "score": 4,
+    "score": 6,
     "tags": [
       "LLMs"
     ],
     "reason": "The title suggests a critique of AI-generated content, but\nprovides too little evidence of practical relevance to this reader's development work.",
     "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
-    "lift": false,
+    "lift": true,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
+      "measured_at": "2026-11-17T03:41:26Z",
       "hn": null,
       "bluesky": {
-        "likes": 199
+        "likes": 207
       }
     },
-    "heat": 2
+    "heat": 3
   },
   {
     "url": "https://idp.nature.com/transit?code=923cbc30-15d0-438a-9468-fd1f3dc3db32&redirect_uri=https%3A%2F%2Fwww.nature.com%2Farticles%2Fd41586-026-03638-3",
@@ -32028,7 +32049,7 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
+      "measured_at": "2026-11-17T03:41:26Z",
       "hn": null,
       "bluesky": null
     },
@@ -32057,7 +32078,7 @@
     "summary": "FM-1\nWorkbench publishes an open-source app and development kit for the M-VAVE FM-1 synthesizer. It\ndocuments GPL, Apache, MIT, proprietary SDK, firmware, and third-party component licensing terms.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
+      "measured_at": "2026-11-17T03:41:26Z",
       "hn": null,
       "bluesky": {
         "likes": 22
@@ -32088,10 +32109,10 @@
     "summary": "An isometric pixel-art map of the whole San Francisco Bay Area. Search a place, a town or an address, then send someone the view.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
+      "measured_at": "2026-11-17T03:41:26Z",
       "hn": null,
       "bluesky": {
-        "likes": 13
+        "likes": 15
       }
     },
     "heat": 1
@@ -32112,26 +32133,26 @@
       }
     ],
     "state": "scored",
-    "score": 3,
+    "score": 5,
     "tags": [
       "Security"
     ],
     "reason": "A cautionary account of link hijacking and the risks of\nrelying on third-party URL shorteners.",
     "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
-    "lift": false,
+    "lift": true,
     "summary": "Burger King and McDonald's were not hacked. Someone re-registered the Bitly links in their 2011 tweets, and 57 of 97 links in old Trump tweets have been replaced too.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
+      "measured_at": "2026-11-17T03:41:26Z",
       "hn": {
-        "points": 204,
-        "comments": 107
+        "points": 375,
+        "comments": 200
       },
       "bluesky": {
-        "likes": 2
+        "likes": 11
       }
     },
-    "heat": 2
+    "heat": 3
   },
   {
     "url": "https://bruceroettgers.eu/blog/protomaps",
@@ -32156,16 +32177,13 @@
     "summary": "PMTiles is a tile format which works via HTTP Range requests and can be deployed as a single file to a storage bucket.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
-      "hn": {
-        "points": 206,
-        "comments": 46
-      },
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
       "bluesky": {
-        "likes": 1
+        "likes": 4
       }
     },
-    "heat": 2
+    "heat": 0
   },
   {
     "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
@@ -32193,13 +32211,10 @@
     "summary": "Wegen der Outlook-Störung am Freitag bekam das Phantasialand nicht mit, dass zu viel Chlor im Pool war. 15 Gäste wurden verletzt.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
-      "hn": {
-        "points": 433,
-        "comments": 190
-      },
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
       "bluesky": {
-        "likes": 519
+        "likes": 606
       }
     },
     "heat": 3
@@ -32219,26 +32234,23 @@
       }
     ],
     "state": "scored",
-    "score": 7,
+    "score": 5,
     "tags": [
       "Coding agents"
     ],
     "reason": "It raises a practical licensing and ownership question\n for developers using coding agents, though the provided text offers no supporting analysis.",
     "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
-    "lift": true,
+    "lift": false,
     "summary": "All code generated with help from AI should be Open Source or on Creative Commons Zero (CC0) license.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
-      "hn": {
-        "points": 1112,
-        "comments": 597
-      },
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
       "bluesky": {
-        "likes": 19
+        "likes": 24
       }
     },
-    "heat": 3
+    "heat": 1
   },
   {
     "url": "https://prog21.dadgum.com/116.html",
@@ -32265,16 +32277,13 @@
     "summary": "The article compares Turbo Pascal 3's 39,731-byte compiler and IDE with\nlarger software, libraries, web pages, documents, and compiled code from 2011. It highlights how\ncompact and fast the old development environment was.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
-      "hn": {
-        "points": 212,
-        "comments": 112
-      },
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
       "bluesky": {
-        "likes": 4
+        "likes": 9
       }
     },
-    "heat": 2
+    "heat": 0
   },
   {
     "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use",
@@ -32300,16 +32309,13 @@
     "summary": "Apple has made a spectacular display. But spectacular isn’t the same as comfortable, and the people discovering that distinction deserve to be heard.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
-      "hn": {
-        "points": 433,
-        "comments": 244
-      },
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
       "bluesky": {
-        "likes": 4
+        "likes": 6
       }
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
@@ -32337,16 +32343,13 @@
     "summary": "The article explains why language models need positional information and surveys\nabsolute, sinusoidal, relative, and rotary methods such as RoPE. It uses diagrams, mathematics, and\nPyTorch examples to connect these techniques to modern model architectures.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
-      "hn": {
-        "points": 217,
-        "comments": 27
-      },
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
       "bluesky": {
-        "likes": 3
+        "likes": 4
       }
     },
-    "heat": 2
+    "heat": 0
   },
   {
     "url": "https://nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-nvidia-cantor-fitzgerald.html",
@@ -32372,10 +32375,10 @@
     "summary": "The commerce secretary has been writing new rules that would affect Southeast Asian data centers, some of which are clients of his former firm.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
+      "measured_at": "2026-11-17T03:41:26Z",
       "hn": null,
       "bluesky": {
-        "likes": 909
+        "likes": 4568
       }
     },
     "heat": 3
@@ -32402,16 +32405,13 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
-      "hn": {
-        "points": 234,
-        "comments": 147
-      },
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
       "bluesky": {
-        "likes": 2
+        "likes": 4
       }
     },
-    "heat": 2
+    "heat": 0
   },
   {
     "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games",
@@ -32436,16 +32436,13 @@
     "summary": "The article recommends 25 modern games made for the original\nNintendo Entertainment System. It briefly describes their genres, gameplay, technical lineage,\navailability, and distinctive features.",
     "summary_source": "extracted",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
-      "hn": {
-        "points": 202,
-        "comments": 40
-      },
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
       "bluesky": {
-        "likes": 3
+        "likes": 4
       }
     },
-    "heat": 2
+    "heat": 0
   },
   {
     "url": "https://eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
@@ -32471,11 +32468,8 @@
     "summary": "Automated license plate readers are simply not comparable to observing an individual license plate on a passing car. As we’ve explained in many amicus briefs and in our lawsuits directly challenging their use, ALPRs give law enforcement “a virtual time machine to view suspects’, or anyone else’s, past movements (and much more) with just the click of a button.”",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
-      "hn": {
-        "points": 339,
-        "comments": 127
-      },
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
       "bluesky": {
         "likes": 349
       }
@@ -32506,16 +32500,13 @@
     "summary": "Judge Noël Wise found buyers plausibly alleged the chipmakers conspired to cut conventional DRAM supply and shift capacity to HBM, distinguishing the Ninth Circuit's DRAM II.",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
-      "hn": {
-        "points": 495,
-        "comments": 219
-      },
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
       "bluesky": {
-        "likes": 7
+        "likes": 12
       }
     },
-    "heat": 3
+    "heat": 1
   },
   {
     "url": "https://retrocomputing.stackexchange.com/questions/17957",
@@ -32539,16 +32530,13 @@
     "lift": false,
     "summary_source": "title-only",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
-      "hn": {
-        "points": 313,
-        "comments": 169
-      },
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
       "bluesky": {
-        "likes": 4
+        "likes": 7
       }
     },
-    "heat": 3
+    "heat": 0
   },
   {
     "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
@@ -32573,15 +32561,3320 @@
     "summary": "DeepSeek V3 (MLA, DeepSeekMoE, aux-loss-free balancing, MTP) in 190 lines of pure JAX, trained on a MacBook Air. Write-up: vaibhaav.in/writing/deepseek-v3-jax - Vaibhaav-Tiwari/deepseek-v3-jax",
     "summary_source": "og",
     "popularity": {
-      "measured_at": "2026-11-16T03:41:21Z",
-      "hn": {
-        "points": 272,
-        "comments": 28
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 4
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
+    "title": "Dependabot alert dismissal requests now last one year",
+    "source": "Archive: 2026 - GitHub Changelog",
+    "publisher": "Archive: 2026 - GitHub Changelog",
+    "publisher_source": "feed",
+    "author": "Allison",
+    "published": "2026-11-17T00:09:27Z",
+    "published_source": "feed",
+    "arrivals": [
+      {
+        "feed_id": "https://github.blog/changelog/feed/",
+        "seen_at": "2026-11-17T03:41:26Z"
+      }
+    ],
+    "state": "scored",
+    "score": 6,
+    "tags": [
+      "GitHub",
+      "Security",
+      "Releases"
+    ],
+    "reason": "This changes Dependabot\nalert-management workflow on GitHub, giving teams more time to review dismissal requests before they\n expire.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "If you use delegated alert dismissal for Dependabot, dismissal requests now stay open for one year instead of one week. Reviewers have more time to respond before a request expires… The post Dependabot alert dismissal requests now last one year appeared first on The GitHub Blog .",
+    "summary_source": "feed",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 0
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9",
+    "title": "GitHub Copilot weekly releases — November 9",
+    "source": "Archive: 2026 - GitHub Changelog",
+    "publisher": "Archive: 2026 - GitHub Changelog",
+    "publisher_source": "feed",
+    "author": "Allison",
+    "published": "2026-11-16T21:34:53Z",
+    "published_source": "feed",
+    "arrivals": [
+      {
+        "feed_id": "https://github.blog/changelog/feed/",
+        "seen_at": "2026-11-17T03:41:26Z"
+      }
+    ],
+    "state": "scored",
+    "score": 7,
+    "tags": [
+      "GitHub Copilot",
+      "Releases",
+      "Coding agents",
+      "Editors and IDEs"
+    ],
+    "reason": "It\nhighlights new Copilot models, Enterprise Server repository support, and VS Code agent-session\nvisibility that could change daily development workflows.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "This week, bring GitHub Enterprise Server repositories into the Copilot app and see which agent sessions need you first in VS Code. You can also try two new models, Claude… The post GitHub Copilot weekly releases — November 9 appeared first on The GitHub Blog .",
+    "summary_source": "feed",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 0
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
+    "title": "Budget limit increased to 40,000 budgets per account",
+    "source": "Archive: 2026 - GitHub Changelog",
+    "publisher": "Archive: 2026 - GitHub Changelog",
+    "publisher_source": "feed",
+    "author": "Allison",
+    "published": "2026-11-16T21:30:49Z",
+    "published_source": "feed",
+    "arrivals": [
+      {
+        "feed_id": "https://github.blog/changelog/feed/",
+        "seen_at": "2026-11-17T03:41:26Z"
+      }
+    ],
+    "state": "vetoed",
+    "score": 0,
+    "vetoed_by": "enterprise management tools",
+    "popularity": null,
+    "heat": 0
+  },
+  {
+    "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
+    "title": "GitHub Copilot models deprecated on November 16, 2026",
+    "source": "Archive: 2026 - GitHub Changelog",
+    "publisher": "Archive: 2026 - GitHub Changelog",
+    "publisher_source": "feed",
+    "author": "Allison",
+    "published": "2026-11-16T20:25:20Z",
+    "published_source": "feed",
+    "arrivals": [
+      {
+        "feed_id": "https://github.blog/changelog/feed/",
+        "seen_at": "2026-11-17T03:41:26Z"
+      }
+    ],
+    "state": "scored",
+    "score": 7,
+    "tags": [
+      "GitHub Copilot",
+      "Releases",
+      "LLMs"
+    ],
+    "reason": "Model deprecations can change\nCopilot workflows and available capabilities, though the brief announcement provides little detail\nabout migration or impact.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "As of today, November 16, 2026, we have deprecated the following models across most GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Note… The post GitHub Copilot models deprecated on November 16, 2026 appeared first on The GitHub Blog .",
+    "summary_source": "feed",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 1
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
+    "title": "Control where GitHub Copilot customizations come from",
+    "source": "Archive: 2026 - GitHub Changelog",
+    "publisher": "Archive: 2026 - GitHub Changelog",
+    "publisher_source": "feed",
+    "author": "Allison",
+    "published": "2026-11-16T19:48:33Z",
+    "published_source": "feed",
+    "arrivals": [
+      {
+        "feed_id": "https://github.blog/changelog/feed/",
+        "seen_at": "2026-11-17T03:41:26Z"
+      }
+    ],
+    "state": "scored",
+    "score": 8,
+    "tags": [
+      "GitHub Copilot",
+      "Releases",
+      "Security"
+    ],
+    "reason": "Enterprise administrators can\ncentrally govern Copilot customization sources, improving security and consistency across\nAI-assisted development workflows.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "As an enterprise administrator, you can now require selected GitHub Copilot customizations to come from plugins or managed settings, rather than standalone user or project configuration. Combined with marketplace restrictions,… The post Control where GitHub Copilot customizations come from appeared first on The GitHub Blog .",
+    "summary_source": "feed",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 0
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
+    "title": "VS Code retires the Local harness in February 2027",
+    "source": "Archive: 2026 - GitHub Changelog",
+    "publisher": "Archive: 2026 - GitHub Changelog",
+    "publisher_source": "feed",
+    "author": "Allison",
+    "published": "2026-11-16T19:22:56Z",
+    "published_source": "feed",
+    "arrivals": [
+      {
+        "feed_id": "https://github.blog/changelog/feed/",
+        "seen_at": "2026-11-17T03:41:26Z"
+      }
+    ],
+    "state": "scored",
+    "score": 6,
+    "tags": [
+      "Editors and IDEs",
+      "GitHub Copilot",
+      "Coding agents",
+      "Releases"
+    ],
+    "reason": "This\nsignals a forthcoming VS Code Copilot agent infrastructure change that may affect the reader's daily\n workflow and migration planning.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Visual Studio Code 1.146 deprecates the Local harness, the older software that coordinates the model, context, and tools for GitHub Copilot agent sessions in the editor. The Local harness will… The post VS Code retires the Local harness in February 2027 appeared first on The GitHub Blog .",
+    "summary_source": "feed",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 0
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+    "title": "Bulk start AI Scan for repositories",
+    "source": "Archive: 2026 - GitHub Changelog",
+    "publisher": "Archive: 2026 - GitHub Changelog",
+    "publisher_source": "feed",
+    "author": "Allison",
+    "published": "2026-11-16T15:50:22Z",
+    "published_source": "feed",
+    "arrivals": [
+      {
+        "feed_id": "https://github.blog/changelog/feed/",
+        "seen_at": "2026-11-17T03:41:26Z"
+      }
+    ],
+    "state": "scored",
+    "score": 7,
+    "tags": [
+      "GitHub",
+      "Security",
+      "Releases"
+    ],
+    "reason": "GitHub adds bulk repository security\nscanning, expanding vulnerability coverage beyond CodeQL and making rollout practical across\nprojects.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "AI Scan for repositories finds security vulnerabilities on your repository’s default branch. It covers languages CodeQL doesn’t support and finds additional issues in languages CodeQL already analyzes. Findings appear in… The post Bulk start AI Scan for repositories appeared first on The GitHub Blog .",
+    "summary_source": "feed",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 0
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+    "title": "Take GitHub Mobile with you on iPhone Duo",
+    "source": "Archive: 2026 - GitHub Changelog",
+    "publisher": "Archive: 2026 - GitHub Changelog",
+    "publisher_source": "feed",
+    "author": "Allison",
+    "published": "2026-11-16T14:30:07Z",
+    "published_source": "feed",
+    "arrivals": [
+      {
+        "feed_id": "https://github.blog/changelog/feed/",
+        "seen_at": "2026-11-17T03:41:26Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [
+      "GitHub",
+      "Mobile"
+    ],
+    "reason": "This is an iPhone app update, and mobile content is\nexplicitly outside the reader's interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "GitHub Mobile now supports iPhone Duo, with a layout that adapts when unfolded and vertical tabs to help you move between key areas like Copilot, Pull Requests, Issues, and Notifications.… The post Take GitHub Mobile with you on iPhone Duo appeared first on The GitHub Blog .",
+    "summary_source": "feed",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 2
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.326",
+    "title": "v2.1.326",
+    "source": "Release notes from claude-code",
+    "publisher": "Release notes from claude-code",
+    "publisher_source": "feed",
+    "author": "claude-code-publisher[bot]",
+    "published": "2026-11-16T22:11:05Z",
+    "published_source": "feed-updated",
+    "arrivals": [
+      {
+        "feed_id": "https://github.com/anthropics/claude-code/releases.atom",
+        "seen_at": "2026-11-17T03:41:26Z"
+      }
+    ],
+    "state": "scored",
+    "score": 9,
+    "tags": [
+      "Claude Code",
+      "Releases",
+      "Coding agents",
+      "MCP",
+      "Diagnostics"
+    ],
+    "reason": "This\nsubstantial Claude Code release changes daily agent workflows, MCP reliability, authentication,\nsafety, observability, and session recovery.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Version 2.1.326 adds Code Mode support for\nagent teams, clearer configuration and startup diagnostics, improved MCP handling, and OpenTelemetry\n resource options. It also fixes extensive issues across permissions, background sessions,\nauthentication, compaction, tool calls, remote control, terminal input, and data recovery.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 0
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.6.0",
+    "title": "process-daemon v0.6.0",
+    "source": "Release notes from opencode",
+    "publisher": "Release notes from opencode",
+    "publisher_source": "feed",
+    "author": "github-actions[bot]",
+    "published": "2026-11-16T23:36:04Z",
+    "published_source": "feed-updated",
+    "arrivals": [
+      {
+        "feed_id": "https://github.com/anomalyco/opencode/releases.atom",
+        "seen_at": "2026-11-17T03:41:26Z"
+      }
+    ],
+    "state": "scored",
+    "score": 5,
+    "tags": [
+      "OpenCode",
+      "Releases"
+    ],
+    "reason": "A minor OpenCode process-daemon release may\naffect agent terminal handling, but the sparse notes provide little evidence of reader-facing\nchanges.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "opencode-pty 0.6.0 (protocol 9) from packages/process-daemon, published to npm as @opencode/pty@0.6.0.",
+    "summary_source": "feed",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://blog.ploeh.dk/2026/11/16/worse-is-better-asyncawait-versus-syntactic-sugar-for-monadic-composition",
+    "title": "Worse is better: async/await versus syntactic sugar for monadic composition",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "ploeh blog",
+    "publisher_source": "feed",
+    "author": "Mark Seemann",
+    "published": "2026-11-16T07:36:00Z",
+    "published_source": "feed",
+    "arrivals": [
+      {
+        "feed_id": "https://blog.ploeh.dk/rss.xml",
+        "seen_at": "2026-11-17T03:41:26Z"
       },
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": ".NET and Visual Studio"
+      }
+    ],
+    "state": "scored",
+    "score": 8,
+    "tags": [
+      "C#",
+      "Software design"
+    ],
+    "reason": "It offers a thoughtful critique of async/await\nand compares C#'s design with extensible F# and Haskell composition models.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "The article\nargues that C# async/await is a specialized, ad-hoc solution where F# computation expressions and\nHaskell do notation provide more general monadic composition. It contrasts their expressiveness and\nimplementation tradeoffs, while acknowledging that .NET's async implementation is highly\neffective.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 2
+      }
+    },
+    "heat": 1
+  },
+  {
+    "url": "https://poppastring.com/blog/recovering-from-an-accidental-push-to-main-in-visual-studio",
+    "title": "Recovering from an accidental push to main in Visual Studio",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "poppastring.com",
+    "publisher_source": "host",
+    "author": "Mark Downie",
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "Top Links"
+      }
+    ],
+    "state": "scored",
+    "score": 5,
+    "tags": [
+      "Editors and IDEs",
+      "GitHub",
+      "Engineering practice"
+    ],
+    "reason": "Practical Visual\nStudio Git recovery guidance helps prevent disruptive main-branch mistakes and restore a safer\npull-request workflow.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Use Visual Studio's Git UI to revert an accidental push to main, reapply the fix on a feature branch, and restore the pull request workflow without rewriting ...",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://kazo0.dev/uno-general/2026/11/14/uno-7-agent-plugin.html",
+    "title": "Uno Platform 7.0 and the Studio Agent Plugin",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "dotnet new bald",
+    "publisher_source": "page",
+    "author": "Steve Bilogan",
+    "published": "2026-11-14T00:00:00Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "Top Links"
+      }
+    ],
+    "state": "scored",
+    "score": 3,
+    "tags": [
+      "Coding agents",
+      "Releases"
+    ],
+    "reason": "The headline suggests a .NET platform\nrelease and agent plugin, but the provided text offers no substantive details to assess their\nvalue.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "^ I asked Claude to crop the hero image above with the terminal window and it gave itself a Canadian South Park character vibe",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "title": "Chrome DevTools for agents - Let your coding agents control and inspect a live Chrome browser",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "GitHub",
+    "publisher_source": "page",
+    "author": "Chrome DevTools Team",
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "Top Links"
+      }
+    ],
+    "state": "scored",
+    "score": 6,
+    "tags": [
+      "Coding agents",
+      "MCP"
+    ],
+    "reason": "It introduces an MCP server that lets coding\nagents inspect and control live Chrome, but the sparse text provides little evidence beyond the\npromising subject.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Chrome DevTools for coding agents. Contribute to ChromeDevTools/chrome-devtools-mcp development by creating an account on GitHub.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 94
+      }
+    },
+    "heat": 2
+  },
+  {
+    "url": "https://tonyedwardspz.co.uk/blog/maui-11-maps-deep-dive-tutorial",
+    "title": "Maps with .NET MAUI 11 - Deep Dive Tutorial",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "tonyedwardspz.co.uk",
+    "publisher_source": "host",
+    "author": "Tony Edwards",
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "Top Links"
+      }
+    ],
+    "state": "vetoed",
+    "score": 0,
+    "vetoed_by": ".NET MAUI",
+    "popularity": null,
+    "heat": 0
+  },
+  {
+    "url": "https://mergeconflict.fm/541",
+    "title": "Merge Conflct Podcast Episode #541 - .NET 11 Launch: Performance Gains, Union Types, and Runtime Changes",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "mergeconflict.fm",
+    "publisher_source": "host",
+    "author": "James Montemagno & Frank Kreuger",
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "Top Links"
+      }
+    ],
+    "state": "vetoed",
+    "score": 0,
+    "vetoed_by": "podcast",
+    "popularity": null,
+    "heat": 0
+  },
+  {
+    "url": "https://dev.to/lovelacecoding/european-law-for-net-developers-your-apps-with-the-european-accessibility-act-12on",
+    "title": "European Law for .NET Developers: Your Apps with the European Accessibility Act",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "DEV Community",
+    "publisher_source": "page",
+    "author": "Lou Creemers",
+    "published": "2026-11-13T21:26:52Z",
+    "published_source": "jsonld",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "Top Links"
+      }
+    ],
+    "state": "scored",
+    "score": 4,
+    "tags": [],
+    "reason": "Accessibility compliance may affect .NET applications, but the\nsnippet provides too little detail to assess its technical depth or practical value.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Hey lovely readers, Welcome back to the series on European law for .NET developers. In the first...",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://patrickbrosset.com/lab/alpha-shared-transparency",
+    "title": "One transparency value to rule them all, with CSS alpha()",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "patrickbrosset.com",
+    "publisher_source": "host",
+    "author": "Patrick Brosset",
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "Web and Cloud Development"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [
+      "Frontend"
+    ],
+    "reason": "A CSS styling feature belongs to front-end web development,\n which is explicitly outside this reader's interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://lemire.me/blog/2026/11/14/reading-json-at-277-gb-s-in-python",
+    "title": "Reading JSON at 277 GB/s in Python",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "Daniel Lemire's blog",
+    "publisher_source": "page",
+    "author": "Daniel Lemire",
+    "published": "2026-11-14T14:53:50Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "Web and Cloud Development"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [
+      "Performance"
+    ],
+    "reason": "It benchmarks extremely fast JSON processing, but the\narticle is Python-focused and outside this reader’s .NET interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Many systems log their data as JSON, one record per line (NDJSON). GitHub, for example, publishes every public event on its site that way through GH Archive: about a gigabyte per hour. Suppose you want to know which repositories received the most stars over eight hours. That is 7.6 GB of JSON, 2.2 million events. … Continue reading Reading JSON at 277 GB/s in Python",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 5
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://sifting.io/blog/market-data-api-caching-ttl-cache-keys-request-coalescing",
+    "title": "Market data API caching: TTL, cache keys and shared requests",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "sifting.io",
+    "publisher_source": "host",
+    "author": "SiftingIO Team",
+    "published": "2026-10-18T13:36:32Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "Web and Cloud Development"
+      }
+    ],
+    "state": "scored",
+    "score": 4,
+    "tags": [
+      "Software design"
+    ],
+    "reason": "Caching, request coalescing, and cache-key design\nare useful engineering patterns, though the Node.js example is outside the reader’s primary .NET\nfocus.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Cache market data API responses with a tested Node.js example. Learn TTL, request coalescing, safe cache keys and why cache age is not price age.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://techcommunity.microsoft.com/blog/appsonazureblog/introducing-azure-container-apps-sandboxes-in-visual-studio-code/4573296",
+    "title": "Introducing Azure Container Apps Sandboxes in Visual Studio Code",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "TECHCOMMUNITY.MICROSOFT.COM",
+    "publisher_source": "page",
+    "author": "fiveisprime",
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "Web and Cloud Development"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [
+      "Containers",
+      "Editors and IDEs"
+    ],
+    "reason": "It concerns Azure cloud container\ntooling in VS Code, which is explicitly outside this reader's interests despite overlapping with\ncontainers and editors.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "We're introducing support for&nbsp;Azure Container Apps Sandboxes in the Azure Container Apps extension for Visual Studio Code. The new experience brings...",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://easinvy.com/notes/nextjs-build-id",
+    "title": "The Next.js build id changes every build",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "Easinvy",
+    "publisher_source": "page",
+    "author": "Ridam Agrawal",
+    "published": "2026-11-02T00:00:00Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "Web and Cloud Development"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [
+      "Frontend"
+    ],
+    "reason": "This is a Next.js build reproducibility issue in the\nexcluded frontend JavaScript ecosystem.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Two builds of one Next.js commit differed on all 36 pages, and only by the build id. Where Next writes it, and how easinvy.com's build hashes around it.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://jsdev.space/css-reversed-counters",
+    "title": "CSS reversed(): A Better Way to Build Countdown Counters",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "JavaScript Development Space",
+    "publisher_source": "page",
+    "author": "JS Dev",
+    "published": "2026-11-16T00:00:00Z",
+    "published_source": "jsonld",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "Web and Cloud Development"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [
+      "Frontend"
+    ],
+    "reason": "This covers CSS countdown counters, a frontend topic\noutside the reader’s interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Learn CSS reversed() counters with practical examples, custom numbering styles, countdown lists, and browser compatibility tips.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 1
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://eslint.org/blog/2026/11/retiring-contributor-pool",
+    "title": "Retiring the contributor pool",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "eslint.org",
+    "publisher_source": "host",
+    "author": "Nicholas C. Zakas",
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "Web and Cloud Development"
+      }
+    ],
+    "state": "scored",
+    "score": 6,
+    "tags": [
+      "Coding agents",
+      "Engineering practice"
+    ],
+    "reason": "It offers a practical account\nof how AI-generated contributions are changing open-source maintenance, incentives, review, and\ntrust.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "ESLint is ending its contributor pool after paying more than $51,000 over five\nyears. Increasingly AI-generated pull requests and disputes over attribution made eligibility\ndifficult to assess and drained maintainers' time.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 19
+      }
+    },
+    "heat": 1
+  },
+  {
+    "url": "https://telerik.com/blogs/is-convex-better-than-firebase",
+    "title": "Is Convex Better Than Firebase?",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "Telerik Blogs",
+    "publisher_source": "page",
+    "author": "Jonathan Gamble",
+    "published": "2026-11-13T16:07:24Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "Web and Cloud Development"
+      }
+    ],
+    "state": "scored",
+    "score": 2,
+    "tags": [
+      "Databases"
+    ],
+    "reason": "It briefly compares two non-.NET backend databases,\noffering limited practical value for a reader focused on production .NET systems.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Convex comes with setup complexity, but offers strong capacity to scale. Firebase is easy to set up and manage, but gets more complex when scaling.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://techcommunity.microsoft.com/blog/integrationsonazureblog/migrate-nuget-based-logic-apps-standard-apps-and-custom-built-in-connectors-to-n/4573057",
+    "title": "Migrate NuGet-based Logic Apps Standard apps and custom built-in connectors to .NET 10",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "TECHCOMMUNITY.MICROSOFT.COM",
+    "publisher_source": "page",
+    "author": "W. Silveira",
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": ".NET and Visual Studio"
+      }
+    ],
+    "state": "scored",
+    "score": 2,
+    "tags": [
+      ".NET runtime"
+    ],
+    "reason": "It covers retargeting Azure Logic Apps to .NET 10, but\nAzure cloud tooling is outside this reader's primary interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Less than you might fear. You don't change a line of C#, and you don't touch your workflow definitions. The work is retargeting your projects, resolving a...",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://jeremydmiller.com/2026/11/15/critter-stack-roadmap-update-for-november-2026",
+    "title": "Critter Stack Roadmap Update for November 2026",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "The Shade Tree Developer",
+    "publisher_source": "page",
+    "author": "Jeremy D. Miller",
+    "published": "2026-11-15T23:31:30Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": ".NET and Visual Studio"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "The excerpt contains only personal scheduling and conference\nreferences, with no substantive information relevant to this reader.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "I haven’t done one of these posts for awhile, and the year is winding down fast. I personally have the Thanksgiving week, a big trip down under for the Yow Conference in Brisbane and Melbourn…",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 0
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://mostlylucid.net/blog/usingmicrosoftjavascriptnodeapi",
+    "title": "Let's Talk About It: Practical Bidirectional Native .NETNode Interop",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "mostlylucid.net",
+    "publisher_source": "host",
+    "author": "Scott Galloway",
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": ".NET and Visual Studio"
+      }
+    ],
+    "state": "scored",
+    "score": 6,
+    "tags": [
+      ".NET runtime"
+    ],
+    "reason": "Practical bidirectional interop could help .NET\ndevelopers integrate native or Node-based components, though the title alone offers limited evidence\n of depth.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://nietras.com/2026/11/13/sep-0-18-0",
+    "title": "Sep 0.18.0 - 25 GB/s CSV parsing on 9950X3D2, net11.0 with runtime-async=on and a fast surprise! 🚀",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "nietras.com",
+    "publisher_source": "host",
+    "author": "Nietras",
+    "published": "2026-11-13T00:00:00Z",
+    "published_source": "slug",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": ".NET and Visual Studio"
+      }
+    ],
+    "state": "scored",
+    "score": 7,
+    "tags": [
+      ".NET runtime",
+      "Performance",
+      "Releases"
+    ],
+    "reason": "A .NET CSV parser release with\n SIMD and striking measured throughput offers practical runtime-performance insights for production\ndevelopers.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Sep 0.18.0 was released November 11th, 2026 adding net11.0 target with runtime-async=on, a new SIMD parser, more optimizations, several fixes incl. edge case correctness issues, see the linked release notes for more details. There have been several other minor releases since 0.12.0, these can also be checked out at releases on GitHub. Here I will take a quick look at performance progression and a fast surprise.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://dotnettips.com/2026/11/15/database-performance-up-to-11x-faster-workloads-with-connection-pooling",
+    "title": "Database Performance: Up to 11× Faster Workloads with Connection Pooling",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "dotNetTips.com",
+    "publisher_source": "page",
+    "author": "David McCarter",
+    "published": "2026-11-15T07:00:00Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": ".NET and Visual Studio"
+      }
+    ],
+    "state": "scored",
+    "score": 6,
+    "tags": [
+      "Performance",
+      "Databases"
+    ],
+    "reason": "It offers practical evidence about improving\n SQLite performance under concurrency, though the brief summary provides limited detail.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Discover how connection pooling can enhance SQLite performance by reducing mean execution time by up to 91% in high-concurrency scenarios.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://syncfusion.com/blogs/post/automate-digital-signature-word-csharp",
+    "title": "How to Automate Digital Signatures in Word Documents Using C#",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "Syncfusion",
+    "publisher_source": "page",
+    "author": "Kavitha Muralitharan",
+    "published": "2026-11-13T15:30:00Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": ".NET and Visual Studio"
+      }
+    ],
+    "state": "scored",
+    "score": 5,
+    "tags": [
+      "C#",
+      "Security"
+    ],
+    "reason": "A practical C# example for signing and validating DOCX\n files, though it is narrowly focused on document automation and a specific library.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Learn how to automate digital signatures in Word documents using C#. Sign DOCX files, validate signatures, manage certificates, and handle document revisions with DocIO.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://bartwullems.blogspot.com/2026/11/setting-spending-limit-on-claude-code.html",
+    "title": "Setting a spending limit on a Claude Code session",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "bartwullems.blogspot.com",
+    "publisher_source": "host",
+    "author": "Bart Wullems",
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "AI"
+      }
+    ],
+    "state": "scored",
+    "score": 6,
+    "tags": [
+      "Claude Code",
+      "Coding agents"
+    ],
+    "reason": "It addresses practical cost control for\nClaude Code users, though the title alone provides limited evidence about the article's depth.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.4",
+    "title": "OpenClaw v2026.11.4 Release",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "GitHub",
+    "publisher_source": "page",
+    "author": "RomneyDa",
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "AI"
+      }
+    ],
+    "state": "scored",
+    "score": 4,
+    "tags": [
+      "Coding agents",
+      "Releases"
+    ],
+    "reason": "OpenClaw appears to be a coding-agent\nrelease, but the sparse excerpt provides no details about capabilities or changes worth adopting.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "OpenClaw v2026.11.4 220 commits · 125 pull requests · 90 contributors Changes included in this release The release notes and changelog contain the same content, presented in two formats: Release n...",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://thetrainingboss.com/microsoft-citadel-for-foundry",
+    "title": "Learn Microsoft AI Citadel for Foundry Today",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "The Training Boss",
+    "publisher_source": "page",
+    "author": "Lino Tadros",
+    "published": "2026-11-15T18:28:13Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "AI"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [
+      "Security"
+    ],
+    "reason": "It concerns securing and governing enterprise AI agents,\nbut Microsoft Foundry is Azure cloud content outside this reader's interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Explore the Microsoft AI Citadel Blueprint for Foundry, what’s generally available, and how architects can secure, monitor, and govern enterprise AI agents.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 0
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://dev.to/gde/recover-a-webmcp-update-after-its-response-disappears-2hp",
+    "title": "Recover a WebMCP Update After Its Response Disappears",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "DEV Community",
+    "publisher_source": "page",
+    "author": "Raju Dandigam",
+    "published": "2026-11-15T15:05:00Z",
+    "published_source": "jsonld",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "AI"
+      }
+    ],
+    "state": "scored",
+    "score": 5,
+    "tags": [
+      "MCP",
+      "Coding agents"
+    ],
+    "reason": "WebMCP recovery behavior could matter when\nbuilding or debugging browser-based agent integrations, though the sparse excerpt limits\nconfidence.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "The browser showed JFK. The database already contained BOS. That was the state of a synthetic trip...",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://thenewstack.io/claude-fable-5-2-vs-opus-5-5",
+    "title": "Claude Fable 5.2 vs. Opus 5.5: Same scores at almost 4x the cost",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "thenewstack.io",
+    "publisher_source": "host",
+    "author": "Jessica Wachtel",
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "AI"
+      }
+    ],
+    "state": "scored",
+    "score": 6,
+    "tags": [
+      "Claude",
+      "LLMs"
+    ],
+    "reason": "A model comparison covering Claude capabilities and\ncost could inform which AI tool offers better value for daily coding work.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 0
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://montemagno.com/building-a-blog-post-workbench-canvas-with-copilot",
+    "title": "Building a Live Blog Post Editor Canvas with GitHub Copilot",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "James Montemagno",
+    "publisher_source": "page",
+    "author": "James Montemagno",
+    "published": "2026-11-14T19:20:00Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "AI"
+      }
+    ],
+    "state": "scored",
+    "score": 5,
+    "tags": [
+      "GitHub Copilot",
+      "Coding agents"
+    ],
+    "reason": "A practical account of using Copilot\nto build a live blog-editing canvas, useful for readers exploring agent-assisted authoring\nworkflows.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "How I built Post Workbench, a Copilot canvas that previews and live-edits my Hugo blog posts, images, and videos on a light or dark background without starting the whole site.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio",
+    "title": "Claim your Google Cloud Credits in Google AI Studio",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "Google",
+    "publisher_source": "page",
+    "author": "Seth Odoom",
+    "published": "2026-11-13T00:00:00Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "AI"
+      }
+    ],
+    "state": "scored",
+    "score": 3,
+    "tags": [
+      "LLMs"
+    ],
+    "reason": "It covers Gemini API pricing and usage credits, but focuses on\nGoogle's ecosystem rather than the reader's preferred .NET, AWS, or coding-agent\ntools.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Google AI Studio now lets Google AI Pro and Ultra subscribers claim and manage\nmonthly Google Cloud credits in the workspace. Credits can support Gemini API usage, paid-tier\nmodels, media generation, and Cloud Run deployments, with a $5 prepayment requirement.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
       "bluesky": {
         "likes": 3
       }
     },
+    "heat": 0
+  },
+  {
+    "url": "https://kirupa.com/ai_fundamentals/index.htm",
+    "title": "AI Fundamentals: Learn How AI Really Works",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "KIRUPA",
+    "publisher_source": "page",
+    "author": "Kirupa Chinnathambi",
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "AI"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [
+      "LLMs",
+      "Coding agents",
+      "Context engineering",
+      "Evals",
+      "Security"
+    ],
+    "reason": "This\nis a course, which is excluded despite covering several relevant AI-assisted coding topics.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Learn how large language models work and how to build reliable, affordable AI features: tokens, context windows, retrieval, agents, evals, caching, and security, explained one idea at a time.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://openai.com/index/introducing-chatgpt-wallet",
+    "title": "Introducing ChatGPT Wallet",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "openai.com",
+    "publisher_source": "host",
+    "author": "OpenAI Team",
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "AI"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "A ChatGPT wallet appears to concern cryptocurrency or financial\ntooling, which is explicitly outside this reader's interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": {
+        "points": 46,
+        "comments": 80
+      },
+      "bluesky": {
+        "likes": 48
+      }
+    },
     "heat": 2
+  },
+  {
+    "url": "https://devblogs.microsoft.com/directx/machine-learning-compilers-challenges-hardware",
+    "title": "Challenges of building machine learning compilers across varying hardware architecture",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "DirectX Developer Blog",
+    "publisher_source": "page",
+    "author": "Rutvi Trivedi, Murali Ambati & Jeff Bloomfield",
+    "published": "2026-11-13T20:03:38Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "AI"
+      }
+    ],
+    "state": "scored",
+    "score": 2,
+    "tags": [
+      "Performance"
+    ],
+    "reason": "It discusses compiler optimization across hardware, but\nmachine-learning compiler internals fall outside this reader's primary .NET and coding-agent\ninterests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Learn why machine learning compilers are hard to build across diverse hardware, and how fusion, IRs, and scheduling shape performance.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://github.com/microsoft/copilot-sdk/releases/tag/v1.0.34",
+    "title": "GitHub Copilot SDK v1.0.34 Release",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "GitHub",
+    "publisher_source": "page",
+    "author": "GitHub Copilot SDK Team",
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "AI"
+      }
+    ],
+    "state": "scored",
+    "score": 6,
+    "tags": [
+      "GitHub Copilot",
+      "MCP",
+      "Releases"
+    ],
+    "reason": "This Copilot SDK release fixes MCP\nsession lifecycle errors, directly improving reliability for developers integrating Copilot and MCP\nworkflows.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Fixed false MCP startup session.error events when quitting or switching sessions cancels in-progress MCP startup; genuine startup failures on live sessions are still reported. Fixed session.plugins...",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "huggingface.co",
+    "publisher_source": "host",
+    "author": "Dillon Bailey, Pomi Lee & Rishabh Chadha",
+    "published": "2026-11-13T18:00:39Z",
+    "published_source": "jsonld",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "AI"
+      }
+    ],
+    "state": "scored",
+    "score": 1,
+    "tags": [
+      "Coding agents"
+    ],
+    "reason": "It briefly demonstrates an agent generating robotics\nsimulation code, but the article is primarily about Isaac Sim and robot assets outside this reader's\n interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "The walkthrough uses SimReady robot and beverage-can assets in Isaac Sim to\nassemble a UR17G pick-and-place scene. It covers validation, agent-assisted control generation,\ncontact-based grasping, and limitations of the scripted simulation.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 1
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://anthropic.com/research/building-strong-safety-evaluations",
+    "title": "Building strong safety evaluations",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "anthropic.com",
+    "publisher_source": "host",
+    "author": "Anthropic Team",
+    "published": "2026-11-13T00:00:00Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "AI"
+      }
+    ],
+    "state": "scored",
+    "score": 6,
+    "tags": [
+      "Evals"
+    ],
+    "reason": "It offers practical guidance on designing and reporting safety\n evaluations, relevant to measuring AI systems even though the summary lacks implementation\ndetail.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Recommendations for designing, running, and reporting safety evaluations, based on our own experiences.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 7
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://testingil.com/2026/11/testing-ai-agents-pass-fail-not-enough.html",
+    "title": "The Agent Knows. It Just Doesn’t Always Do It",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "testingil.com",
+    "publisher_source": "host",
+    "author": "Gil Zilberfeld",
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "AI"
+      }
+    ],
+    "state": "scored",
+    "score": 6,
+    "tags": [
+      "Coding agents"
+    ],
+    "reason": "It likely examines the gap between an AI coding\nagent's apparent understanding and its reliable execution, a practical failure mode this reader\nencounters.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://blog.jetbrains.com/blog/2026/11/13/scaling-ai-agents-what-we-learned-from-9-real-world-cases",
+    "title": "Scaling AI Agents: What We Learned From 9 Real-World Cases",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "The JetBrains Blog",
+    "publisher_source": "page",
+    "author": "Ciara Byrne",
+    "published": "2026-11-13T00:00:00Z",
+    "published_source": "slug",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "AI"
+      }
+    ],
+    "state": "scored",
+    "score": 6,
+    "tags": [
+      "Coding agents"
+    ],
+    "reason": "Practical case studies on scaling AI agents could\noffer useful lessons for improving agent adoption and developer velocity, though evidence is limited\n to the blurb.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Adoption alone doesn’t improve velocity. See how Fin, Semrush, and Skiller Whale scaled AI agents, and the three lessons behind their results.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 3
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://devin.ai/blog/devin-apps",
+    "title": "Introducing Devin Apps",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "Devin",
+    "publisher_source": "page",
+    "author": "Devin AI Team",
+    "published": "2026-11-13T00:00:00Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "AI"
+      }
+    ],
+    "state": "scored",
+    "score": 6,
+    "tags": [
+      "Coding agents"
+    ],
+    "reason": "Devin Apps are a practical coding-agent capability for\n hosting and sharing private web applications, though the brief description offers limited evidence\nabout implementation or workflow impact.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Devin Apps are live, private web applications hosted directly on Devin's cloud computer. Here is how to create, share, and update one.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 0
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "huggingface.co",
+    "publisher_source": "host",
+    "author": "Daniel Bevenius, Georgi Gerganov & Merve",
+    "published": "2026-11-13T14:05:22Z",
+    "published_source": "jsonld",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "AI"
+      }
+    ],
+    "state": "scored",
+    "score": 7,
+    "tags": [
+      "LLMs",
+      "Releases"
+    ],
+    "reason": "A major release stabilizes the API and ABI of a\nwidely used local LLM inference foundation, relevant to developers building private AI\ntools.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "llama.cpp and ggml have reached version 1.0.0, introducing semantic-versioning\nrules for public API and ABI compatibility. The release also highlights broad hardware, backend,\nmodel, packaging, and CI support for cross-platform local inference.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 41
+      }
+    },
+    "heat": 1
+  },
+  {
+    "url": "https://dev.to/gde/which-model-should-you-use-frontier-hosted-or-local-it-depends-2n45",
+    "title": "Which Model Should You Use? Frontier, Hosted or Local? It Depends.",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "DEV Community",
+    "publisher_source": "page",
+    "author": "xbill",
+    "published": "2026-11-14T22:05:33Z",
+    "published_source": "jsonld",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "AI"
+      }
+    ],
+    "state": "scored",
+    "score": 7,
+    "tags": [
+      "LLMs",
+      "Performance",
+      "AWS"
+    ],
+    "reason": "It offers measured, practical guidance for\nchoosing local, hosted, and cloud model deployments by cost, speed, accuracy, and usability.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Measured numbers for every way gemma4-dev runs a model: a desktop GPU, the Gemini API and AMD Token Lab, Cloud Run on an L4, and TPU, EC2 and MI300X machines. Then a roadmap for choosing between them by users, cost, speed, accuracy and ease of use.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://oreilly.com/radar/what-makes-an-agent-self-evolving",
+    "title": "What Makes an Agent Self-Evolving?",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "O’Reilly Media",
+    "publisher_source": "page",
+    "author": "Annie Wang",
+    "published": "2026-11-13T11:54:22Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "AI"
+      }
+    ],
+    "state": "scored",
+    "score": 6,
+    "tags": [
+      "Coding agents",
+      "Context engineering",
+      "Evals"
+    ],
+    "reason": "It explores how agents\nimprove through retrieval, tool choice, and verification, though the excerpt is too brief to assess\ndepth.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "An agent can get better at its job without a new model. It can learn to find useful information, choose the right tool, or check that a task is finished before",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://stackoverflow.blog/2026/11/13/your-coding-agent-shouldn-t-grade-its-own-homework",
+    "title": "Your coding agent shouldn't grade its own homework",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "stackoverflow.blog",
+    "publisher_source": "host",
+    "author": "Jeff An",
+    "published": "2026-11-13T00:00:00Z",
+    "published_source": "slug",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "AI"
+      }
+    ],
+    "state": "scored",
+    "score": 6,
+    "tags": [
+      "Coding agents",
+      "Evals",
+      "Testing"
+    ],
+    "reason": "It addresses the practical challenge\n of independently validating coding-agent output, a central concern for developers using agents in\nproduction.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "AI coding agents can now write design docs, mock up frontends, and implement entire projects end to end. But can they be trusted to verify that their own code actually works?",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 0
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://jenkins.io/blog/2026/11/13/introducing-artifact-explorer-plugin",
+    "title": "Introducing Artifact Explorer: A Modern Interactive File Browser for Jenkins",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "Introducing Artifact Explorer: A Modern Interactive File Browser for Jenkins",
+    "publisher_source": "page",
+    "author": "Caleb Reder",
+    "published": "2026-11-13T00:00:00Z",
+    "published_source": "slug",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "Design, DevOps and Methodology"
+      }
+    ],
+    "state": "scored",
+    "score": 2,
+    "tags": [
+      "GitHub"
+    ],
+    "reason": "A Jenkins plugin for browsing build artifacts may interest\ndevelopers using CI tooling, but it offers little direct relevance to this .NET-focused reader.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Discover Artifact Explorer, a new Jenkins plugin that modernizes build artifact navigation with an interactive tree view, live search, and split-pane file previews.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://jdmeier.com/coaching-vs-directing",
+    "title": "The Management Multiplier: Coaching vs. Directing for Managers",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "JD Meier",
+    "publisher_source": "page",
+    "author": "JD Meier",
+    "published": "2026-11-14T08:32:48Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "Design, DevOps and Methodology"
+      }
+    ],
+    "state": "scored",
+    "score": 2,
+    "tags": [
+      "Engineering practice"
+    ],
+    "reason": "It offers generic management coaching guidance,\n with limited direct relevance to this reader's software engineering practice or .NET work.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Coach or direct? Use the Management Multiplier Matrix to match your coaching leadership style to the person, the task, and the tools.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://build5nines.com/ai-terraform-platform-engineers-sres",
+    "title": "AI Is Changing Terraform Work—and the Role of Platform Engineers and SREs",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "Build5Nines",
+    "publisher_source": "page",
+    "author": "Chris Pietschmann",
+    "published": "2026-11-13T12:13:00Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "Design, DevOps and Methodology"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [
+      "GitHub Copilot",
+      "Claude Code",
+      "Coding agents"
+    ],
+    "reason": "It covers relevant\ncoding agents, but its focus on Azure infrastructure is outside this reader's interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "GitHub Copilot and Claude Code are changing Terraform workflows on Azure. The biggest opportunity for Platform Engineers and SREs is making proven infrastructure patterns easier to reuse, validate,…",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 0
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://blog.jetbrains.com/teamcity/2026/11/run-ai-agents-in-teamcity",
+    "title": "Run AI Agents in TeamCity",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "The JetBrains Blog",
+    "publisher_source": "page",
+    "author": "Olga Bedrina",
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "Design, DevOps and Methodology"
+      }
+    ],
+    "state": "scored",
+    "score": 7,
+    "tags": [
+      "Coding agents",
+      "Claude Code"
+    ],
+    "reason": "It shows a practical way to run coding\nagents in CI, though the brief description offers limited detail about real-world use.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "The new experimental AI Agents plugin for TeamCity lets you run Codex and Claude Code directly in TeamCity builds and connect them to the LLM provider of your choice.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://asibackbone.github.io/Learning/articles/2026/revoke-job-after-it-enters-queue.html",
+    "title": "Canceling a Queued Job Can Race With Execution",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "AsiBackbone Learning",
+    "publisher_source": "page",
+    "author": "Christopher D. Cavell",
+    "published": "2026-11-14T00:00:00Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "Design, DevOps and Methodology"
+      }
+    ],
+    "state": "scored",
+    "score": 7,
+    "tags": [
+      "Distributed systems",
+      "Messaging and events",
+      "Software design"
+    ],
+    "reason": "It\noffers a practical concurrency pattern for reliable job cancellation, directly relevant to designing\n resilient worker and queue systems.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Canceling a queued job races the worker that claims it. Make cancel and claim competing conditional writes on one row, and record it when cancel loses.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://agileotter.dev/posts/2026-11-14-disguising-and-unmasking-antipattern.html",
+    "title": "Disguising and Unmasking Antipattern",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "Agile Otter Blog",
+    "publisher_source": "page",
+    "author": "Tim Ottinger",
+    "published": "2026-11-14T00:00:00Z",
+    "published_source": "slug",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "Design, DevOps and Methodology"
+      }
+    ],
+    "state": "scored",
+    "score": 7,
+    "tags": [
+      "Software design",
+      "Coding agents",
+      "Engineering practice"
+    ],
+    "reason": "It explains\nhow disguising data shifts complexity onto callers, with practical examples relevant to reviewing\nagent-generated code and designing clearer APIs.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "The article identifies an antipattern\nwhere functions return ambiguous data or pass insufficient context, forcing callers to rediscover,\nvalidate, or unmask it. It argues that functions should expose precise types and preserve knowledge\nso complexity is handled once rather than duplicated across callers.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://github.com/microsoft/playwright/releases/tag/v1.65.1",
+    "title": "Playwright v1.65.1 Release",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "GitHub",
+    "publisher_source": "page",
+    "author": "Playwright Team",
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "Design, DevOps and Methodology"
+      }
+    ],
+    "state": "scored",
+    "score": 4,
+    "tags": [
+      "Testing",
+      "Releases"
+    ],
+    "reason": "A Playwright bug-fix release may affect\nbrowser-based test suites, but the excerpt shows no major capability relevant to .NET developers.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Bug Fixes #43936 [Regression]: decorated class with a static field fails to load in 1.65 (\"_initClass is not a function\") with useDefineForClassFields: false #43934 [Bug]: Test locations are one c...",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://infoq.com/news/2026/11/mongodb-compatible-documentdb",
+    "title": "Open Source DocumentDB 1.0 Reaches General Availability",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "InfoQ",
+    "publisher_source": "page",
+    "author": "Renato Losio",
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "Database"
+      }
+    ],
+    "state": "scored",
+    "score": 6,
+    "tags": [
+      "Databases"
+    ],
+    "reason": "A generally available open-source document database built\non PostgreSQL could be a practical alternative for .NET applications needing MongoDB\ncompatibility.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "DocumentDB 1.0 is the first generally available release of the open source, MIT-licensed document database built on PostgreSQL, with compatibility for the MongoDB wire protocol. Most MongoDB drivers, tools, and queries work without changes.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://thenewstack.io/duckdb-quack-database-protocol",
+    "title": "DuckDB has an answer to “bloated” database messages",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "thenewstack.io",
+    "publisher_source": "host",
+    "author": "Jennifer Riggins",
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "Database"
+      }
+    ],
+    "state": "scored",
+    "score": 5,
+    "tags": [
+      "Databases"
+    ],
+    "reason": "DuckDB is a relevant database technology, but the title\nalone gives too little detail to judge the practical value or depth.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://techcommunity.microsoft.com/blog/sqlserver/microsoft-data-sqlclient-7-1-2-7-0-4-and-6-1-8-are-now-available/4573321",
+    "title": "Microsoft.Data.SqlClient 7.1.2, 7.0.4, and 6.1.8 are now available",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "TECHCOMMUNITY.MICROSOFT.COM",
+    "publisher_source": "page",
+    "author": "David Levy",
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "Database"
+      }
+    ],
+    "state": "scored",
+    "score": 5,
+    "tags": [
+      "SQL Server",
+      "Databases",
+      ".NET runtime"
+    ],
+    "reason": "Servicing releases improve\nproduction SQL connectivity with dependency security and certificate fixes, though the brief\nannouncement offers limited detail.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "We shipped servicing releases for all three supported SqlClient lines: 7.1.2, 7.0.4 and 6.1.8. They pick up a dependency security fix, tighten certificate...",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 0
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://red-gate.com/simple-talk/databases/postgresql/postgresql-extensions-why-the-fud-is-wrong",
+    "title": "PostgreSQL extensions: why the FUD is wrong",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "Simple Talk",
+    "publisher_source": "page",
+    "author": "Grant Fritchey",
+    "published": "2026-11-13T12:00:00Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "Database"
+      }
+    ],
+    "state": "scored",
+    "score": 6,
+    "tags": [
+      "Databases"
+    ],
+    "reason": "PostgreSQL extension maintenance and cloud-support\ntradeoffs matter when choosing and operating database capabilities in production .NET systems.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "PostgreSQL extensions get blamed for maintenance risk, abandonment, and poor cloud support. Here's why that reputation is mostly FUD - not fact.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.112",
+    "title": "GitHub Copilot CLI v1.0.112 Release",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "GitHub",
+    "publisher_source": "page",
+    "author": "GitHub Copilot CLI Team",
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "PowerShell and Terminal"
+      }
+    ],
+    "state": "scored",
+    "score": 5,
+    "tags": [
+      "GitHub Copilot",
+      "Releases"
+    ],
+    "reason": "A directly relevant Copilot CLI release,\nbut the available evidence describes routine fixes rather than a meaningful new capability.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "2026-11-13 A failed /compact now shows the model provider's error message without an internal host-rethrow prefix A prompt the CLI does not send yet, such as one entered while managed account poli...",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://oofhours.com/2026/11/15/powershell-7-7-is-released-as-an-msix",
+    "title": "PowerShell 7.7 is released — as an MSIX",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "Out of Office Hours",
+    "publisher_source": "page",
+    "author": "Michael Niehaus",
+    "published": "2026-11-16T04:24:47Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "PowerShell and Terminal"
+      }
+    ],
+    "state": "scored",
+    "score": 2,
+    "tags": [
+      "Releases"
+    ],
+    "reason": "PowerShell is adjacent to .NET development, but the limited\n text offers no meaningful capability change relevant to this reader.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "It shouldn’t come as a surprise that there’s a new PowerShell release. Every year there is a new .NET release (now up to version 11) and a new PowerShell release that goes with it. The …",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 9
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://writerswrite.co.za/5-mistakes-beginner-writers-make-when-creating-characters",
+    "title": "5 Mistakes Beginner Writers Make When Creating Characters",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "Writers Write",
+    "publisher_source": "page",
+    "author": "Writers Write",
+    "published": "2026-11-15T01:00:00Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "Writing"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "It concerns fictional character writing, outside this reader's\ninterests in .NET, software engineering, and coding tools.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Learn how to create believable characters and avoid 5 common mistakes that make your fictional people feel flat and unconvincing.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 19
+      }
+    },
+    "heat": 1
+  },
+  {
+    "url": "https://writerbeware.blog/2026/11/13/the-editor-impersonation-scam-from-solicitation-to-source",
+    "title": "The Editor Impersonation Scam: From Solicitation to Source",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "Writer Beware",
+    "publisher_source": "page",
+    "author": "Victoria Strauss",
+    "published": "2026-11-13T21:04:33Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "Writing"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "This is a publishing-industry scam story, unrelated to .NET, software\n engineering, or the AI coding tools this reader uses.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Back in March, I warned about a generative AI-driven scam that was impersonating multiple editors at major publishing houses, along with the literary agents they “referred” to. The goal: to trick writers into buying editing services, supposedly to fix up their query letter or manuscript. The scammer inhabited all three personas: editor, agent, referral editor.Read More",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 151
+      }
+    },
+    "heat": 2
+  },
+  {
+    "url": "https://rmoff.net/2026/11/13/is-it-ok-to-write-blog-posts-with-ai-yet",
+    "title": "Is it OK to write blog posts with AI yet?",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "Is it OK to write blog posts with AI yet?",
+    "publisher_source": "page",
+    "author": "Robin Moffatt",
+    "published": "2026-11-13T10:58:33Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "Writing"
+      }
+    ],
+    "state": "scored",
+    "score": 4,
+    "tags": [
+      "LLMs"
+    ],
+    "reason": "It considers practical strengths and limits of AI-generated\nwriting, but offers little direct value for a production .NET developer using coding tools.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "LLM writing has moved from ‘bloody awful’ to ‘vaguely plausible’. Here’s where I think it has a role to play - and where it absolutely doesn’t.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 4
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://montemagno.com/introducing-clipboard-next-mac-windows",
+    "title": "Introducing Clipboard Next for Mac and Windows",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "James Montemagno",
+    "publisher_source": "page",
+    "author": "James Montemagno",
+    "published": "2026-11-13T18:30:00Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "Tools"
+      }
+    ],
+    "state": "scored",
+    "score": 1,
+    "tags": [],
+    "reason": "A general clipboard and presentation utility, with no clear\nconnection to .NET, software engineering, or the AI tools this reader follows.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Queue your demo commands and prompts, paste them in order, and keep your attention on the audience with Clipboard Next for Mac and Windows.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 0
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://windowslatest.com/2026/11/15/i-brought-back-wordpad-on-windows-11-and-it-beats-the-ai-stuffed-notepad-microsoft-wants-you-to-use-instead",
+    "title": "I brought back WordPad on Windows 11, and it beats the AI-stuffed Notepad Microsoft wants you to use instead",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "Windows Latest",
+    "publisher_source": "page",
+    "author": "Abhijith M B",
+    "published": "2026-11-15T11:30:20Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "Tools"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "This is Windows desktop software, which is explicitly outside the\nreader’s interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "I restored WordPad on Windows 11 26H2 with Windows 10 files. Here's what it does better than Notepad, what it can't do, and how to get it.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 0
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://aistorybuilders.com/ViewBlogPost/7011",
+    "title": "AIStoryBuilders 4.0 is in the Microsoft Store: everything that's new for Windows",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "aistorybuilders.com",
+    "publisher_source": "host",
+    "author": "Michael Washington",
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "Tools"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [
+      "Windows desktop"
+    ],
+    "reason": "This is a Windows creative-writing application\nrelease, outside the reader's professional .NET, software architecture, and coding-agent\ninterests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "AI StoryBuilders 4.0 is a Windows Microsoft Store app update with a\nredesigned workspace, linked Markdown knowledgebases, AI-assisted writing voices, Ollama support,\nsafer model changes, and approval-based edits. It also changes settings, export, privacy, help, and\nfine-tuning features.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 0
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season",
+    "title": "The tech products we enthusiastically recommend this holiday season",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "TechCrunch",
+    "publisher_source": "page",
+    "author": "Amanda Silberling",
+    "published": "2026-11-15T16:00:00Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "General"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "This is a consumer gadget roundup with no connection to .NET,\nsoftware engineering, or the AI coding tools this reader uses.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 7
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://developers.slashdot.org/story/26/11/15/0710240/rust-leaves-top-10-in-tiobe-index-making-room-for-go",
+    "title": "Rust Leaves Top 10 in TIOBE Index, Making Room for Go",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "developers.slashdot.org",
+    "publisher_source": "host",
+    "author": "EditorDavid",
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "General"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "A programming-language popularity ranking about Rust, Go, and Dart\noffers no meaningful insight for this .NET-focused reader.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "\"In November's edition of the TIOBE Index, Rust has dropped out of Top 10,\" writes I-Programmer, noting that Rust ceded the #10 position to Go. \"At the same time, another Google-originated language, Dart, has entered the top 20 ousting Julia after only one month.\" TIOBE explains Dart's popularity ...",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 4
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://i-programmer.info/news/85-humour-/19285-fun-gifts-for-geeks.html",
+    "title": "Fun Gifts For Geeks",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "i-programmer.info",
+    "publisher_source": "host",
+    "author": "Lucy Black",
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "General"
+      }
+    ],
+    "state": "scored",
+    "score": 2,
+    "tags": [
+      "Claude Code",
+      "Coding agents"
+    ],
+    "reason": "It briefly mentions a hardware interface\n for Claude Code and coding agents, but the article is mainly an affiliate gift guide for unrelated\ngadgets and games.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "The article recommends assorted gifts for geeks, including robots, a\nsmart telescope, phone accessories, a coding-agent keyboard, comfort items, an emotional companion\nrobot, a joke T-shirt, and Grand Theft Auto VI. Only the VibeKeys section directly concerns\nAI-assisted coding.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://sciencedaily.com/releases/2026/11/261111005855.htm",
+    "title": "Tiny flaws in diamonds could unlock a quantum computing revolution",
+    "source": "Alvin Ashcraft's Morning Dew",
+    "publisher": "ScienceDaily",
+    "publisher_source": "page",
+    "author": "Science Daily",
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://www.alvinashcraft.com/feed.xml",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/",
+        "section": "General"
+      }
+    ],
+    "state": "scored",
+    "score": 1,
+    "tags": [],
+    "reason": "It concerns quantum-computing materials research, outside this\nreader’s .NET, software engineering, and practical AI-tool interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Scientists have discovered a faster way to identify diamond-based materials that could power quantum computers and sensors at room temperature. The breakthrough has already revealed promising new quantum building blocks that could help unlock computing capabilities far beyond those of today&apos;s supercomputers.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 6
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2",
+    "title": "Scared to Publish Your First Technical Article? Don't Be. I'll Be There to Read It",
+    "source": "Franky's Notes",
+    "publisher": "DEV Community",
+    "publisher_source": "page",
+    "author": null,
+    "published": "2026-11-04T17:11:22Z",
+    "published_source": "jsonld",
+    "arrivals": [
+      {
+        "feed_id": "https://www.frankysnotes.com/feeds/posts/default?alt=rss",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://www.frankysnotes.com/2026/11/reading-notes-722.html",
+        "section": "Miscellaneous"
+      }
+    ],
+    "state": "scored",
+    "score": 2,
+    "tags": [
+      "Engineering practice"
+    ],
+    "reason": "It offers general encouragement and practical\nadvice for engineers publishing technical writing, but little directly useful to this reader's core\ninterests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "The author encourages engineers to publish their first technical article,\nsuggesting approachable topics and inviting readers to share their work for feedback. They also ask\nwriters to use AI only for grammar while preserving their own voice.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://domstamand.com/azure-service-bus-what-to-watch-out-for",
+    "title": "Azure Service Bus - what to watch out for",
+    "source": "Franky's Notes",
+    "publisher": "domstamand.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://www.frankysnotes.com/feeds/posts/default?alt=rss",
+        "seen_at": "2026-11-17T03:41:26Z",
+        "via_item": "https://www.frankysnotes.com/2026/09/reading-notes-714.html",
+        "section": "Cloud"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [
+      "Messaging and events"
+    ],
+    "reason": "Azure Service Bus concerns messaging, but Azure\n cloud services are outside this reader's interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry",
+    "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+    "source": "Hacker News",
+    "publisher": "Xusheng Li",
+    "publisher_source": "page",
+    "author": null,
+    "published": "2026-11-16T05:00:00Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-17T03:41:26Z"
+      }
+    ],
+    "state": "scored",
+    "score": 8,
+    "tags": [
+      "Coding agents",
+      "Security"
+    ],
+    "reason": "It reveals Windows telemetry about\ncoding-agent usage, raising privacy questions for developers who use these tools daily.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": true,
+    "summary": "Reverse engineering Windows 11's MissionControlAggregator reveals coding-agent and developer-tool usage bits in a diagnostic ETW report.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": {
+        "points": 321,
+        "comments": 192
+      },
+      "bluesky": {
+        "likes": 2
+      }
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://bugmenot.com/",
+    "title": "BugMeNot has closed",
+    "source": "Hacker News",
+    "publisher": "bugmenot.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-17T03:41:26Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "BugMeNot's closure is unrelated to .NET, software engineering, or the\n AI and developer tools this reader follows.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": {
+        "points": 376,
+        "comments": 187
+      },
+      "bluesky": {
+        "likes": 43
+      }
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://cs.cmu.edu/learn/index",
+    "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+    "source": "Hacker News",
+    "publisher": "CMU School of Computer Science",
+    "publisher_source": "page",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-17T03:41:26Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "It is a free computer science course offering, and courses are\nexplicitly outside this reader's interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Free lectures from Carnegie Mellon's Kenneth C. Griffin School of Computer Science, now on YouTube. Self-paced courseware comes next.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": null
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://blog.startifact.com/posts/how-rust-changed-me",
+    "title": "Rust changed me as a developer",
+    "source": "Hacker News",
+    "publisher": "Secret Weblog",
+    "publisher_source": "page",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-17T03:41:26Z"
+      }
+    ],
+    "state": "scored",
+    "score": 5,
+    "tags": [
+      "Software design"
+    ],
+    "reason": "It offers transferable lessons about sum types,\ndispatch, type-driven design, and abstraction tradeoffs for a .NET developer.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "The author\n explains how Rust reshaped their thinking about enums, static and dynamic dispatch, type-driven\ndevelopment, and compile-time metaprogramming. They argue these features improve domain modelling,\nperformance awareness, and software design.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": {
+        "points": 205,
+        "comments": 131
+      },
+      "bluesky": {
+        "likes": 0
+      }
+    },
+    "heat": 2
+  },
+  {
+    "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+    "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+    "source": "Hacker News",
+    "publisher": "apnews.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-17T03:41:26Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "This concerns a banking service outage, not .NET, software\nengineering practice, or tools relevant to the reader.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": {
+        "points": 733,
+        "comments": 608
+      },
+      "bluesky": {
+        "likes": 250
+      }
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level",
+    "title": "Software is breaking down at a systemic level",
+    "source": "Hacker News",
+    "publisher": "breck-mckye.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-17T03:41:26Z"
+      }
+    ],
+    "state": "unscored",
+    "score": null,
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": {
+        "points": 346,
+        "comments": 222
+      },
+      "bluesky": {
+        "likes": 18
+      }
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://burntsushi.net/jiff",
+    "title": "Jiff 1.0: A datetime library for Rust",
+    "source": "Hacker News",
+    "publisher": "burntsushi.net",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-17T03:41:26Z"
+      }
+    ],
+    "state": "scored",
+    "score": 4,
+    "tags": [
+      "API design",
+      "Software design"
+    ],
+    "reason": "Its treatment of time-zone ambiguity\noffers transferable API-design lessons, but the Rust-specific library is outside this reader’s main\ntechnology stack.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": true,
+    "summary": "The article announces Jiff 1.0, a Rust datetime library designed to\nmake time-zone and daylight-saving handling safer. It tours the library’s types, parsing,\nformatting, arithmetic, ambiguity strategies, and production-stability commitments.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": {
+        "points": 330,
+        "comments": 77
+      },
+      "bluesky": {
+        "likes": 185
+      }
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://trmnl.com/blog/introducing-frame",
+    "title": "Frame – 31.5\" color ePaper display",
+    "source": "Hacker News",
+    "publisher": "TRMNL",
+    "publisher_source": "page",
+    "author": null,
+    "published": "2026-11-16T00:00:00Z",
+    "published_source": "jsonld",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-17T03:41:26Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "This is a consumer ePaper display launch, outside the reader's .NET,\nsoftware engineering, and coding-tool interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "TRMNL announces Frame, a 31.5-inch\ncolor ePaper display in a handmade wooden frame. The article covers its features, offline operation,\n manufacturing supply chain, pre-order availability, and planned fulfillment schedule.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": {
+        "points": 331,
+        "comments": 235
+      },
+      "bluesky": {
+        "likes": 9
+      }
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess",
+    "title": "Nvidia was in trouble before the Jensen Huang mess",
+    "source": "Hacker News",
+    "publisher": "WIRED",
+    "publisher_source": "page",
+    "author": null,
+    "published": "2026-11-16T11:00:00Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-17T03:41:26Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "This is primarily semiconductor-company strategy and AI-industry\nbusiness reporting, which falls outside the reader's stated interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "The article\nargues Nvidia faces growing competition from AMD, hyperscalers, startups, and Chinese chipmakers. It\n also suggests AI-assisted code portability could weaken CUDA's advantage and compares Nvidia's\nrisks to Intel's decline.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": {
+        "points": 260,
+        "comments": 235
+      },
+      "bluesky": {
+        "likes": 266
+      }
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint",
+    "title": "Whistleblower accuses Pentagon over Iran strike on US base that killed 6",
+    "source": "Hacker News",
+    "publisher": "CNN",
+    "publisher_source": "page",
+    "author": null,
+    "published": "2026-11-16T00:32:10Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-17T03:41:26Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "This military whistleblower report does not concern .NET, software\nengineering, databases, cloud hosting, or the reader’s development tools.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "One of the US Army soldiers that survived an Iranian strike that hit a makeshift operations center in Kuwait and killed six has submitted a whistleblower complaint alleging that the Pentagon did not listen to concerns about the lack of proper protection for troops, CBS reported Sunday.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": {
+        "points": 219,
+        "comments": 75
+      },
+      "bluesky": {
+        "likes": 25
+      }
+    },
+    "heat": 2
+  },
+  {
+    "url": "https://jack.cab/blog/siterate.html",
+    "title": "What is w2rt6byl5nf1opmc-a.com?",
+    "source": "Hacker News",
+    "publisher": "Jack.cab",
+    "publisher_source": "page",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-17T03:41:26Z"
+      }
+    ],
+    "state": "scored",
+    "score": 2,
+    "tags": [],
+    "reason": "It is an entertaining investigation of a backlink-ranking data error,\n but it has little practical relevance to .NET development or coding-agent practice.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "The\n author investigates why a newly registered, nonexistent domain appears among the world's\nmost-linked websites. Majestic explains that the domain was included for internal experimentation\nand accidentally exposed without an appropriate filter.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": null,
+      "bluesky": {
+        "likes": 0
+      }
+    },
+    "heat": 0
+  },
+  {
+    "url": "https://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w",
+    "title": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
+    "source": "Hacker News",
+    "publisher": "Groundwork Collaborative",
+    "publisher_source": "page",
+    "author": null,
+    "published": "2026-11-16T12:59:10Z",
+    "published_source": "jsonld",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-17T03:41:26Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "It concerns Amazon retail pricing practices, not .NET, software\nengineering, databases, or the AI and developer tools this reader follows.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "A Groundwork\nCollaborative investigation found that nearly one-third of Amazon Black Friday and Cyber Monday\ndeals in 2024 and 2025 offered no genuine savings. Nearly one in ten products cost more during the\nadvertised sale than in the preceding month.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": {
+        "points": 860,
+        "comments": 515
+      },
+      "bluesky": {
+        "likes": 2
+      }
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+    "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+    "source": "Hacker News",
+    "publisher": "theregister.com",
+    "publisher_source": "host",
+    "author": null,
+    "published": "2026-11-16T00:00:00Z",
+    "published_source": "slug",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-17T03:41:26Z"
+      }
+    ],
+    "state": "scored",
+    "score": 3,
+    "tags": [],
+    "reason": "A Microsoft email outage is a general reliability story, but the\ntitle offers no specific connection to .NET, tooling, or the reader's core interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": true,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": {
+        "points": 244,
+        "comments": 176
+      },
+      "bluesky": {
+        "likes": 49
+      }
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean",
+    "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
+    "source": "Hacker News",
+    "publisher": "Xena",
+    "publisher_source": "page",
+    "author": null,
+    "published": "2026-11-12T00:50:07Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-17T03:41:26Z"
+      }
+    ],
+    "state": "scored",
+    "score": 1,
+    "tags": [],
+    "reason": "It discusses Lean theorem verification, which is outside this\nreader's .NET, software engineering, and coding-agent interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "This post is an attempt to explain in simple terms how to interpret claims of the form “this theorem is correct because it was checked in Lean”. The summary is: there is an important si…",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": {
+        "points": 291,
+        "comments": 132
+      },
+      "bluesky": {
+        "likes": 179
+      }
+    },
+    "heat": 2
+  },
+  {
+    "url": "https://pub.cba.mit.edu/863.26/site",
+    "title": "How to make almost anything",
+    "source": "Hacker News",
+    "publisher": "pub.cba.mit.edu",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-17T03:41:26Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "This is a course schedule, which is explicitly excluded regardless of\n its occasional references to AI agents, debugging, and programming.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "The article lists\nthe schedule for a hands-on course covering computer-aided design, electronics, programming,\nfabrication, networking, and machine building. It includes recitations, project development, final\nassignments, presentations, an exam, and an open house.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": {
+        "points": 847,
+        "comments": 144
+      },
+      "bluesky": {
+        "likes": 9
+      }
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://qwen.ai/blog?id=qwen4-max",
+    "title": "Qwen4-Max",
+    "source": "Hacker News",
+    "publisher": "qwen.ai",
+    "publisher_source": "host",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-17T03:41:26Z"
+      }
+    ],
+    "state": "scored",
+    "score": 7,
+    "tags": [
+      "LLMs",
+      "Releases"
+    ],
+    "reason": "A likely new model release is relevant to someone\nusing AI coding tools, but the title alone provides no evidence about its capabilities or\nusefulness.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": true,
+    "summary_source": "title-only",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": {
+        "points": 854,
+        "comments": 471
+      },
+      "bluesky": {
+        "likes": 222
+      }
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://iter.ca/post/ubo-uxss",
+    "title": "Universal XSS in uBlock Origin from website-driven element picker",
+    "source": "Hacker News",
+    "publisher": "loops",
+    "publisher_source": "page",
+    "author": null,
+    "published": null,
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-17T03:41:26Z"
+      }
+    ],
+    "state": "scored",
+    "score": 9,
+    "tags": [
+      "Security",
+      "Coding agents",
+      "LLMs"
+    ],
+    "reason": "A detailed, practical\nbrowser-extension vulnerability analysis with an unusually concrete example of AI-assisted security\nresearch and exploit verification.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": true,
+    "summary": "The article explains how uBlock Origin's element\npicker could be manipulated by a malicious website to inject trusted filters and execute JavaScript\nacross sites. It details the attack chain, extension UUID discovery, message abuse, invisible iframe\n interaction, and fixes, while describing GPT-5.6 Sol and Claude's roles.",
+    "summary_source": "extracted",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": {
+        "points": 601,
+        "comments": 175
+      },
+      "bluesky": {
+        "likes": 32
+      }
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+    "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+    "source": "Hacker News",
+    "publisher": "Tor Project Forum",
+    "publisher_source": "page",
+    "author": null,
+    "published": "2026-11-13T19:35:15Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-17T03:41:26Z"
+      }
+    ],
+    "state": "scored",
+    "score": 4,
+    "tags": [
+      "Security",
+      "Releases",
+      "Distributed systems"
+    ],
+    "reason": "A security release\naddressing IPv6 relay DoS defenses offers useful operational lessons, though it is outside the\nreader’s primary .NET focus.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Where to Download Tarballs Gitlab Repository Bug Report Changes Below are the major changes of the released versions and links to more detailed release notes. Stable Today, we are releasing 0.4.9.17, which includes a series of security fixes. One fix in particular is especially important for relay DoS defenses related to IPv6 handling. This release comes in rapid response to the ongoing DDoS attack on the network, which has affected most relay operators. This is not an easy problem to addres...",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": {
+        "points": 243,
+        "comments": 66
+      },
+      "bluesky": {
+        "likes": 90
+      }
+    },
+    "heat": 2
+  },
+  {
+    "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia",
+    "title": "What's Next for Nvidia?",
+    "source": "Hacker News",
+    "publisher": "Steve Blank",
+    "publisher_source": "page",
+    "author": null,
+    "published": "2026-11-15T22:15:04Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-17T03:41:26Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "This is general corporate leadership news about Nvidia, outside the\nreader's .NET, software engineering, and developer-tool interests.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "Nvidia’s board announced that Jensen Huang had resigned 33 years after he co-founded the company. What happens to a company when a visionary CEO is gone? Most often innovation dies and the company …",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": {
+        "points": 465,
+        "comments": 571
+      },
+      "bluesky": {
+        "likes": 2
+      }
+    },
+    "heat": 3
+  },
+  {
+    "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism",
+    "title": "Preserving 30 years of Salon journalism",
+    "source": "Hacker News",
+    "publisher": "Internet Archive Blogs - Updates from the Internet Archive",
+    "publisher_source": "page",
+    "author": null,
+    "published": "2026-11-12T16:55:50Z",
+    "published_source": "og",
+    "arrivals": [
+      {
+        "feed_id": "https://news.ycombinator.com/",
+        "seen_at": "2026-11-17T03:41:26Z"
+      }
+    ],
+    "state": "judged",
+    "score": 0,
+    "tags": [],
+    "reason": "This is general media history and does not concern .NET, software\nengineering, or the AI coding tools this reader uses.",
+    "profile_version": "e04fd8aa1d3e7262fc4189865eeb8e46ce31b54daadc64693339687b186934a6",
+    "lift": false,
+    "summary": "When Salon launched in 1995, the web was still finding its voice. One of the first major publications born on the internet, Salon helped define a new kind of digital journalism, bringing together politics, culture, criticism, and ideas for a generation of online readers. After 31 years, Salon has announced that it is ceasing publication.",
+    "summary_source": "og",
+    "popularity": {
+      "measured_at": "2026-11-17T03:41:26Z",
+      "hn": {
+        "points": 213,
+        "comments": 57
+      },
+      "bluesky": {
+        "likes": 512
+      }
+    },
+    "heat": 3
   }
 ]
